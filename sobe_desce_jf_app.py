@@ -237,8 +237,8 @@ with tab1:
         #filtered_df.reset_index(inplace=True)   
         
         #if toggle_circles:
-        map_center = [filtered_df['stop_lat'].mean(), filtered_df['stop_lon'].mean()]
-        m = folium.Map(location=map_center, zoom_start=14)
+        #map_center = [filtered_df['stop_lat'].mean(), filtered_df['stop_lon'].mean()]
+        #m = folium.Map(location=map_center, zoom_start=14)
     
         min_val = filtered_df[data_type].min()
         max_val = filtered_df[data_type].max()
@@ -326,7 +326,7 @@ with tab1:
         #st.subheader("Route Data")
         #st.dataframe(filtered_df[['stopsequence', 'stopname', 'boarding', 'landing', 'occupation']])
         #st_folium(m, width=1100, height=900)
-        folium_static(m, width=1100, height=900)
+        folium_static(m, width=1000, height=800)
         
     else:
         st.warning("No data available for the selected filters.")
