@@ -182,6 +182,14 @@ filtered_df = df[
 for c in ['routeshortname', 'hour', 'day_of_week']:
     print(c,':',filtered_df[c].unique()) 
 #%%
+numeric_columns = filtered_df.select_dtypes(include=['number']).columns
+non_numeric_columns = filtered_df.select_dtypes(exclude=['number']).columns
+import warnings
+warnings.filterwarnings("ignore", category=FutureWarning)
+
+#print("Numeric Columns:", numeric_columns)
+#print("Non-Numeric Columns:", non_numeric_columns)
+
 df1=filtered_df.groupby(['routeshortname','hour','stop_lon', 'stop_lat','stopname']).aggregate(np.mean)
 df1.reset_index(inplace=True)
 #%%
