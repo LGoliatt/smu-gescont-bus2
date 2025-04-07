@@ -1,0 +1,1486 @@
+routeshortname,routelongname,departuretime,stopsequence,boarding,landing,occupation,day,stop_lon,stop_lat,stopname
+301,Usina Quatro,06:30,1,0,0,0,2024-11-01,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,06:30,2,5,0,5,2024-11-01,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,06:30,3,0,0,5,2024-11-01,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,06:30,4,0,0,5,2024-11-01,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,06:30,5,0,0,5,2024-11-01,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,06:30,6,0,0,5,2024-11-01,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,06:30,7,0,0,5,2024-11-01,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,06:30,8,0,0,5,2024-11-01,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,06:30,9,0,1,4,2024-11-01,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,06:30,10,0,0,4,2024-11-01,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,06:30,11,1,2,3,2024-11-01,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,06:30,12,0,3,0,2024-11-01,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,06:30,13,0,0,0,2024-11-01,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,06:30,14,1,0,1,2024-11-01,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,06:30,15,0,0,1,2024-11-01,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,06:30,16,1,0,2,2024-11-01,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,06:30,17,0,0,2,2024-11-01,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,06:30,18,0,0,2,2024-11-01,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,06:30,19,0,0,2,2024-11-01,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,06:30,20,0,0,2,2024-11-01,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,06:30,21,0,0,2,2024-11-01,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,06:30,22,0,0,2,2024-11-01,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,06:30,23,0,0,2,2024-11-01,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,06:30,24,0,0,2,2024-11-01,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,06:30,25,0,0,2,2024-11-01,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,06:30,26,0,0,2,2024-11-01,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,27,0,0,2,2024-11-01,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,28,0,0,2,2024-11-01,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,29,0,0,2,2024-11-01,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,30,0,0,2,2024-11-01,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,31,0,0,2,2024-11-01,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,06:30,32,0,0,2,2024-11-01,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,07:30,1,0,0,0,2024-11-01,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,07:30,2,4,0,4,2024-11-01,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,07:30,3,0,0,4,2024-11-01,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,07:30,4,1,0,5,2024-11-01,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,07:30,5,1,0,6,2024-11-01,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,07:30,6,0,0,6,2024-11-01,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,07:30,7,0,0,6,2024-11-01,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,07:30,8,1,0,7,2024-11-01,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,07:30,9,0,1,6,2024-11-01,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,07:30,10,0,0,6,2024-11-01,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,07:30,11,0,2,4,2024-11-01,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,07:30,12,0,4,0,2024-11-01,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,07:30,13,0,0,0,2024-11-01,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,07:30,14,1,0,1,2024-11-01,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,07:30,15,0,0,1,2024-11-01,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,07:30,16,0,0,1,2024-11-01,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,07:30,17,0,0,1,2024-11-01,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,07:30,18,0,0,1,2024-11-01,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,07:30,19,0,0,1,2024-11-01,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,07:30,20,0,0,1,2024-11-01,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,07:30,21,0,0,1,2024-11-01,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,07:30,22,0,0,1,2024-11-01,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,07:30,23,0,0,1,2024-11-01,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,07:30,24,0,0,1,2024-11-01,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,07:30,25,0,0,1,2024-11-01,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,07:30,26,0,0,1,2024-11-01,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,27,0,0,1,2024-11-01,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,28,0,0,1,2024-11-01,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,29,0,0,1,2024-11-01,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,30,0,0,1,2024-11-01,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,31,0,0,1,2024-11-01,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,07:30,32,0,0,1,2024-11-01,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,22:10,1,0,0,0,2024-11-01,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,22:10,2,2,0,2,2024-11-01,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,22:10,3,1,0,3,2024-11-01,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,22:10,4,0,0,3,2024-11-01,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,22:10,5,0,0,3,2024-11-01,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,22:10,6,2,0,5,2024-11-01,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,22:10,7,0,0,5,2024-11-01,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,22:10,8,0,0,5,2024-11-01,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,22:10,9,0,1,4,2024-11-01,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,22:10,10,0,0,4,2024-11-01,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,22:10,11,1,2,3,2024-11-01,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,22:10,12,0,3,0,2024-11-01,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,22:10,13,0,0,0,2024-11-01,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,22:10,14,0,0,0,2024-11-01,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,22:10,15,0,0,0,2024-11-01,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,22:10,16,0,0,0,2024-11-01,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,22:10,17,0,0,0,2024-11-01,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,22:10,18,0,0,0,2024-11-01,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,22:10,19,0,0,0,2024-11-01,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,22:10,20,0,0,0,2024-11-01,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,22:10,21,0,0,0,2024-11-01,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,22:10,22,0,0,0,2024-11-01,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,22:10,23,0,0,0,2024-11-01,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,22:10,24,0,0,0,2024-11-01,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,22:10,25,0,0,0,2024-11-01,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,22:10,26,0,0,0,2024-11-01,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,27,0,0,0,2024-11-01,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,28,0,0,0,2024-11-01,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,29,0,0,0,2024-11-01,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,30,0,0,0,2024-11-01,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,31,0,0,0,2024-11-01,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,22:10,32,0,0,0,2024-11-01,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,22:40,1,0,0,0,2024-11-01,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,22:40,2,0,0,0,2024-11-01,-43.31677628,-21.81897926,"LMG-874 Estrada União e Indústria, 13895"
+301,Usina Quatro,22:40,3,0,0,0,2024-11-01,-43.31710434,-21.81098557,LMG-874 Estrada União e Indústria norte
+301,Usina Quatro,22:40,4,0,0,0,2024-11-01,-43.31519046,-21.8098023,LMG-874 Estrada União e Indústria norte
+301,Usina Quatro,22:40,5,0,0,0,2024-11-01,-43.310027,-21.79857619,LMG-874 Estrada União e Indústria norte
+301,Usina Quatro,22:40,6,0,0,0,2024-11-01,-43.30672073,-21.7954216,LMG-874 Estrada União e Indústria norte
+301,Usina Quatro,22:40,7,0,0,0,2024-11-01,-43.30552334,-21.79408127,LMG-874 Estrada União e Indústria norte
+301,Usina Quatro,22:40,8,0,0,0,2024-11-01,-43.30311995,-21.79427434,Rua Renato Francisco Corrêa de Mello
+301,Usina Quatro,22:40,9,0,0,0,2024-11-01,-43.30176544,-21.79474397,"Rua Renato Francisco Corrêa de Mello, 32"
+301,Usina Quatro,22:40,10,0,0,0,2024-11-01,-43.30077956,-21.79531892,"Rua Renato Francisco Corrêa de Mello, 142"
+301,Usina Quatro,22:40,11,0,0,0,2024-11-01,-43.30027799,-21.79561528,"Rua Renato Francisco Corrêa de Mello, 18"
+301,Usina Quatro,22:40,12,0,0,0,2024-11-01,-43.29966645,-21.79637238,"Rua Arthur Andreolli, 32"
+301,Usina Quatro,22:40,13,0,0,0,2024-11-01,-43.30012242,-21.79670112,"Rua Eusébio Antônio Esteves, 13"
+301,Usina Quatro,22:40,14,0,0,0,2024-11-01,-43.30072707,-21.79562752,"Rua Eusébio Antônio Esteves, 41"
+301,Usina Quatro,22:40,15,0,0,0,2024-11-01,-43.30210189,-21.79392424,"Rua Hilda Belini da Silva, 26"
+301,Usina Quatro,22:40,16,0,0,0,2024-11-01,-43.30074227,-21.79467032,"Rua Hilda Bellini da Silva, 20"
+301,Usina Quatro,22:40,17,0,0,0,2024-11-01,-43.29971552,-21.79529975,"Rua Hilda Bellini da Silva, 29"
+301,Usina Quatro,22:40,18,0,0,0,2024-11-01,-43.30017119,-21.79559491,"Rua Renato Francisco Corrêa de Mello, 807"
+301,Usina Quatro,22:40,19,0,0,0,2024-11-01,-43.30078506,-21.79516893,"Rua Renato Francisco Corrêa de Mello, 139 - Ponto Final do Granjas Bethel"
+301,Usina Quatro,22:40,20,0,0,0,2024-11-01,-43.30182648,-21.79463397,Rua Renato Francisco Corrêa de Mello
+301,Usina Quatro,22:40,21,0,0,0,2024-11-01,-43.3033371,-21.79415289,Rua Renato Francisco Corrêa de Mello
+301,Usina Quatro,22:40,22,0,0,0,2024-11-01,-43.30561001,-21.79388861,"Rua Renato Francisco Corrêa de Mello, 15"
+301,Usina Quatro,22:40,23,0,0,0,2024-11-01,-43.30500257,-21.79125071,BR-267 oeste - Trevo LMG-874
+301,Usina Quatro,22:40,24,0,0,0,2024-11-01,-43.30514145,-21.7893734,BR-267 oeste
+301,Usina Quatro,22:40,25,0,0,0,2024-11-01,-43.31121063,-21.78772926,BR-267 oeste
+301,Usina Quatro,22:40,26,0,0,0,2024-11-01,-43.31265259,-21.79029465,BR-267 oeste
+301,Usina Quatro,22:40,27,0,0,0,2024-11-01,-43.32365036,-21.79171181,BR-267 oeste
+301,Usina Quatro,22:40,28,0,0,0,2024-11-01,-43.32560349,-21.78953171,BR-267 oeste
+301,Usina Quatro,22:40,29,0,0,0,2024-11-01,-43.32250977,-21.78697968,BR-267 oeste
+301,Usina Quatro,22:40,30,0,0,0,2024-11-01,-43.32152546,-21.78096666,"Avenida Francisco Valadares, 3050"
+301,Usina Quatro,22:40,31,0,0,0,2024-11-01,-43.32316589,-21.77812386,"Avenida Francisco Valadares, 2785"
+301,Usina Quatro,22:40,32,0,0,0,2024-11-01,-43.32615662,-21.77806854,"Avenida Francisco Valadares, 2235"
+301,Usina Quatro,22:40,33,0,0,0,2024-11-01,-43.32843781,-21.77757072,"Avenida Francisco Valadares, 1931"
+301,Usina Quatro,22:40,34,4,0,4,2024-11-01,-43.32972521,-21.77729961,"Avenida Francisco Valadares, 1811"
+301,Usina Quatro,22:40,35,2,0,6,2024-11-01,-43.33044052,-21.77557945,"Avenida Francisco Valadares, 1301"
+301,Usina Quatro,22:40,36,0,0,6,2024-11-01,-43.33037904,-21.77187245,"Avenida Francisco Valadares, 1001"
+301,Usina Quatro,22:40,37,0,0,6,2024-11-01,-43.33056406,-21.77010134,"Avenida Francisco Valadare, 701 - Ponte"
+301,Usina Quatro,22:40,38,1,0,7,2024-11-01,-43.33286512,-21.76921331,"Avenida Francisco Valadares, 447"
+301,Usina Quatro,22:40,39,0,1,6,2024-11-01,-43.33517822,-21.76943099,"Avenida Francisco Valadares, 231"
+301,Usina Quatro,22:40,40,0,0,6,2024-11-01,-43.33722355,-21.7690805,"Rua Osório de Almeida, 969"
+301,Usina Quatro,22:40,41,0,1,5,2024-11-01,-43.3367013,-21.76583068,"Praça Pantaleone Arcuri Neto, 187"
+301,Usina Quatro,22:40,42,0,1,4,2024-11-01,-43.3385681,-21.76444435,"Rua Pinto de Moura, 87"
+301,Usina Quatro,22:40,43,0,1,3,2024-11-01,-43.3399859,-21.76240487,"Rua da Bahia, 31"
+301,Usina Quatro,22:40,44,0,3,0,2024-11-01,-43.34353638,-21.75967216,"Avenida Francisco Bernardino, 162"
+301,Usina Quatro,22:40,45,0,0,0,2024-11-01,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,06:30,1,0,0,0,2024-11-04,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,06:30,2,3,0,3,2024-11-04,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,06:30,3,0,0,3,2024-11-04,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,06:30,4,0,0,3,2024-11-04,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,06:30,5,1,0,4,2024-11-04,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,06:30,6,0,0,4,2024-11-04,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,06:30,7,0,0,4,2024-11-04,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,06:30,8,0,0,4,2024-11-04,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,06:30,9,0,1,3,2024-11-04,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,06:30,10,0,0,3,2024-11-04,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,06:30,11,0,2,1,2024-11-04,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,06:30,12,0,1,0,2024-11-04,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,06:30,13,0,0,0,2024-11-04,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,06:30,14,1,0,1,2024-11-04,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,06:30,15,0,0,1,2024-11-04,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,06:30,16,1,0,2,2024-11-04,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,06:30,17,0,0,2,2024-11-04,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,06:30,18,0,0,2,2024-11-04,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,06:30,19,0,0,2,2024-11-04,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,06:30,20,0,0,2,2024-11-04,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,06:30,21,0,0,2,2024-11-04,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,06:30,22,0,0,2,2024-11-04,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,06:30,23,0,0,2,2024-11-04,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,06:30,24,0,0,2,2024-11-04,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,06:30,25,0,0,2,2024-11-04,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,06:30,26,0,0,2,2024-11-04,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,27,0,0,2,2024-11-04,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,28,0,0,2,2024-11-04,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,29,0,0,2,2024-11-04,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,30,0,0,2,2024-11-04,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,31,1,0,3,2024-11-04,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,06:30,32,0,0,3,2024-11-04,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,11:10,1,0,0,0,2024-11-04,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,11:10,2,8,0,8,2024-11-04,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,11:10,3,0,0,8,2024-11-04,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,11:10,4,0,0,8,2024-11-04,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,11:10,5,0,0,8,2024-11-04,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,11:10,6,0,0,8,2024-11-04,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,11:10,7,0,0,8,2024-11-04,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,11:10,8,0,0,8,2024-11-04,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,11:10,9,0,1,7,2024-11-04,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,11:10,10,0,0,7,2024-11-04,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,11:10,11,0,2,5,2024-11-04,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,11:10,12,0,4,1,2024-11-04,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,11:10,13,0,0,1,2024-11-04,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,11:10,14,0,0,1,2024-11-04,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,11:10,15,0,0,1,2024-11-04,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,11:10,16,0,0,1,2024-11-04,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,11:10,17,0,0,1,2024-11-04,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,11:10,18,0,0,1,2024-11-04,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,11:10,19,0,0,1,2024-11-04,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,11:10,20,0,0,1,2024-11-04,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,11:10,21,0,0,1,2024-11-04,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,11:10,22,0,0,1,2024-11-04,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,11:10,23,0,0,1,2024-11-04,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,11:10,24,0,0,1,2024-11-04,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,11:10,25,0,0,1,2024-11-04,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,11:10,26,0,0,1,2024-11-04,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,27,0,0,1,2024-11-04,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,28,0,0,1,2024-11-04,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,29,0,0,1,2024-11-04,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,30,0,0,1,2024-11-04,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,31,0,0,1,2024-11-04,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,11:10,32,0,0,1,2024-11-04,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,07:30,1,0,0,0,2024-11-13,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,07:30,2,3,0,3,2024-11-13,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,07:30,3,2,0,5,2024-11-13,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,07:30,4,1,0,6,2024-11-13,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,07:30,5,0,0,6,2024-11-13,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,07:30,6,0,0,6,2024-11-13,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,07:30,7,1,0,7,2024-11-13,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,07:30,8,0,0,7,2024-11-13,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,07:30,9,1,1,7,2024-11-13,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,07:30,10,0,0,7,2024-11-13,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,07:30,11,0,2,5,2024-11-13,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,07:30,12,0,4,1,2024-11-13,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,07:30,13,0,0,1,2024-11-13,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,07:30,14,0,0,1,2024-11-13,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,07:30,15,0,0,1,2024-11-13,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,07:30,16,0,0,1,2024-11-13,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,07:30,17,0,0,1,2024-11-13,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,07:30,18,0,0,1,2024-11-13,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,07:30,19,0,0,1,2024-11-13,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,07:30,20,0,0,1,2024-11-13,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,07:30,21,0,0,1,2024-11-13,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,07:30,22,0,0,1,2024-11-13,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,07:30,23,0,0,1,2024-11-13,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,07:30,24,0,0,1,2024-11-13,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,07:30,25,0,0,1,2024-11-13,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,07:30,26,0,0,1,2024-11-13,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,27,0,0,1,2024-11-13,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,28,0,0,1,2024-11-13,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,29,0,0,1,2024-11-13,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,30,0,0,1,2024-11-13,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,31,0,0,1,2024-11-13,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,07:30,32,0,0,1,2024-11-13,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,15:10,1,0,0,0,2024-11-13,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,15:10,2,3,0,3,2024-11-13,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,15:10,3,0,0,3,2024-11-13,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,15:10,4,0,0,3,2024-11-13,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,15:10,5,0,0,3,2024-11-13,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,15:10,6,0,0,3,2024-11-13,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,15:10,7,0,0,3,2024-11-13,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,15:10,8,0,0,3,2024-11-13,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,15:10,9,0,1,2,2024-11-13,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,15:10,10,0,0,2,2024-11-13,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,15:10,11,0,2,0,2024-11-13,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,15:10,12,1,0,1,2024-11-13,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,15:10,13,1,0,2,2024-11-13,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,15:10,14,0,0,2,2024-11-13,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,15:10,15,0,0,2,2024-11-13,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,15:10,16,0,0,2,2024-11-13,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,15:10,17,0,0,2,2024-11-13,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,15:10,18,0,0,2,2024-11-13,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,15:10,19,0,0,2,2024-11-13,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,15:10,20,0,0,2,2024-11-13,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,15:10,21,0,0,2,2024-11-13,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,15:10,22,0,0,2,2024-11-13,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,15:10,23,0,0,2,2024-11-13,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,15:10,24,0,0,2,2024-11-13,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,15:10,25,0,0,2,2024-11-13,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,15:10,26,0,0,2,2024-11-13,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,27,0,0,2,2024-11-13,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,28,0,0,2,2024-11-13,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,29,0,0,2,2024-11-13,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,30,1,0,3,2024-11-13,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,31,0,0,3,2024-11-13,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,15:10,32,0,0,3,2024-11-13,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,22:10,1,0,0,0,2024-11-13,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,22:10,2,5,0,5,2024-11-13,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,22:10,3,1,0,6,2024-11-13,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,22:10,4,0,0,6,2024-11-13,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,22:10,5,0,0,6,2024-11-13,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,22:10,6,0,0,6,2024-11-13,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,22:10,7,0,0,6,2024-11-13,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,22:10,8,0,0,6,2024-11-13,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,22:10,9,0,1,5,2024-11-13,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,22:10,10,1,0,6,2024-11-13,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,22:10,11,0,2,4,2024-11-13,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,22:10,12,0,4,0,2024-11-13,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,22:10,13,0,0,0,2024-11-13,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,22:10,14,0,0,0,2024-11-13,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,22:10,15,0,0,0,2024-11-13,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,22:10,16,0,0,0,2024-11-13,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,22:10,17,0,0,0,2024-11-13,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,22:10,18,0,0,0,2024-11-13,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,22:10,19,0,0,0,2024-11-13,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,22:10,20,0,0,0,2024-11-13,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,22:10,21,0,0,0,2024-11-13,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,22:10,22,0,0,0,2024-11-13,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,22:10,23,0,0,0,2024-11-13,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,22:10,24,0,0,0,2024-11-13,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,22:10,25,0,0,0,2024-11-13,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,22:10,26,0,0,0,2024-11-13,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,27,0,0,0,2024-11-13,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,28,0,0,0,2024-11-13,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,29,0,0,0,2024-11-13,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,30,0,0,0,2024-11-13,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,31,0,0,0,2024-11-13,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,22:10,32,0,0,0,2024-11-13,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,11:10,1,0,0,0,2024-11-05,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,11:10,2,5,0,5,2024-11-05,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,11:10,3,0,0,5,2024-11-05,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,11:10,4,0,0,5,2024-11-05,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,11:10,5,0,0,5,2024-11-05,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,11:10,6,0,0,5,2024-11-05,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,11:10,7,0,0,5,2024-11-05,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,11:10,8,0,0,5,2024-11-05,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,11:10,9,0,1,4,2024-11-05,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,11:10,10,0,0,4,2024-11-05,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,11:10,11,0,2,2,2024-11-05,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,11:10,12,0,2,0,2024-11-05,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,11:10,13,0,0,0,2024-11-05,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,11:10,14,0,0,0,2024-11-05,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,11:10,15,1,0,1,2024-11-05,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,11:10,16,0,0,1,2024-11-05,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,11:10,17,0,0,1,2024-11-05,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,11:10,18,0,0,1,2024-11-05,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,11:10,19,0,0,1,2024-11-05,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,11:10,20,0,0,1,2024-11-05,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,11:10,21,0,0,1,2024-11-05,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,11:10,22,0,0,1,2024-11-05,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,11:10,23,0,0,1,2024-11-05,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,11:10,24,0,0,1,2024-11-05,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,11:10,25,0,0,1,2024-11-05,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,11:10,26,0,0,1,2024-11-05,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,27,0,0,1,2024-11-05,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,28,0,0,1,2024-11-05,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,29,0,0,1,2024-11-05,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,30,0,0,1,2024-11-05,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,31,0,0,1,2024-11-05,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,11:10,32,0,0,1,2024-11-05,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,09:55,1,0,0,0,2024-11-06,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,09:55,2,6,0,6,2024-11-06,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,09:55,3,0,0,6,2024-11-06,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,09:55,4,0,0,6,2024-11-06,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,09:55,5,0,0,6,2024-11-06,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,09:55,6,0,0,6,2024-11-06,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,09:55,7,0,0,6,2024-11-06,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,09:55,8,0,0,6,2024-11-06,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,09:55,9,0,1,5,2024-11-06,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,09:55,10,0,0,5,2024-11-06,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,09:55,11,0,2,3,2024-11-06,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,09:55,12,0,3,0,2024-11-06,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,09:55,13,0,0,0,2024-11-06,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,09:55,14,0,0,0,2024-11-06,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,09:55,15,0,0,0,2024-11-06,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,09:55,16,0,0,0,2024-11-06,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,09:55,17,0,0,0,2024-11-06,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,09:55,18,0,0,0,2024-11-06,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,09:55,19,0,0,0,2024-11-06,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,09:55,20,0,0,0,2024-11-06,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,09:55,21,0,0,0,2024-11-06,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,09:55,22,0,0,0,2024-11-06,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,09:55,23,0,0,0,2024-11-06,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,09:55,24,0,0,0,2024-11-06,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,09:55,25,1,0,1,2024-11-06,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,09:55,26,0,0,1,2024-11-06,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,27,0,0,1,2024-11-06,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,28,0,0,1,2024-11-06,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,29,0,0,1,2024-11-06,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,30,0,0,1,2024-11-06,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,31,0,0,1,2024-11-06,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,09:55,32,0,0,1,2024-11-06,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,22:10,1,0,0,0,2024-11-06,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,22:10,2,6,0,6,2024-11-06,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,22:10,3,2,0,8,2024-11-06,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,22:10,4,0,0,8,2024-11-06,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,22:10,5,0,0,8,2024-11-06,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,22:10,6,0,0,8,2024-11-06,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,22:10,7,0,0,8,2024-11-06,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,22:10,8,0,0,8,2024-11-06,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,22:10,9,0,1,7,2024-11-06,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,22:10,10,0,0,7,2024-11-06,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,22:10,11,0,2,5,2024-11-06,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,22:10,12,0,4,1,2024-11-06,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,22:10,13,0,0,1,2024-11-06,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,22:10,14,0,0,1,2024-11-06,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,22:10,15,0,0,1,2024-11-06,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,22:10,16,0,0,1,2024-11-06,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,22:10,17,0,0,1,2024-11-06,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,22:10,18,0,0,1,2024-11-06,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,22:10,19,0,0,1,2024-11-06,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,22:10,20,0,0,1,2024-11-06,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,22:10,21,0,0,1,2024-11-06,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,22:10,22,0,0,1,2024-11-06,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,22:10,23,0,0,1,2024-11-06,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,22:10,24,0,0,1,2024-11-06,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,22:10,25,0,0,1,2024-11-06,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,22:10,26,0,0,1,2024-11-06,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,27,0,0,1,2024-11-06,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,28,0,0,1,2024-11-06,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,29,0,0,1,2024-11-06,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,30,0,0,1,2024-11-06,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,31,0,0,1,2024-11-06,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,22:10,32,0,0,1,2024-11-06,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,20:10,1,0,0,0,2024-11-21,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,20:10,2,6,0,6,2024-11-21,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,20:10,3,1,0,7,2024-11-21,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,20:10,4,0,0,7,2024-11-21,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,20:10,5,0,0,7,2024-11-21,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,20:10,6,0,0,7,2024-11-21,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,20:10,7,0,0,7,2024-11-21,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,20:10,8,0,0,7,2024-11-21,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,20:10,9,0,1,6,2024-11-21,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,20:10,10,0,0,6,2024-11-21,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,20:10,11,0,2,4,2024-11-21,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,20:10,12,0,4,0,2024-11-21,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,20:10,13,0,0,0,2024-11-21,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,20:10,14,0,0,0,2024-11-21,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,20:10,15,0,0,0,2024-11-21,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,20:10,16,0,0,0,2024-11-21,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,20:10,17,0,0,0,2024-11-21,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,20:10,18,0,0,0,2024-11-21,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,20:10,19,0,0,0,2024-11-21,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,20:10,20,0,0,0,2024-11-21,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,20:10,21,0,0,0,2024-11-21,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,20:10,22,0,0,0,2024-11-21,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,20:10,23,0,0,0,2024-11-21,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,20:10,24,0,0,0,2024-11-21,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,20:10,25,0,0,0,2024-11-21,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,20:10,26,0,0,0,2024-11-21,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,27,0,0,0,2024-11-21,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,28,0,0,0,2024-11-21,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,29,0,0,0,2024-11-21,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,30,0,0,0,2024-11-21,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,31,1,0,1,2024-11-21,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,20:10,32,0,0,1,2024-11-21,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,06:30,1,1,0,1,2024-11-07,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,06:30,2,3,0,4,2024-11-07,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,06:30,3,0,0,4,2024-11-07,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,06:30,4,0,0,4,2024-11-07,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,06:30,5,0,0,4,2024-11-07,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,06:30,6,0,0,4,2024-11-07,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,06:30,7,0,0,4,2024-11-07,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,06:30,8,0,0,4,2024-11-07,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,06:30,9,1,1,4,2024-11-07,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,06:30,10,0,0,4,2024-11-07,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,06:30,11,0,2,2,2024-11-07,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,06:30,12,0,2,0,2024-11-07,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,06:30,13,0,0,0,2024-11-07,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,06:30,14,0,0,0,2024-11-07,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,06:30,15,0,0,0,2024-11-07,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,06:30,16,1,0,1,2024-11-07,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,06:30,17,0,0,1,2024-11-07,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,06:30,18,0,0,1,2024-11-07,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,06:30,19,0,0,1,2024-11-07,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,06:30,20,0,0,1,2024-11-07,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,06:30,21,0,0,1,2024-11-07,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,06:30,22,0,0,1,2024-11-07,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,06:30,23,0,0,1,2024-11-07,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,06:30,24,0,0,1,2024-11-07,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,06:30,25,0,0,1,2024-11-07,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,06:30,26,0,0,1,2024-11-07,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,27,0,0,1,2024-11-07,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,28,0,0,1,2024-11-07,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,29,0,0,1,2024-11-07,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,30,0,0,1,2024-11-07,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,31,0,0,1,2024-11-07,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,06:30,32,0,0,1,2024-11-07,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,09:55,1,0,0,0,2024-11-07,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,09:55,2,5,0,5,2024-11-07,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,09:55,3,1,0,6,2024-11-07,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,09:55,4,0,0,6,2024-11-07,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,09:55,5,0,0,6,2024-11-07,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,09:55,6,0,0,6,2024-11-07,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,09:55,7,0,0,6,2024-11-07,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,09:55,8,0,0,6,2024-11-07,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,09:55,9,0,1,5,2024-11-07,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,09:55,10,0,0,5,2024-11-07,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,09:55,11,0,2,3,2024-11-07,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,09:55,12,0,3,0,2024-11-07,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,09:55,13,0,0,0,2024-11-07,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,09:55,14,0,0,0,2024-11-07,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,09:55,15,0,0,0,2024-11-07,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,09:55,16,0,0,0,2024-11-07,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,09:55,17,0,0,0,2024-11-07,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,09:55,18,0,0,0,2024-11-07,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,09:55,19,0,0,0,2024-11-07,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,09:55,20,0,0,0,2024-11-07,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,09:55,21,0,0,0,2024-11-07,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,09:55,22,0,0,0,2024-11-07,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,09:55,23,0,0,0,2024-11-07,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,09:55,24,0,0,0,2024-11-07,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,09:55,25,0,0,0,2024-11-07,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,09:55,26,0,0,0,2024-11-07,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,27,0,0,0,2024-11-07,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,28,0,0,0,2024-11-07,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,29,0,0,0,2024-11-07,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,30,0,0,0,2024-11-07,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,31,0,0,0,2024-11-07,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,09:55,32,0,0,0,2024-11-07,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,13:50,1,0,0,0,2024-11-07,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,13:50,2,6,0,6,2024-11-07,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,13:50,3,1,0,7,2024-11-07,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,13:50,4,0,0,7,2024-11-07,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,13:50,5,1,0,8,2024-11-07,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,13:50,6,0,0,8,2024-11-07,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,13:50,7,0,0,8,2024-11-07,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,13:50,8,0,0,8,2024-11-07,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,13:50,9,0,1,7,2024-11-07,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,13:50,10,0,0,7,2024-11-07,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,13:50,11,0,2,5,2024-11-07,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,13:50,12,0,4,1,2024-11-07,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,13:50,13,0,0,1,2024-11-07,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,13:50,14,0,0,1,2024-11-07,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,13:50,15,0,0,1,2024-11-07,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,13:50,16,0,0,1,2024-11-07,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,13:50,17,0,0,1,2024-11-07,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,13:50,18,0,0,1,2024-11-07,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,13:50,19,0,0,1,2024-11-07,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,13:50,20,0,0,1,2024-11-07,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,13:50,21,0,0,1,2024-11-07,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,13:50,22,0,0,1,2024-11-07,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,13:50,23,0,0,1,2024-11-07,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,13:50,24,0,0,1,2024-11-07,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,13:50,25,0,0,1,2024-11-07,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,13:50,26,0,0,1,2024-11-07,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,27,0,0,1,2024-11-07,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,28,0,0,1,2024-11-07,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,29,0,0,1,2024-11-07,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,30,0,0,1,2024-11-07,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,31,0,0,1,2024-11-07,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,13:50,32,0,0,1,2024-11-07,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,06:30,1,1,0,1,2024-11-26,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,06:30,2,2,0,3,2024-11-26,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,06:30,3,0,0,3,2024-11-26,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,06:30,4,0,0,3,2024-11-26,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,06:30,5,0,0,3,2024-11-26,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,06:30,6,0,0,3,2024-11-26,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,06:30,7,0,0,3,2024-11-26,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,06:30,8,0,0,3,2024-11-26,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,06:30,9,0,1,2,2024-11-26,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,06:30,10,0,0,2,2024-11-26,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,06:30,11,0,2,0,2024-11-26,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,06:30,12,0,0,0,2024-11-26,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,06:30,13,0,0,0,2024-11-26,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,06:30,14,1,0,1,2024-11-26,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,06:30,15,0,0,1,2024-11-26,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,06:30,16,1,0,2,2024-11-26,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,06:30,17,0,0,2,2024-11-26,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,06:30,18,0,0,2,2024-11-26,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,06:30,19,0,0,2,2024-11-26,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,06:30,20,0,0,2,2024-11-26,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,06:30,21,0,0,2,2024-11-26,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,06:30,22,0,0,2,2024-11-26,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,06:30,23,1,0,3,2024-11-26,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,06:30,24,0,0,3,2024-11-26,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,06:30,25,1,0,4,2024-11-26,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,06:30,26,0,0,4,2024-11-26,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,27,0,0,4,2024-11-26,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,28,0,0,4,2024-11-26,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,29,0,0,4,2024-11-26,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,30,0,0,4,2024-11-26,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,31,0,0,4,2024-11-26,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,06:30,32,0,0,4,2024-11-26,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,09:55,1,0,0,0,2024-11-26,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,09:55,2,8,0,8,2024-11-26,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,09:55,3,0,0,8,2024-11-26,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,09:55,4,0,0,8,2024-11-26,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,09:55,5,0,0,8,2024-11-26,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,09:55,6,0,0,8,2024-11-26,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,09:55,7,0,0,8,2024-11-26,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,09:55,8,0,0,8,2024-11-26,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,09:55,9,0,1,7,2024-11-26,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,09:55,10,0,0,7,2024-11-26,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,09:55,11,0,2,5,2024-11-26,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,09:55,12,0,4,1,2024-11-26,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,09:55,13,0,0,1,2024-11-26,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,09:55,14,0,0,1,2024-11-26,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,09:55,15,0,0,1,2024-11-26,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,09:55,16,0,0,1,2024-11-26,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,09:55,17,0,0,1,2024-11-26,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,09:55,18,0,0,1,2024-11-26,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,09:55,19,0,0,1,2024-11-26,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,09:55,20,0,0,1,2024-11-26,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,09:55,21,0,0,1,2024-11-26,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,09:55,22,0,0,1,2024-11-26,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,09:55,23,0,0,1,2024-11-26,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,09:55,24,0,0,1,2024-11-26,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,09:55,25,0,0,1,2024-11-26,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,09:55,26,0,0,1,2024-11-26,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,27,0,0,1,2024-11-26,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,28,0,0,1,2024-11-26,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,29,0,0,1,2024-11-26,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,30,0,0,1,2024-11-26,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,31,0,0,1,2024-11-26,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,09:55,32,0,0,1,2024-11-26,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,15:10,1,0,0,0,2024-11-26,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,15:10,2,5,0,5,2024-11-26,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,15:10,3,1,0,6,2024-11-26,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,15:10,4,0,0,6,2024-11-26,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,15:10,5,0,0,6,2024-11-26,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,15:10,6,0,0,6,2024-11-26,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,15:10,7,0,0,6,2024-11-26,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,15:10,8,0,0,6,2024-11-26,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,15:10,9,0,1,5,2024-11-26,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,15:10,10,0,0,5,2024-11-26,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,15:10,11,0,2,3,2024-11-26,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,15:10,12,0,3,0,2024-11-26,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,15:10,13,0,0,0,2024-11-26,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,15:10,14,0,0,0,2024-11-26,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,15:10,15,0,0,0,2024-11-26,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,15:10,16,0,0,0,2024-11-26,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,15:10,17,0,0,0,2024-11-26,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,15:10,18,0,0,0,2024-11-26,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,15:10,19,0,0,0,2024-11-26,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,15:10,20,0,0,0,2024-11-26,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,15:10,21,0,0,0,2024-11-26,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,15:10,22,0,0,0,2024-11-26,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,15:10,23,0,0,0,2024-11-26,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,15:10,24,0,0,0,2024-11-26,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,15:10,25,0,0,0,2024-11-26,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,15:10,26,0,0,0,2024-11-26,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,27,0,0,0,2024-11-26,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,28,0,0,0,2024-11-26,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,29,0,0,0,2024-11-26,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,30,0,0,0,2024-11-26,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,31,0,0,0,2024-11-26,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,15:10,32,0,0,0,2024-11-26,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,20:10,1,0,0,0,2024-11-08,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,20:10,2,7,0,7,2024-11-08,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,20:10,3,0,0,7,2024-11-08,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,20:10,4,0,0,7,2024-11-08,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,20:10,5,0,0,7,2024-11-08,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,20:10,6,0,0,7,2024-11-08,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,20:10,7,0,0,7,2024-11-08,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,20:10,8,0,0,7,2024-11-08,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,20:10,9,0,1,6,2024-11-08,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,20:10,10,0,0,6,2024-11-08,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,20:10,11,0,2,4,2024-11-08,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,20:10,12,0,4,0,2024-11-08,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,20:10,13,0,0,0,2024-11-08,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,20:10,14,0,0,0,2024-11-08,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,20:10,15,0,0,0,2024-11-08,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,20:10,16,0,0,0,2024-11-08,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,20:10,17,0,0,0,2024-11-08,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,20:10,18,0,0,0,2024-11-08,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,20:10,19,0,0,0,2024-11-08,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,20:10,20,0,0,0,2024-11-08,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,20:10,21,0,0,0,2024-11-08,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,20:10,22,0,0,0,2024-11-08,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,20:10,23,0,0,0,2024-11-08,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,20:10,24,0,0,0,2024-11-08,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,20:10,25,0,0,0,2024-11-08,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,20:10,26,0,0,0,2024-11-08,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,27,0,0,0,2024-11-08,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,28,0,0,0,2024-11-08,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,29,0,0,0,2024-11-08,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,30,0,0,0,2024-11-08,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,31,0,0,0,2024-11-08,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,20:10,32,0,0,0,2024-11-08,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,07:30,1,0,0,0,2024-11-28,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,07:30,2,4,0,4,2024-11-28,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,07:30,3,0,0,4,2024-11-28,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,07:30,4,0,0,4,2024-11-28,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,07:30,5,0,0,4,2024-11-28,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,07:30,6,0,0,4,2024-11-28,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,07:30,7,1,0,5,2024-11-28,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,07:30,8,0,0,5,2024-11-28,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,07:30,9,0,1,4,2024-11-28,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,07:30,10,0,0,4,2024-11-28,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,07:30,11,1,2,3,2024-11-28,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,07:30,12,0,3,0,2024-11-28,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,07:30,13,0,0,0,2024-11-28,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,07:30,14,0,0,0,2024-11-28,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,07:30,15,0,0,0,2024-11-28,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,07:30,16,0,0,0,2024-11-28,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,07:30,17,0,0,0,2024-11-28,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,07:30,18,0,0,0,2024-11-28,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,07:30,19,0,0,0,2024-11-28,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,07:30,20,0,0,0,2024-11-28,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,07:30,21,0,0,0,2024-11-28,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,07:30,22,0,0,0,2024-11-28,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,07:30,23,0,0,0,2024-11-28,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,07:30,24,0,0,0,2024-11-28,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,07:30,25,0,0,0,2024-11-28,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,07:30,26,0,0,0,2024-11-28,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,27,0,0,0,2024-11-28,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,28,1,0,1,2024-11-28,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,29,0,0,1,2024-11-28,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,30,0,0,1,2024-11-28,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,31,0,0,1,2024-11-28,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,07:30,32,0,0,1,2024-11-28,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,08:40,1,0,0,0,2024-11-28,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,08:40,2,3,0,3,2024-11-28,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,08:40,3,1,0,4,2024-11-28,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,08:40,4,0,0,4,2024-11-28,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,08:40,5,0,0,4,2024-11-28,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,08:40,6,0,0,4,2024-11-28,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,08:40,7,0,0,4,2024-11-28,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,08:40,8,0,0,4,2024-11-28,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,08:40,9,0,1,3,2024-11-28,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,08:40,10,0,0,3,2024-11-28,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,08:40,11,0,2,1,2024-11-28,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,08:40,12,0,1,0,2024-11-28,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,08:40,13,2,0,2,2024-11-28,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,08:40,14,0,0,2,2024-11-28,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,08:40,15,0,0,2,2024-11-28,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,08:40,16,0,0,2,2024-11-28,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,08:40,17,0,0,2,2024-11-28,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,08:40,18,0,0,2,2024-11-28,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,08:40,19,0,0,2,2024-11-28,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,08:40,20,0,0,2,2024-11-28,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,08:40,21,0,0,2,2024-11-28,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,08:40,22,0,0,2,2024-11-28,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,08:40,23,0,0,2,2024-11-28,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,08:40,24,0,0,2,2024-11-28,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,08:40,25,0,0,2,2024-11-28,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,08:40,26,0,0,2,2024-11-28,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,27,0,0,2,2024-11-28,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,28,0,0,2,2024-11-28,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,29,0,0,2,2024-11-28,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,30,0,0,2,2024-11-28,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,31,0,0,2,2024-11-28,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,08:40,32,0,0,2,2024-11-28,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,20:10,1,0,0,0,2024-11-28,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,20:10,2,6,0,6,2024-11-28,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,20:10,3,0,0,6,2024-11-28,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,20:10,4,0,0,6,2024-11-28,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,20:10,5,0,0,6,2024-11-28,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,20:10,6,0,0,6,2024-11-28,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,20:10,7,0,0,6,2024-11-28,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,20:10,8,0,0,6,2024-11-28,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,20:10,9,0,1,5,2024-11-28,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,20:10,10,0,0,5,2024-11-28,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,20:10,11,2,2,5,2024-11-28,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,20:10,12,0,4,1,2024-11-28,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,20:10,13,0,0,1,2024-11-28,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,20:10,14,0,0,1,2024-11-28,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,20:10,15,0,0,1,2024-11-28,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,20:10,16,0,0,1,2024-11-28,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,20:10,17,0,0,1,2024-11-28,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,20:10,18,0,0,1,2024-11-28,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,20:10,19,0,0,1,2024-11-28,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,20:10,20,0,0,1,2024-11-28,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,20:10,21,0,0,1,2024-11-28,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,20:10,22,0,0,1,2024-11-28,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,20:10,23,0,0,1,2024-11-28,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,20:10,24,0,0,1,2024-11-28,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,20:10,25,0,0,1,2024-11-28,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,20:10,26,0,0,1,2024-11-28,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,27,0,0,1,2024-11-28,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,28,0,0,1,2024-11-28,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,29,0,0,1,2024-11-28,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,30,0,0,1,2024-11-28,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,20:10,31,0,0,1,2024-11-28,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,20:10,32,0,0,1,2024-11-28,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,06:30,1,0,0,0,2024-11-11,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,06:30,2,1,0,1,2024-11-11,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,06:30,3,1,0,2,2024-11-11,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,06:30,4,0,0,2,2024-11-11,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,06:30,5,0,0,2,2024-11-11,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,06:30,6,0,0,2,2024-11-11,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,06:30,7,0,0,2,2024-11-11,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,06:30,8,0,0,2,2024-11-11,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,06:30,9,0,1,1,2024-11-11,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,06:30,10,0,0,1,2024-11-11,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,06:30,11,0,1,0,2024-11-11,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,06:30,12,0,0,0,2024-11-11,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,06:30,13,0,0,0,2024-11-11,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,06:30,14,1,0,1,2024-11-11,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,06:30,15,0,0,1,2024-11-11,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,06:30,16,1,0,2,2024-11-11,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,06:30,17,2,0,4,2024-11-11,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,06:30,18,0,0,4,2024-11-11,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,06:30,19,0,0,4,2024-11-11,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,06:30,20,0,0,4,2024-11-11,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,06:30,21,0,0,4,2024-11-11,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,06:30,22,0,0,4,2024-11-11,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,06:30,23,0,0,4,2024-11-11,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,06:30,24,0,0,4,2024-11-11,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,06:30,25,0,0,4,2024-11-11,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,06:30,26,0,0,4,2024-11-11,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,27,0,0,4,2024-11-11,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,28,0,0,4,2024-11-11,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,29,0,0,4,2024-11-11,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,30,0,0,4,2024-11-11,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,31,0,0,4,2024-11-11,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,06:30,32,0,0,4,2024-11-11,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,13:50,1,0,0,0,2024-11-11,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,13:50,2,3,0,3,2024-11-11,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,13:50,3,0,0,3,2024-11-11,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,13:50,4,0,0,3,2024-11-11,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,13:50,5,0,0,3,2024-11-11,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,13:50,6,0,0,3,2024-11-11,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,13:50,7,0,0,3,2024-11-11,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,13:50,8,0,0,3,2024-11-11,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,13:50,9,0,1,2,2024-11-11,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,13:50,10,0,0,2,2024-11-11,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,13:50,11,0,2,0,2024-11-11,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,13:50,12,0,0,0,2024-11-11,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,13:50,13,0,0,0,2024-11-11,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,13:50,14,0,0,0,2024-11-11,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,13:50,15,0,0,0,2024-11-11,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,13:50,16,0,0,0,2024-11-11,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,13:50,17,0,0,0,2024-11-11,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,13:50,18,0,0,0,2024-11-11,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,13:50,19,0,0,0,2024-11-11,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,13:50,20,0,0,0,2024-11-11,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,13:50,21,0,0,0,2024-11-11,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,13:50,22,0,0,0,2024-11-11,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,13:50,23,0,0,0,2024-11-11,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,13:50,24,0,0,0,2024-11-11,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,13:50,25,1,0,1,2024-11-11,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,13:50,26,0,0,1,2024-11-11,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,27,0,0,1,2024-11-11,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,28,0,0,1,2024-11-11,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,29,0,0,1,2024-11-11,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,30,0,0,1,2024-11-11,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,31,3,0,4,2024-11-11,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,13:50,32,0,0,4,2024-11-11,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,17:40,1,0,0,0,2024-11-11,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,17:40,2,4,0,4,2024-11-11,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,17:40,3,0,0,4,2024-11-11,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,17:40,4,0,0,4,2024-11-11,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,17:40,5,0,0,4,2024-11-11,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,17:40,6,0,0,4,2024-11-11,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,17:40,7,0,0,4,2024-11-11,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,17:40,8,1,0,5,2024-11-11,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,17:40,9,0,1,4,2024-11-11,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,17:40,10,1,0,5,2024-11-11,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,17:40,11,0,2,3,2024-11-11,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,17:40,12,0,3,0,2024-11-11,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,17:40,13,0,0,0,2024-11-11,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,17:40,14,0,0,0,2024-11-11,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,17:40,15,0,0,0,2024-11-11,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,17:40,16,0,0,0,2024-11-11,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,17:40,17,1,0,1,2024-11-11,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,17:40,18,0,0,1,2024-11-11,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,17:40,19,0,0,1,2024-11-11,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,17:40,20,0,0,1,2024-11-11,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,17:40,21,0,0,1,2024-11-11,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,17:40,22,0,0,1,2024-11-11,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,17:40,23,0,0,1,2024-11-11,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,17:40,24,0,0,1,2024-11-11,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,17:40,25,0,0,1,2024-11-11,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,17:40,26,0,0,1,2024-11-11,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,17:40,27,0,0,1,2024-11-11,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,17:40,28,0,0,1,2024-11-11,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,17:40,29,0,0,1,2024-11-11,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,17:40,30,0,0,1,2024-11-11,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,17:40,31,1,0,2,2024-11-11,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,17:40,32,0,0,2,2024-11-11,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,11:10,1,0,0,0,2024-11-12,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,11:10,2,8,0,8,2024-11-12,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,11:10,3,0,0,8,2024-11-12,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,11:10,4,0,0,8,2024-11-12,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,11:10,5,0,0,8,2024-11-12,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,11:10,6,0,0,8,2024-11-12,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,11:10,7,0,0,8,2024-11-12,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,11:10,8,0,0,8,2024-11-12,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,11:10,9,0,1,7,2024-11-12,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,11:10,10,0,0,7,2024-11-12,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,11:10,11,0,2,5,2024-11-12,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,11:10,12,0,4,1,2024-11-12,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,11:10,13,0,0,1,2024-11-12,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,11:10,14,0,0,1,2024-11-12,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,11:10,15,0,0,1,2024-11-12,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,11:10,16,0,0,1,2024-11-12,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,11:10,17,0,0,1,2024-11-12,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,11:10,18,0,0,1,2024-11-12,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,11:10,19,0,0,1,2024-11-12,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,11:10,20,0,0,1,2024-11-12,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,11:10,21,0,0,1,2024-11-12,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,11:10,22,0,0,1,2024-11-12,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,11:10,23,0,0,1,2024-11-12,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,11:10,24,0,0,1,2024-11-12,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,11:10,25,0,0,1,2024-11-12,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,11:10,26,0,0,1,2024-11-12,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,27,0,0,1,2024-11-12,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,28,0,0,1,2024-11-12,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,29,0,0,1,2024-11-12,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,30,0,0,1,2024-11-12,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,31,0,0,1,2024-11-12,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,11:10,32,0,0,1,2024-11-12,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,06:30,1,0,0,0,2024-11-22,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,06:30,2,2,0,2,2024-11-22,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,06:30,3,0,0,2,2024-11-22,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,06:30,4,0,0,2,2024-11-22,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,06:30,5,0,0,2,2024-11-22,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,06:30,6,0,0,2,2024-11-22,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,06:30,7,1,0,3,2024-11-22,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,06:30,8,0,0,3,2024-11-22,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,06:30,9,0,1,2,2024-11-22,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,06:30,10,0,0,2,2024-11-22,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,06:30,11,0,2,0,2024-11-22,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,06:30,12,0,0,0,2024-11-22,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,06:30,13,0,0,0,2024-11-22,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,06:30,14,1,0,1,2024-11-22,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,06:30,15,0,0,1,2024-11-22,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,06:30,16,1,0,2,2024-11-22,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,06:30,17,0,0,2,2024-11-22,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,06:30,18,0,0,2,2024-11-22,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,06:30,19,0,0,2,2024-11-22,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,06:30,20,0,0,2,2024-11-22,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,06:30,21,0,0,2,2024-11-22,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,06:30,22,0,0,2,2024-11-22,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,06:30,23,0,0,2,2024-11-22,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,06:30,24,0,0,2,2024-11-22,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,06:30,25,0,0,2,2024-11-22,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,06:30,26,0,0,2,2024-11-22,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,27,0,0,2,2024-11-22,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,28,0,0,2,2024-11-22,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,29,0,0,2,2024-11-22,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,30,0,0,2,2024-11-22,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,31,2,0,4,2024-11-22,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,06:30,32,0,0,4,2024-11-22,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,08:40,1,0,0,0,2024-11-22,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,08:40,2,2,0,2,2024-11-22,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,08:40,3,0,0,2,2024-11-22,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,08:40,4,0,0,2,2024-11-22,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,08:40,5,0,0,2,2024-11-22,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,08:40,6,0,0,2,2024-11-22,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,08:40,7,0,0,2,2024-11-22,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,08:40,8,0,0,2,2024-11-22,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,08:40,9,0,1,1,2024-11-22,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,08:40,10,0,0,1,2024-11-22,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,08:40,11,0,1,0,2024-11-22,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,08:40,12,0,0,0,2024-11-22,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,08:40,13,2,0,2,2024-11-22,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,08:40,14,0,0,2,2024-11-22,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,08:40,15,1,0,3,2024-11-22,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,08:40,16,1,0,4,2024-11-22,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,08:40,17,0,0,4,2024-11-22,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,08:40,18,0,0,4,2024-11-22,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,08:40,19,0,0,4,2024-11-22,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,08:40,20,0,0,4,2024-11-22,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,08:40,21,0,0,4,2024-11-22,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,08:40,22,0,0,4,2024-11-22,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,08:40,23,0,0,4,2024-11-22,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,08:40,24,0,0,4,2024-11-22,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,08:40,25,0,0,4,2024-11-22,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,08:40,26,0,0,4,2024-11-22,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,27,0,0,4,2024-11-22,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,28,0,0,4,2024-11-22,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,29,0,0,4,2024-11-22,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,30,0,0,4,2024-11-22,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,31,0,0,4,2024-11-22,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,08:40,32,0,0,4,2024-11-22,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,22:10,1,0,0,0,2024-11-22,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,22:10,2,4,0,4,2024-11-22,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,22:10,3,3,0,7,2024-11-22,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,22:10,4,0,0,7,2024-11-22,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,22:10,5,0,0,7,2024-11-22,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,22:10,6,0,0,7,2024-11-22,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,22:10,7,0,0,7,2024-11-22,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,22:10,8,0,0,7,2024-11-22,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,22:10,9,0,1,6,2024-11-22,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,22:10,10,0,0,6,2024-11-22,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,22:10,11,0,2,4,2024-11-22,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,22:10,12,0,4,0,2024-11-22,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,22:10,13,0,0,0,2024-11-22,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,22:10,14,0,0,0,2024-11-22,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,22:10,15,0,0,0,2024-11-22,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,22:10,16,0,0,0,2024-11-22,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,22:10,17,0,0,0,2024-11-22,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,22:10,18,0,0,0,2024-11-22,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,22:10,19,0,0,0,2024-11-22,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,22:10,20,0,0,0,2024-11-22,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,22:10,21,0,0,0,2024-11-22,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,22:10,22,0,0,0,2024-11-22,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,22:10,23,0,0,0,2024-11-22,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,22:10,24,0,0,0,2024-11-22,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,22:10,25,0,0,0,2024-11-22,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,22:10,26,0,0,0,2024-11-22,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,27,0,0,0,2024-11-22,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,28,0,0,0,2024-11-22,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,29,0,0,0,2024-11-22,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,30,0,0,0,2024-11-22,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,31,0,0,0,2024-11-22,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,22:10,32,0,0,0,2024-11-22,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,05:30,1,0,0,0,2024-11-14,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,05:30,2,3,0,3,2024-11-14,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,05:30,3,1,0,4,2024-11-14,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,05:30,4,0,0,4,2024-11-14,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,05:30,5,0,0,4,2024-11-14,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,05:30,6,0,0,4,2024-11-14,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,05:30,7,0,0,4,2024-11-14,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,05:30,8,0,0,4,2024-11-14,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,05:30,9,0,1,3,2024-11-14,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,05:30,10,1,0,4,2024-11-14,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,05:30,11,0,2,2,2024-11-14,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,05:30,12,1,2,1,2024-11-14,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,05:30,13,0,0,1,2024-11-14,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,05:30,14,0,0,1,2024-11-14,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,05:30,15,0,0,1,2024-11-14,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,05:30,16,0,0,1,2024-11-14,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,05:30,17,0,0,1,2024-11-14,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,05:30,18,0,0,1,2024-11-14,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,05:30,19,0,0,1,2024-11-14,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,05:30,20,0,0,1,2024-11-14,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,05:30,21,0,0,1,2024-11-14,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,05:30,22,0,0,1,2024-11-14,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,05:30,23,0,0,1,2024-11-14,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,05:30,24,0,0,1,2024-11-14,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,05:30,25,1,0,2,2024-11-14,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,05:30,26,0,0,2,2024-11-14,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,05:30,27,0,0,2,2024-11-14,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,05:30,28,0,0,2,2024-11-14,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,05:30,29,0,0,2,2024-11-14,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,05:30,30,0,0,2,2024-11-14,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,05:30,31,0,0,2,2024-11-14,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,05:30,32,0,0,2,2024-11-14,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,06:30,1,2,0,2,2024-11-14,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,06:30,2,3,0,5,2024-11-14,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,06:30,3,1,0,6,2024-11-14,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,06:30,4,0,0,6,2024-11-14,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,06:30,5,0,0,6,2024-11-14,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,06:30,6,0,0,6,2024-11-14,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,06:30,7,0,0,6,2024-11-14,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,06:30,8,0,0,6,2024-11-14,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,06:30,9,0,1,5,2024-11-14,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,06:30,10,0,0,5,2024-11-14,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,06:30,11,0,2,3,2024-11-14,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,06:30,12,0,3,0,2024-11-14,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,06:30,13,0,0,0,2024-11-14,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,06:30,14,0,0,0,2024-11-14,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,06:30,15,0,0,0,2024-11-14,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,06:30,16,1,0,1,2024-11-14,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,06:30,17,0,0,1,2024-11-14,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,06:30,18,0,0,1,2024-11-14,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,06:30,19,0,0,1,2024-11-14,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,06:30,20,0,0,1,2024-11-14,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,06:30,21,0,0,1,2024-11-14,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,06:30,22,0,0,1,2024-11-14,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,06:30,23,0,0,1,2024-11-14,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,06:30,24,0,0,1,2024-11-14,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,06:30,25,0,0,1,2024-11-14,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,06:30,26,0,0,1,2024-11-14,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,27,0,0,1,2024-11-14,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,28,0,0,1,2024-11-14,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,29,0,0,1,2024-11-14,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,30,0,0,1,2024-11-14,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,31,0,0,1,2024-11-14,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,06:30,32,0,0,1,2024-11-14,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,09:55,1,0,0,0,2024-11-14,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,09:55,2,5,0,5,2024-11-14,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,09:55,3,0,0,5,2024-11-14,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,09:55,4,0,0,5,2024-11-14,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,09:55,5,0,0,5,2024-11-14,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,09:55,6,0,0,5,2024-11-14,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,09:55,7,1,0,6,2024-11-14,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,09:55,8,0,0,6,2024-11-14,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,09:55,9,0,1,5,2024-11-14,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,09:55,10,0,0,5,2024-11-14,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,09:55,11,0,2,3,2024-11-14,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,09:55,12,0,3,0,2024-11-14,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,09:55,13,0,0,0,2024-11-14,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,09:55,14,0,0,0,2024-11-14,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,09:55,15,0,0,0,2024-11-14,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,09:55,16,0,0,0,2024-11-14,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,09:55,17,0,0,0,2024-11-14,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,09:55,18,0,0,0,2024-11-14,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,09:55,19,0,0,0,2024-11-14,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,09:55,20,0,0,0,2024-11-14,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,09:55,21,0,0,0,2024-11-14,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,09:55,22,0,0,0,2024-11-14,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,09:55,23,0,0,0,2024-11-14,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,09:55,24,0,0,0,2024-11-14,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,09:55,25,0,0,0,2024-11-14,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,09:55,26,0,0,0,2024-11-14,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,27,0,0,0,2024-11-14,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,28,0,0,0,2024-11-14,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,29,0,0,0,2024-11-14,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,30,0,0,0,2024-11-14,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,31,0,0,0,2024-11-14,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,09:55,32,0,0,0,2024-11-14,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,12:30,1,0,0,0,2024-11-14,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,12:30,2,5,0,5,2024-11-14,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,12:30,3,0,0,5,2024-11-14,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,12:30,4,0,0,5,2024-11-14,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,12:30,5,1,0,6,2024-11-14,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,12:30,6,0,0,6,2024-11-14,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,12:30,7,0,0,6,2024-11-14,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,12:30,8,0,0,6,2024-11-14,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,12:30,9,0,1,5,2024-11-14,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,12:30,10,0,0,5,2024-11-14,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,12:30,11,0,2,3,2024-11-14,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,12:30,12,0,3,0,2024-11-14,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,12:30,13,0,0,0,2024-11-14,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,12:30,14,0,0,0,2024-11-14,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,12:30,15,0,0,0,2024-11-14,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,12:30,16,0,0,0,2024-11-14,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,12:30,17,0,0,0,2024-11-14,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,12:30,18,0,0,0,2024-11-14,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,12:30,19,0,0,0,2024-11-14,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,12:30,20,0,0,0,2024-11-14,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,12:30,21,0,0,0,2024-11-14,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,12:30,22,0,0,0,2024-11-14,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,12:30,23,0,0,0,2024-11-14,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,12:30,24,0,0,0,2024-11-14,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,12:30,25,0,0,0,2024-11-14,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,12:30,26,0,0,0,2024-11-14,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,12:30,27,0,0,0,2024-11-14,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,12:30,28,0,0,0,2024-11-14,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,12:30,29,0,0,0,2024-11-14,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,12:30,30,0,0,0,2024-11-14,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,12:30,31,0,0,0,2024-11-14,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,12:30,32,0,0,0,2024-11-14,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,06:30,1,0,0,0,2024-11-25,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,06:30,2,2,0,2,2024-11-25,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,06:30,3,0,0,2,2024-11-25,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,06:30,4,0,0,2,2024-11-25,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,06:30,5,0,0,2,2024-11-25,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,06:30,6,0,0,2,2024-11-25,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,06:30,7,0,0,2,2024-11-25,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,06:30,8,0,0,2,2024-11-25,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,06:30,9,0,1,1,2024-11-25,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,06:30,10,0,0,1,2024-11-25,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,06:30,11,0,1,0,2024-11-25,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,06:30,12,0,0,0,2024-11-25,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,06:30,13,0,0,0,2024-11-25,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,06:30,14,5,0,5,2024-11-25,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,06:30,15,0,0,5,2024-11-25,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,06:30,16,1,0,6,2024-11-25,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,06:30,17,0,0,6,2024-11-25,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,06:30,18,0,0,6,2024-11-25,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,06:30,19,0,0,6,2024-11-25,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,06:30,20,0,0,6,2024-11-25,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,06:30,21,0,0,6,2024-11-25,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,06:30,22,0,0,6,2024-11-25,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,06:30,23,0,0,6,2024-11-25,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,06:30,24,0,0,6,2024-11-25,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,06:30,25,0,0,6,2024-11-25,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,06:30,26,0,0,6,2024-11-25,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,27,0,0,6,2024-11-25,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,28,0,0,6,2024-11-25,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,29,0,0,6,2024-11-25,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,30,0,0,6,2024-11-25,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,31,0,0,6,2024-11-25,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,06:30,32,0,0,6,2024-11-25,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,07:30,1,0,0,0,2024-11-25,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,07:30,2,6,0,6,2024-11-25,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,07:30,3,0,0,6,2024-11-25,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,07:30,4,0,0,6,2024-11-25,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,07:30,5,1,0,7,2024-11-25,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,07:30,6,0,0,7,2024-11-25,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,07:30,7,0,0,7,2024-11-25,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,07:30,8,0,0,7,2024-11-25,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,07:30,9,0,1,6,2024-11-25,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,07:30,10,0,0,6,2024-11-25,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,07:30,11,0,2,4,2024-11-25,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,07:30,12,0,4,0,2024-11-25,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,07:30,13,0,0,0,2024-11-25,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,07:30,14,0,0,0,2024-11-25,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,07:30,15,0,0,0,2024-11-25,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,07:30,16,0,0,0,2024-11-25,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,07:30,17,0,0,0,2024-11-25,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,07:30,18,0,0,0,2024-11-25,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,07:30,19,0,0,0,2024-11-25,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,07:30,20,0,0,0,2024-11-25,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,07:30,21,0,0,0,2024-11-25,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,07:30,22,0,0,0,2024-11-25,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,07:30,23,0,0,0,2024-11-25,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,07:30,24,0,0,0,2024-11-25,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,07:30,25,0,0,0,2024-11-25,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,07:30,26,0,0,0,2024-11-25,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,27,0,0,0,2024-11-25,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,28,0,0,0,2024-11-25,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,29,0,0,0,2024-11-25,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,30,0,0,0,2024-11-25,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,31,0,0,0,2024-11-25,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,07:30,32,0,0,0,2024-11-25,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,11:10,1,0,0,0,2024-11-25,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,11:10,2,4,0,4,2024-11-25,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,11:10,3,3,0,7,2024-11-25,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,11:10,4,0,0,7,2024-11-25,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,11:10,5,1,0,8,2024-11-25,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,11:10,6,0,0,8,2024-11-25,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,11:10,7,0,0,8,2024-11-25,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,11:10,8,0,0,8,2024-11-25,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,11:10,9,0,1,7,2024-11-25,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,11:10,10,0,0,7,2024-11-25,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,11:10,11,0,2,5,2024-11-25,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,11:10,12,0,4,1,2024-11-25,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,11:10,13,0,0,1,2024-11-25,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,11:10,14,0,0,1,2024-11-25,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,11:10,15,0,0,1,2024-11-25,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,11:10,16,0,0,1,2024-11-25,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,11:10,17,0,0,1,2024-11-25,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,11:10,18,0,0,1,2024-11-25,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,11:10,19,0,0,1,2024-11-25,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,11:10,20,0,0,1,2024-11-25,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,11:10,21,0,0,1,2024-11-25,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,11:10,22,0,0,1,2024-11-25,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,11:10,23,0,0,1,2024-11-25,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,11:10,24,0,0,1,2024-11-25,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,11:10,25,0,0,1,2024-11-25,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,11:10,26,0,0,1,2024-11-25,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,27,0,0,1,2024-11-25,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,28,0,0,1,2024-11-25,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,29,0,0,1,2024-11-25,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,30,0,0,1,2024-11-25,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,11:10,31,0,0,1,2024-11-25,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,11:10,32,0,0,1,2024-11-25,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,13:50,1,0,0,0,2024-11-25,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,13:50,2,8,0,8,2024-11-25,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,13:50,3,0,0,8,2024-11-25,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,13:50,4,0,0,8,2024-11-25,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,13:50,5,0,0,8,2024-11-25,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,13:50,6,0,0,8,2024-11-25,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,13:50,7,0,0,8,2024-11-25,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,13:50,8,0,0,8,2024-11-25,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,13:50,9,0,1,7,2024-11-25,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,13:50,10,0,0,7,2024-11-25,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,13:50,11,0,2,5,2024-11-25,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,13:50,12,0,4,1,2024-11-25,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,13:50,13,0,0,1,2024-11-25,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,13:50,14,0,0,1,2024-11-25,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,13:50,15,0,0,1,2024-11-25,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,13:50,16,0,0,1,2024-11-25,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,13:50,17,0,0,1,2024-11-25,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,13:50,18,0,0,1,2024-11-25,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,13:50,19,0,0,1,2024-11-25,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,13:50,20,0,0,1,2024-11-25,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,13:50,21,0,0,1,2024-11-25,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,13:50,22,0,0,1,2024-11-25,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,13:50,23,0,0,1,2024-11-25,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,13:50,24,0,0,1,2024-11-25,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,13:50,25,0,0,1,2024-11-25,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,13:50,26,0,0,1,2024-11-25,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,27,0,0,1,2024-11-25,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,28,0,0,1,2024-11-25,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,29,0,0,1,2024-11-25,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,30,0,0,1,2024-11-25,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,13:50,31,0,0,1,2024-11-25,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,13:50,32,0,0,1,2024-11-25,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,07:30,1,0,0,0,2024-11-18,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,07:30,2,3,0,3,2024-11-18,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,07:30,3,0,0,3,2024-11-18,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,07:30,4,0,0,3,2024-11-18,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,07:30,5,0,0,3,2024-11-18,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,07:30,6,0,0,3,2024-11-18,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,07:30,7,1,0,4,2024-11-18,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,07:30,8,0,0,4,2024-11-18,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,07:30,9,0,1,3,2024-11-18,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,07:30,10,0,0,3,2024-11-18,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,07:30,11,0,2,1,2024-11-18,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,07:30,12,0,1,0,2024-11-18,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,07:30,13,0,0,0,2024-11-18,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,07:30,14,0,0,0,2024-11-18,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,07:30,15,0,0,0,2024-11-18,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,07:30,16,0,0,0,2024-11-18,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,07:30,17,0,0,0,2024-11-18,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,07:30,18,0,0,0,2024-11-18,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,07:30,19,0,0,0,2024-11-18,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,07:30,20,0,0,0,2024-11-18,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,07:30,21,0,0,0,2024-11-18,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,07:30,22,0,0,0,2024-11-18,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,07:30,23,0,0,0,2024-11-18,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,07:30,24,0,0,0,2024-11-18,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,07:30,25,0,0,0,2024-11-18,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,07:30,26,0,0,0,2024-11-18,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,27,0,0,0,2024-11-18,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,28,0,0,0,2024-11-18,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,29,0,0,0,2024-11-18,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,30,1,0,1,2024-11-18,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,31,2,0,3,2024-11-18,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,07:30,32,0,0,3,2024-11-18,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,08:40,1,0,0,0,2024-11-18,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,08:40,2,1,0,1,2024-11-18,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,08:40,3,0,0,1,2024-11-18,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,08:40,4,2,0,3,2024-11-18,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,08:40,5,0,0,3,2024-11-18,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,08:40,6,0,0,3,2024-11-18,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,08:40,7,1,0,4,2024-11-18,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,08:40,8,0,0,4,2024-11-18,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,08:40,9,0,1,3,2024-11-18,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,08:40,10,0,0,3,2024-11-18,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,08:40,11,0,2,1,2024-11-18,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,08:40,12,0,1,0,2024-11-18,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,08:40,13,0,0,0,2024-11-18,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,08:40,14,0,0,0,2024-11-18,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,08:40,15,0,0,0,2024-11-18,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,08:40,16,0,0,0,2024-11-18,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,08:40,17,0,0,0,2024-11-18,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,08:40,18,0,0,0,2024-11-18,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,08:40,19,0,0,0,2024-11-18,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,08:40,20,0,0,0,2024-11-18,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,08:40,21,0,0,0,2024-11-18,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,08:40,22,0,0,0,2024-11-18,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,08:40,23,0,0,0,2024-11-18,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,08:40,24,0,0,0,2024-11-18,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,08:40,25,0,0,0,2024-11-18,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,08:40,26,0,0,0,2024-11-18,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,27,0,0,0,2024-11-18,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,28,0,0,0,2024-11-18,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,29,0,0,0,2024-11-18,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,30,0,0,0,2024-11-18,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,08:40,31,3,0,3,2024-11-18,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,08:40,32,0,0,3,2024-11-18,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,22:10,1,0,0,0,2024-11-18,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,22:10,2,6,0,6,2024-11-18,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,22:10,3,0,0,6,2024-11-18,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,22:10,4,0,0,6,2024-11-18,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,22:10,5,0,0,6,2024-11-18,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,22:10,6,0,0,6,2024-11-18,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,22:10,7,0,0,6,2024-11-18,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,22:10,8,0,0,6,2024-11-18,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,22:10,9,0,1,5,2024-11-18,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,22:10,10,0,0,5,2024-11-18,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,22:10,11,0,2,3,2024-11-18,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,22:10,12,0,3,0,2024-11-18,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,22:10,13,0,0,0,2024-11-18,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,22:10,14,0,0,0,2024-11-18,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,22:10,15,0,0,0,2024-11-18,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,22:10,16,0,0,0,2024-11-18,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,22:10,17,0,0,0,2024-11-18,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,22:10,18,0,0,0,2024-11-18,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,22:10,19,0,0,0,2024-11-18,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,22:10,20,0,0,0,2024-11-18,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,22:10,21,0,0,0,2024-11-18,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,22:10,22,0,0,0,2024-11-18,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,22:10,23,0,0,0,2024-11-18,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,22:10,24,0,0,0,2024-11-18,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,22:10,25,0,0,0,2024-11-18,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,22:10,26,0,0,0,2024-11-18,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,27,0,0,0,2024-11-18,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,28,0,0,0,2024-11-18,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,29,0,0,0,2024-11-18,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,30,0,0,0,2024-11-18,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,22:10,31,0,0,0,2024-11-18,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,22:10,32,0,0,0,2024-11-18,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,06:30,1,1,0,1,2024-11-29,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,06:30,2,2,0,3,2024-11-29,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,06:30,3,0,0,3,2024-11-29,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,06:30,4,0,0,3,2024-11-29,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,06:30,5,0,0,3,2024-11-29,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,06:30,6,0,0,3,2024-11-29,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,06:30,7,0,0,3,2024-11-29,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,06:30,8,0,0,3,2024-11-29,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,06:30,9,0,1,2,2024-11-29,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,06:30,10,1,0,3,2024-11-29,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,06:30,11,0,2,1,2024-11-29,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,06:30,12,0,1,0,2024-11-29,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,06:30,13,0,0,0,2024-11-29,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,06:30,14,1,0,1,2024-11-29,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,06:30,15,0,0,1,2024-11-29,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,06:30,16,1,0,2,2024-11-29,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,06:30,17,0,0,2,2024-11-29,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,06:30,18,0,0,2,2024-11-29,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,06:30,19,0,0,2,2024-11-29,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,06:30,20,0,0,2,2024-11-29,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,06:30,21,0,0,2,2024-11-29,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,06:30,22,0,0,2,2024-11-29,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,06:30,23,0,0,2,2024-11-29,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,06:30,24,0,0,2,2024-11-29,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,06:30,25,0,0,2,2024-11-29,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,06:30,26,0,0,2,2024-11-29,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,27,0,0,2,2024-11-29,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,28,0,0,2,2024-11-29,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,29,0,0,2,2024-11-29,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,30,0,0,2,2024-11-29,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,06:30,31,0,0,2,2024-11-29,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,06:30,32,0,0,2,2024-11-29,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,09:55,1,0,0,0,2024-11-29,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,09:55,2,5,0,5,2024-11-29,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,09:55,3,0,0,5,2024-11-29,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,09:55,4,0,0,5,2024-11-29,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,09:55,5,0,0,5,2024-11-29,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,09:55,6,0,0,5,2024-11-29,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,09:55,7,0,0,5,2024-11-29,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,09:55,8,0,0,5,2024-11-29,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,09:55,9,0,1,4,2024-11-29,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,09:55,10,1,0,5,2024-11-29,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,09:55,11,0,2,3,2024-11-29,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,09:55,12,0,3,0,2024-11-29,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,09:55,13,0,0,0,2024-11-29,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,09:55,14,0,0,0,2024-11-29,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,09:55,15,0,0,0,2024-11-29,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,09:55,16,0,0,0,2024-11-29,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,09:55,17,0,0,0,2024-11-29,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,09:55,18,0,0,0,2024-11-29,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,09:55,19,0,0,0,2024-11-29,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,09:55,20,0,0,0,2024-11-29,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,09:55,21,0,0,0,2024-11-29,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,09:55,22,0,0,0,2024-11-29,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,09:55,23,0,0,0,2024-11-29,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,09:55,24,0,0,0,2024-11-29,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,09:55,25,0,0,0,2024-11-29,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,09:55,26,0,0,0,2024-11-29,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,27,0,0,0,2024-11-29,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,28,0,0,0,2024-11-29,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,29,0,0,0,2024-11-29,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,30,0,0,0,2024-11-29,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,31,0,0,0,2024-11-29,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,09:55,32,0,0,0,2024-11-29,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,07:30,1,0,0,0,2024-11-19,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,07:30,2,2,0,2,2024-11-19,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,07:30,3,2,0,4,2024-11-19,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,07:30,4,0,0,4,2024-11-19,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,07:30,5,0,0,4,2024-11-19,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,07:30,6,0,0,4,2024-11-19,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,07:30,7,1,0,5,2024-11-19,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,07:30,8,0,0,5,2024-11-19,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,07:30,9,0,1,4,2024-11-19,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,07:30,10,0,0,4,2024-11-19,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,07:30,11,0,2,2,2024-11-19,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,07:30,12,0,2,0,2024-11-19,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,07:30,13,0,0,0,2024-11-19,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,07:30,14,0,0,0,2024-11-19,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,07:30,15,0,0,0,2024-11-19,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,07:30,16,0,0,0,2024-11-19,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,07:30,17,0,0,0,2024-11-19,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,07:30,18,0,0,0,2024-11-19,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,07:30,19,0,0,0,2024-11-19,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,07:30,20,0,0,0,2024-11-19,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,07:30,21,0,0,0,2024-11-19,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,07:30,22,0,0,0,2024-11-19,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,07:30,23,0,0,0,2024-11-19,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,07:30,24,0,0,0,2024-11-19,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,07:30,25,1,0,1,2024-11-19,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,07:30,26,0,0,1,2024-11-19,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,27,0,0,1,2024-11-19,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,28,0,0,1,2024-11-19,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,29,0,0,1,2024-11-19,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,30,0,0,1,2024-11-19,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,07:30,31,1,0,2,2024-11-19,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,07:30,32,0,0,2,2024-11-19,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,09:55,1,0,0,0,2024-11-19,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,09:55,2,6,0,6,2024-11-19,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,09:55,3,1,0,7,2024-11-19,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,09:55,4,0,0,7,2024-11-19,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,09:55,5,0,0,7,2024-11-19,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,09:55,6,0,0,7,2024-11-19,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,09:55,7,0,0,7,2024-11-19,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,09:55,8,0,0,7,2024-11-19,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,09:55,9,0,1,6,2024-11-19,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,09:55,10,0,0,6,2024-11-19,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,09:55,11,0,2,4,2024-11-19,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,09:55,12,0,4,0,2024-11-19,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,09:55,13,0,0,0,2024-11-19,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,09:55,14,0,0,0,2024-11-19,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,09:55,15,1,0,1,2024-11-19,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,09:55,16,0,0,1,2024-11-19,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,09:55,17,0,0,1,2024-11-19,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,09:55,18,0,0,1,2024-11-19,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,09:55,19,0,0,1,2024-11-19,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,09:55,20,0,0,1,2024-11-19,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,09:55,21,0,0,1,2024-11-19,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,09:55,22,0,0,1,2024-11-19,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,09:55,23,0,0,1,2024-11-19,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,09:55,24,0,0,1,2024-11-19,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,09:55,25,0,0,1,2024-11-19,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,09:55,26,0,0,1,2024-11-19,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,27,0,0,1,2024-11-19,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,28,0,0,1,2024-11-19,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,29,0,0,1,2024-11-19,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,30,0,0,1,2024-11-19,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,09:55,31,0,0,1,2024-11-19,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,09:55,32,0,0,1,2024-11-19,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
+301,Usina Quatro,15:10,1,0,0,0,2024-11-19,-43.34838104,-21.75691414,"Rua São Sebastião, 437"
+301,Usina Quatro,15:10,2,5,0,5,2024-11-19,-43.34580994,-21.7608242,"Avenida Getúlio Vargas, 367"
+301,Usina Quatro,15:10,3,0,0,5,2024-11-19,-43.34204865,-21.76272964,"Rua Espírito Santo, 393"
+301,Usina Quatro,15:10,4,0,0,5,2024-11-19,-43.3402282,-21.76382606,"Rua Osório de Almeida, 184"
+301,Usina Quatro,15:10,5,0,0,5,2024-11-19,-43.33755365,-21.76595495,"Praça Pantaleone Arcuri Neto, 20 - Cemitério Municipal"
+301,Usina Quatro,15:10,6,0,0,5,2024-11-19,-43.33715198,-21.76951769,"Rua Osório de Almeida, 22"
+301,Usina Quatro,15:10,7,0,0,5,2024-11-19,-43.33628927,-21.76963475,"Avenida Francisco Valadares, 70"
+301,Usina Quatro,15:10,8,2,0,7,2024-11-19,-43.33524288,-21.76955076,"Avenida Francisco Valadares, 210"
+301,Usina Quatro,15:10,9,0,1,6,2024-11-19,-43.33277922,-21.76949057,"Avenida Francisco Valadares, 470"
+301,Usina Quatro,15:10,10,0,0,6,2024-11-19,-43.32999873,-21.77253182,"Avenida Francisco Valadares, 1030"
+301,Usina Quatro,15:10,11,0,2,4,2024-11-19,-43.33085817,-21.77588355,"Avenida Francisco Valadares, 1300"
+301,Usina Quatro,15:10,12,0,4,0,2024-11-19,-43.33010864,-21.77744102,"Avenida Francisco Valadares, 1808"
+301,Usina Quatro,15:10,13,0,0,0,2024-11-19,-43.32868576,-21.77772522,"Avenida Francisco Valadares, 1930"
+301,Usina Quatro,15:10,14,0,0,0,2024-11-19,-43.32743269,-21.77802965,"Avenida Francisco Valadares, 2104"
+301,Usina Quatro,15:10,15,0,0,0,2024-11-19,-43.32593078,-21.77835321,"Avenida Francisco Valadares, 2250"
+301,Usina Quatro,15:10,16,0,0,0,2024-11-19,-43.32353997,-21.77823881,"Avenida Francisco Valadares, 2780"
+301,Usina Quatro,15:10,17,0,0,0,2024-11-19,-43.3218525,-21.77908332,"Avenida Francisco Valadares, 2750"
+301,Usina Quatro,15:10,18,0,0,0,2024-11-19,-43.32276917,-21.78188101,"Avenida Francisco Valadares, 2298"
+301,Usina Quatro,15:10,19,0,0,0,2024-11-19,-43.32326889,-21.78620529,BR-267 leste
+301,Usina Quatro,15:10,20,0,0,0,2024-11-19,-43.32539749,-21.78920407,BR-267 leste
+301,Usina Quatro,15:10,21,0,0,0,2024-11-19,-43.32639527,-21.79032614,BR-267 leste
+301,Usina Quatro,15:10,22,0,0,0,2024-11-19,-43.32384872,-21.79202461,BR-267 leste
+301,Usina Quatro,15:10,23,0,0,0,2024-11-19,-43.31261063,-21.7904129,BR-267 leste
+301,Usina Quatro,15:10,24,0,0,0,2024-11-19,-43.31064224,-21.78759384,BR-267 leste
+301,Usina Quatro,15:10,25,0,0,0,2024-11-19,-43.30605698,-21.79159164,LMG-874 Estrada União e Indústria sul - Trevo BR-267
+301,Usina Quatro,15:10,26,0,0,0,2024-11-19,-43.30632019,-21.79364014,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,27,0,0,0,2024-11-19,-43.30669785,-21.79521751,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,28,0,0,0,2024-11-19,-43.31017667,-21.7986607,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,29,0,0,0,2024-11-19,-43.31530847,-21.80970767,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,30,0,0,0,2024-11-19,-43.31732559,-21.81094742,LMG-874 Estrada União e Indústria sul
+301,Usina Quatro,15:10,31,0,0,0,2024-11-19,-43.31731033,-21.81878662,"LMG-874 Estrada União e Indústria, 13900"
+301,Usina Quatro,15:10,32,0,0,0,2024-11-19,-43.31937079,-21.82209863,"LMG-874 Estrada União e Indústria, 14100 - Ponto Final da Usina Quatro"
