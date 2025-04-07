@@ -6,5 +6,4 @@ streamlit
 folium
 plotly
 os
-streamlit-folium
 math
