@@ -205,6 +205,9 @@ df3['occupation'] = aux['occupation'].values
 df3.reset_index(inplace=True)
 #%%
 filtered_df=df2.copy()
+# n_seq=len(filtered_df['routeshortname'].unique())==1
+# if n_seq==1:
+#     filtered_df.sort_values(by='stopsequence', inplace=True)
 
 # Create two tabs
 tab1, tab2, tab3 = st.tabs(["Routes Heatmap", "Bus Occupation", "Board-Landing"])
@@ -306,6 +309,7 @@ with tab1:
         #         ).add_to(m)
         
         # if show_polyline=='Yes':
+        # if n_seq==1:
         #     # Add route line
         #     folium.PolyLine(
         #         locations=filtered_df[['stop_lat', 'stop_lon']].values,
