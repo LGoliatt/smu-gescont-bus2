@@ -6,5 +6,3 @@ streamlit
 streamlit-folium
 folium
 plotly
-os
-math
