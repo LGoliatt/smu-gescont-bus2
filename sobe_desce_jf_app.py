@@ -184,22 +184,24 @@ for c in ['routeshortname', 'hour', 'day_of_week']:
 #%%
 numeric_columns = filtered_df.select_dtypes(include=['number']).columns
 non_numeric_columns = filtered_df.select_dtypes(exclude=['number']).columns
-import warnings
-warnings.filterwarnings("ignore", category=FutureWarning)
-
 #print("Numeric Columns:", numeric_columns)
 #print("Non-Numeric Columns:", non_numeric_columns)
+#filtered_df['hour'] = pd.to_datetime(filtered_df['hour'], format='%H:%M').dt.time
 
-df1=filtered_df.groupby(['routeshortname','hour','stop_lon', 'stop_lat','stopname']).aggregate(np.mean)
+#df1 = filtered_df.groupby(['routeshortname','hour','stop_lon', 'stop_lat','stopname']).aggregate(lambda x: x.astype(float).mean())
+df1 = filtered_df.groupby(['routeshortname', 'hour', 'stop_lon', 'stop_lat', 'stopname'], as_index=False).mean(numeric_only=True)
+
 df1.reset_index(inplace=True)
 #%%
 #df2=df1.groupby(['stop_lon', 'stop_lat',]).aggregate(sum)
-df2=df1.groupby(['stop_lon', 'stop_lat','stopname']).aggregate(sum)
+#df2 = df1.groupby(['stop_lon', 'stop_lat','stopname']).aggregate(sum)
+df2 = df1.groupby(['stop_lon', 'stop_lat','stopname'], as_index=False).sum(numeric_only=True)
 df2.reset_index(inplace=True)
 #%%
-df3=df1.groupby(['routeshortname','hour',]).aggregate(sum)
+#df3 = df1.groupby(['routeshortname','hour',]).aggregate(sum)
+df3 = df1.groupby(['routeshortname','hour',], as_index=False).sum(numeric_only=True)
 aux=df1.groupby(['routeshortname','hour',]).aggregate(np.max)
-df3['occupation'] = aux['occupation']
+df3['occupation'] = aux['occupation'].values
 df3.reset_index(inplace=True)
 #%%
 filtered_df=df2.copy()
