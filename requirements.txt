@@ -7,4 +7,4 @@ folium
 plotly
 os
 streamlit_folium
-mth
+math
