@@ -3,7 +3,7 @@ import pandas as pd
 import folium
 from folium.plugins import HeatMap
 from folium.plugins import MarkerCluster
-from streamlit_folium import st_folium, folium_static
+#from streamlit_folium import st_folium, folium_static
 import os
 import plotly.express as px
 import numpy as np
@@ -182,15 +182,15 @@ filtered_df = df[
 for c in ['routeshortname', 'hour', 'day_of_week']:
     print(c,':',filtered_df[c].unique()) 
 #%%
-df1=filtered_df.groupby(['routeshortname','hour','stop_lon', 'stop_lat','stopname']).agg(np.mean)
+df1=filtered_df.groupby(['routeshortname','hour','stop_lon', 'stop_lat','stopname']).aggregate(np.mean)
 df1.reset_index(inplace=True)
 #%%
-#df2=df1.groupby(['stop_lon', 'stop_lat',]).agg(sum)
-df2=df1.groupby(['stop_lon', 'stop_lat','stopname']).agg(sum)
+#df2=df1.groupby(['stop_lon', 'stop_lat',]).aggregate(sum)
+df2=df1.groupby(['stop_lon', 'stop_lat','stopname']).aggregate(sum)
 df2.reset_index(inplace=True)
 #%%
-df3=df1.groupby(['routeshortname','hour',]).agg(sum)
-aux=df1.groupby(['routeshortname','hour',]).agg(np.max)
+df3=df1.groupby(['routeshortname','hour',]).aggregate(sum)
+aux=df1.groupby(['routeshortname','hour',]).aggregate(np.max)
 df3['occupation'] = aux['occupation']
 df3.reset_index(inplace=True)
 #%%
@@ -220,7 +220,7 @@ with tab1:
         #aux=snap_newer_to_older(filtered_df[['stop_lat', 'stop_lon']])
         #filtered_df['stop_lat'] = aux['stop_lat'].values
         #filtered_df['stop_lon'] = aux['stop_lon'].values
-        #filtered_df=filtered_df.groupby(['stop_lon', 'stop_lat',]).agg(sum)
+        #filtered_df=filtered_df.groupby(['stop_lon', 'stop_lat',]).aggregate(sum)
         #filtered_df.reset_index(inplace=True)   
         
         #if toggle_circles:
