@@ -3,7 +3,7 @@ import pandas as pd
 import folium
 from folium.plugins import HeatMap
 from folium.plugins import MarkerCluster
-#from streamlit_folium import st_folium, folium_static
+from streamlit_folium import st_folium, folium_static
 import os
 import plotly.express as px
 import numpy as np
