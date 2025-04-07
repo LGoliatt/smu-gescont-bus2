@@ -4,3 +4,7 @@ seaborn
 matplotlib
 streamlit
 folium
+plotly
+os
+streamlit_folium
+mth
