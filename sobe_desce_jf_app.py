@@ -210,7 +210,7 @@ filtered_df=df2.copy()
 #     filtered_df.sort_values(by='stopsequence', inplace=True)
 
 # Create two tabs
-tab1, tab2, tab3 = st.tabs(["Routes Heatmap", "Bus Occupation", "Board-Landing"])
+tab1, tab2, tab3 = st.tabs(["Routes Heatmap", "Bus Boarding/Time", "Board-Landing"])
 
 # Tab 1: Routes Heatmap
 with tab1:
@@ -348,8 +348,8 @@ with tab2:
             hover_data=['hour', data_type],
             markers=True,
             color_discrete_sequence=px.colors.qualitative.Plotly,
-            template='plotly_white',
-            height=700
+            #template='plotly_white',
+            height=600
         )
         
         # Customize layout
@@ -359,7 +359,23 @@ with tab2:
             legend_title='Route',
             hovermode='x unified',
             plot_bgcolor='rgba(0,0,0,0)',
-            margin=dict(l=20, r=20, t=30, b=20)
+            margin=dict(l=20, r=20, t=30, b=20),
+            font=dict(
+                family="Arial",
+                size=18,       # Global font size
+                color="black"
+            ),
+            legend=dict(
+                font=dict(size=16)
+            ),
+            xaxis=dict(
+                title_font=dict(size=20),
+                tickfont=dict(size=18)
+            ),
+            yaxis=dict(
+                title_font=dict(size=20),
+                tickfont=dict(size=18)
+            )            
         )
         
         # Add annotations for peaks
@@ -369,13 +385,18 @@ with tab2:
             fig.add_annotation(
                 x=max_stop['hour'],
                 y=max_val,
-                text=f"Max {data_type}: {max_val}",
+                text=f"Max {data_type}: {max_val:.0f}",
                 showarrow=True,
                 arrowhead=1,
                 ax=0,
-                ay=-40
+                ay=-40,
+                font=dict(size=18),
             )
         
+        #fig.update_xaxes(title_font_size=18, tickfont_size=18)
+        #fig.update_yaxes(title_font_size=18, tickfont_size=18)
+        fig.update_traces(line=dict(width=4))
+        fig.update_traces(marker=dict(size=12))
         st.plotly_chart(fig, use_container_width=True)
     else:
         st.warning("No data available for the selected filters.")

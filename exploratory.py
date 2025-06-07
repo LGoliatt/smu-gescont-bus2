@@ -7,6 +7,15 @@ import glob
 import os
 
 
+# Step 0: 
+csv_file = "sobe_desce_jf.csv"  # Replace with the actual file path
+csv_file = 'sobe_desce_jf_horarios.csv'
+#df = pd.read_csv(csv_file)
+for s,df1 in df.groupby('routeshortname'):
+    df1.to_csv(f'./data_stops/{s}.csv', index=False)    
+
+data=df[df['routeshortname']==100]
+#%%
 
 # 1. Carregar todos os CSVs da pasta "./data_stops"
 lista_arquivos = glob.glob(os.path.join("data_stops", "*.csv"))
