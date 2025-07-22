@@ -145,7 +145,7 @@ def analise_frota_onibus_plotly(df, frequencia=None):
     """
     
     cap = [20, 35, 60, 80, 90, #140, 200
-           ],
+           ]
     
     # Capacidades de ônibus (85% de ocupação segura)
     frota = pd.DataFrame({
