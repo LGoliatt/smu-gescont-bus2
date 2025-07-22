@@ -144,6 +144,7 @@ def analise_frota_onibus_plotly(df, frequencia=None):
     - fig: objeto plotly.graph_objects.Figure
     """
     
+    cap = [20, 35, 60, 80, 90, 140, 200],
     # Capacidades de ônibus (85% de ocupação segura)
     frota = pd.DataFrame({
         'tipo': [
@@ -152,11 +153,12 @@ def analise_frota_onibus_plotly(df, frequencia=None):
             'Midiônibus',
             'Ônibus Básico',
             'Ônibus Padron',
-            'Articulado',
-            'Biarticulado'
+            #'Articulado',
+            #'Biarticulado'
         ],
-        'capacidade_nominal': [20, 35, 60, 80, 90, 140, 200],
-        'capacidade_util': [17.0, 29.75, 51.0, 68.0, 76.5, 119.0, 170.0]  # 85%
+        'capacidade_nominal': [20, 35, 60, 80, 90,# 140, 200
+                               ],
+        'capacidade_util': [int(i * 0.95) for i in cap] 
     })
 
     # Mapeamento de cores por tipo
