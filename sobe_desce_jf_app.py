@@ -685,7 +685,7 @@ with tab3:
         fig.update_traces(line=dict(width=4), marker=dict(size=12))
     
         # Display the chart
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, use_container_width=True) 
     
     else:
         st.warning("No data available for the selected filters.")    
