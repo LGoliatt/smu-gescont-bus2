@@ -9,6 +9,12 @@ import plotly.express as px
 import numpy as np
 import math
 
+import pandas as pd
+import numpy as np
+import plotly.express as px
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
+
 # Function to calculate Haversine distance
 def haversine_distance(lat1, lon1, lat2, lon2):
     """
@@ -64,7 +70,207 @@ def snap_newer_to_older(df):
 
     return snapped_df
 
+def recomendar_onibus_por_demanda(df, frequencia=1):
+    """
+    Recomenda tipos de ônibus com base na demanda horária de embarque (boarding).
+    
+    Parâmetros:
+    - df: DataFrame com colunas 'hour' e 'boarding'
+    - frequencia: número de viagens por hora (pode ser float, ex: 2.0 = a cada 30 min)
+                  ou uma lista/Series com frequência por hora
+    
+    Retorna:
+    - DataFrame com colunas: hour, boarding, frequencia, passageiros_por_viagem, tipos_recomendados
+    """
+    
+    # Definir tipos de ônibus e suas capacidades mínimas (reais típicas)
+    tipos_onibus = [
+        {'tipo': 'Micro-ônibus M2/M3', 'min': 16, 'max': 20},
+        {'tipo': 'Miniônibus',        'min': 21, 'max': 35},
+        {'tipo': 'Midiônibus',        'min': 40, 'max': 60},
+        {'tipo': 'Ônibus Básico',     'min': 70, 'max': 80},
+        {'tipo': 'Ônibus Padron',     'min': 80, 'max': 90},
+        {'tipo': 'Articulado',        'min': 100, 'max': 140},
+        {'tipo': 'Biarticulado',      'min': 160, 'max': 200}
+    ]
+    
+    # Criar cópia do DataFrame
+    resultado = df.copy()
+    
+    # Calcular frequência (se for escalar, repete para todos)
+    if isinstance(frequencia, (int, float)):
+        resultado['frequencia'] = frequencia
+    elif isinstance(frequencia, (list, pd.Series)):
+        resultado['frequencia'] = pd.Series(frequencia).values
+    else:
+        raise ValueError("Frequência deve ser número, lista ou série.")
+    
+    # Calcular passageiros por viagem
+    resultado['passageiros_por_viagem'] = resultado['boarding'] / resultado['frequencia']
+    
+    # Função interna para recomendar tipos com base na demanda por viagem
+    def escolher_tipos(demanda):
+        tipos = []
+        for t in tipos_onibus:
+            # Considerar 85% da capacidade como limite seguro
+            capacidade_efetiva = t['max'] * 0.85
+            if demanda <= capacidade_efetiva:
+                tipos.append(t['tipo'])
+        # Retorna os tipos que atendem, do menor para o maior
+        return ", ".join(tipos) if tipos else tipos_onibus[-1]['tipo']
+    
+    resultado['tipos_recomendados'] = resultado['passageiros_por_viagem'].apply(escolher_tipos)
+    
+    return resultado[[
+        'hour', 'boarding', 'frequencia', 
+        'passageiros_por_viagem', 'tipos_recomendados'
+    ]]
 
+
+def analise_frota_onibus_plotly(df, frequencia=None):
+    """
+    Analisa frota necessária e gera gráfico interativo com Plotly.
+    
+    Parâmetros:
+    - df: DataFrame com colunas 'hour' e 'boarding'
+    - frequencia: escalar, lista ou série com frequência de viagens por hora
+    
+    Retorna:
+    - DataFrame com resultados
+    - Figura interativa do Plotly
+    """
+    
+    # Capacidades de ônibus (85% de ocupação segura)
+    frota = pd.DataFrame({
+        'tipo': [
+            'Micro-ônibus M2/M3',
+            'Miniônibus',
+            'Midiônibus',
+            'Ônibus Básico',
+            'Ônibus Padron',
+            'Articulado',
+            'Biarticulado'
+        ],
+        'capacidade_nominal': [20, 35, 60, 80, 90, 140, 200],
+        'capacidade_util': [17.0, 29.75, 51.0, 68.0, 76.5, 119.0, 170.0]  # 85%
+    })
+
+    # Preparar dados
+    df_work = df.copy()
+    if frequencia is None:
+        df_work['frequencia'] = 1.0
+    elif isinstance(frequencia, (int, float)):
+        df_work['frequencia'] = frequencia
+    else:
+        df_work['frequencia'] = pd.Series(frequencia).values
+
+    df_work['hour_dt'] = pd.to_datetime(df_work['hour'], format='%H:%M')
+    df_work = df_work.sort_values('hour_dt').reset_index(drop=True)
+
+    resultados = []
+
+    for _, row in df_work.iterrows():
+        hora = row['hour']
+        demanda = row['boarding']
+        freq = row['frequencia']
+        pass_por_viagem = demanda / freq
+
+        # Calcular frota necessária para cada tipo
+        frota_req = frota.copy()
+        frota_req['onibus_necessarios'] = np.ceil(demanda / frota_req['capacidade_util']).astype(int)
+
+        # Encontrar tipo mais racional
+        frota_viavel = frota_req[frota_req['capacidade_util'] >= pass_por_viagem]
+        if not frota_viavel.empty:
+            tipo_recomendado = frota_viavel.iloc[0]  # Menor tipo que atende 1 viagem
+        else:
+            tipo_recomendado = frota_req.loc[frota_req['onibus_necessarios'].idxmin()]
+
+        # Alternativas com mesmo número de veículos
+        alternativas = frota_req[frota_req['onibus_necessarios'] == tipo_recomendado['onibus_necessarios']]['tipo'].tolist()
+
+        resultados.append({
+            'hora': hora,
+            'demanda_hora': round(demanda, 2),
+            'frequencia': freq,
+            'pass_por_viagem': round(pass_por_viagem, 2),
+            'tipo_recomendado': tipo_recomendado['tipo'],
+            'capacidade_util': tipo_recomendado['capacidade_util'],
+            'onibus_necessarios': tipo_recomendado['onibus_necessarios'],
+            'alternativas': ", ".join(alternativas),
+            'cor': {
+                'Micro-ônibus M2/M3': '#FF9999',
+                'Miniônibus': '#FFD700',
+                'Midiônibus': '#66BB6A',
+                'Ônibus Básico': '#42A5F5',
+                'Ônibus Padron': '#1E88E5',
+                'Articulado': '#8E24AA',
+                'Biarticulado': '#3E2723'
+            }[tipo_recomendado['tipo']]
+        })
+
+    df_result = pd.DataFrame(resultados)
+
+    # === GRÁFICO INTERATIVO COM PLOTLY ===
+    fig = go.Figure()
+
+    # Adicionar barras para cada hora, com cor por tipo recomendado
+    for _, row in df_result.iterrows():
+        fig.add_trace(go.Bar(
+            x=[row['hora']],
+            y=[row['demanda_hora']],
+            name=row['tipo_recomendado'],
+            marker_color=row['cor'],
+            hovertemplate=(
+                f"<b>Hora:</b> {row['hora']}<br>"
+                f"<b>Demanda/h:</b> {row['demanda_hora']} pax<br>"
+                f"<b>Tipo:</b> {row['tipo_recomendado']}<br>"
+                f"<b>Quantidade:</b> {row['onibus_necessarios']} veículo(s)<br>"
+                f"<b>Capacidade útil:</b> {row['capacidade_util']} pax/viagem<br>"
+                f"<b>Passageiros/viagem:</b> {row['pass_por_viagem']}<br>"
+                f"<b>Alternativas:</b> {row['alternativas']}"
+            ),
+            showlegend=False,
+            text=f"{row['onibus_necessarios']}×<br>{row['tipo_recomendado'].split()[0]}",
+            textposition="outside",
+            textfont=dict(size=10)
+        ))
+
+    # Layout
+    fig.update_layout(
+        title={
+            'text': "Demanda Horária e Frota Recomendada<br><sup>Número e Tipo de Ônibus por Hora</sup>",
+            'x': 0.5,
+            'xanchor': 'center'
+        },
+        xaxis_title="Hora do Dia",
+        yaxis_title="Passageiros por Hora",
+        barmode='group',
+        xaxis=dict(tickmode='linear'),
+        uniformtext_minsize=8,
+        uniformtext_mode='hide',
+        hovermode="x unified",
+        height=600,
+        template="plotly_white"
+    )
+
+    # Exibir gráfico
+    fig.show()
+
+    # === TABELA DE RESULTADOS NO CONSOLE ===
+    print("\n" + "="*120)
+    print("ANÁLISE DE FROTA POR HORA".center(120))
+    print("="*120)
+    print(f"{'Hora':<6} {'Demanda/h':<10} {'Freq':<6} {'/Viagem':<10} {'Tipo Recomendado':<20} "
+          f"{'Cap. Útil':<10} {'Quant.':<8} {'Alternativas'}")
+    print("-" * 120)
+    for _, row in df_result.iterrows():
+        print(f"{row['hora']:<6} {row['demanda_hora']:<10} {row['frequencia']:<6} "
+              f"{row['pass_por_viagem']:<10} {row['tipo_recomendado']:<20} "
+              f"{row['capacidade_util']:<10} {row['onibus_necessarios']:<8} {row['alternativas']}")
+    print("="*120)
+
+    return df_result, fig
     
 st.set_page_config(layout="wide")
 
@@ -213,7 +419,8 @@ filtered_df=df2.copy()
 # Create two tabs
 
 #tab1, tab2, tab3, tab4,  = st.tabs(["Routes Heatmap", "Bus Boarding/Time", "Bus Boarding/Time Acummulated", "Board-Landing"])
-tab1, tab2, tab3,   = st.tabs(["Routes Heatmap", "Bus Boarding/Time", "Bus Boarding/Time Acummulated", ])
+#tab1, tab2, tab3,   = st.tabs(["Routes Heatmap", "Bus Boarding/Time", "Bus Boarding/Time Acummulated", ])
+tab1, tab2, tab3, tab4  = st.tabs(["Routes Heatmap", "Bus Boarding/Time", "Bus Boarding/Time Acummulated", "Bus Fleet"])
 
 # Tab 1: Routes Heatmap
 with tab1:
@@ -449,6 +656,30 @@ with tab3:
                 tickfont=dict(size=18)
             )
         )
+    
+        # Style the line and markers
+        fig.update_traces(line=dict(width=4), marker=dict(size=12))
+    
+        # Display the chart
+        st.plotly_chart(fig, use_container_width=True)
+    
+    else:
+        st.warning("No data available for the selected filters.")    
+
+      
+# tab 3: Bus Fleet
+with tab3:
+    # st.header("Bus Occupation")
+    st.write("This tab shows the accumulated occupation percentage of buses across all routes over time.")
+    
+    # Make a copy of the dataframe and filter if needed
+    filtered_df = df3.copy()
+    #print(filtered_df)
+    if not filtered_df.empty:
+        # Group by 'hour' and sum the selected data_type across all routes
+        accumulated_df = filtered_df.groupby('hour')[data_type].sum().reset_index()
+    
+        resultado, fig = analise_frota_onibus_plotly(accumulated_df, frequencia=1)
     
         # Style the line and markers
         fig.update_traces(line=dict(width=4), marker=dict(size=12))
