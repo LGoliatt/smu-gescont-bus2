@@ -259,7 +259,7 @@ def analise_frota_onibus_plotly(df, frequencia=None):
         xaxis_title="Hora do Dia",
         yaxis_title="Passageiros por Hora",
         xaxis=dict(tickmode='linear'),
-        uniformtext_minsize=8,
+        uniformtext_minsize=10,
         uniformtext_mode='hide',
         hovermode="x unified",
         height=600,
