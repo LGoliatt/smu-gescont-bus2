@@ -159,7 +159,7 @@ def analise_frota_onibus_plotly(df, frequencia=None):
             #'Biarticulado'
         ],
         'capacidade_nominal': cap,
-        'capacidade_util': [int(i * 0.95) for i in cap] 
+        'capacidade_util': [int(i * 0.95) for i in cap],
     })
 
     # Mapeamento de cores por tipo
