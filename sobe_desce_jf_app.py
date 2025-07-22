@@ -262,9 +262,9 @@ def analise_frota_onibus_plotly(df, frequencia=None):
         uniformtext_minsize=10,
         uniformtext_mode='hide',
         hovermode="x unified",
-        height=600,
+        height=800,
         template="plotly_white",
-        #margin=dict(t=100, b=100, l=60, r=60)
+        margin=dict(t=100, b=100, l=60, r=60)
     )
 
     # Não usar fig.show() — retorna para o Streamlit
