@@ -11,2815 +11,3311 @@
         "radii": [
           {
             "segment": 1,
-            "radius_meters": 38.41
+            "radius_meters": 4207.76
           },
           {
             "segment": 2,
-            "radius_meters": 3063.92
+            "radius_meters": 3818.22
           },
           {
             "segment": 3,
-            "radius_meters": 564.78
+            "radius_meters": 2398.65
           },
           {
             "segment": 4,
-            "radius_meters": 144.44
+            "radius_meters": 9415.55
           },
           {
             "segment": 5,
-            "radius_meters": 787.31
+            "radius_meters": 113727.25
           },
           {
             "segment": 6,
-            "radius_meters": 255.97
+            "radius_meters": 13115.18
           },
           {
             "segment": 7,
-            "radius_meters": 20.04
+            "radius_meters": 112131.13
           },
           {
             "segment": 8,
-            "radius_meters": 1257.15
+            "radius_meters": 2961.18
           },
           {
             "segment": 9,
-            "radius_meters": 425.37
+            "radius_meters": 316.86
           },
           {
             "segment": 10,
-            "radius_meters": 230.22
+            "radius_meters": 75248.55
           },
           {
             "segment": 11,
-            "radius_meters": 41190.76
+            "radius_meters": 3264.91
           },
           {
             "segment": 12,
-            "radius_meters": 183.65
+            "radius_meters": 1007.49
           },
           {
             "segment": 13,
-            "radius_meters": 887.1
+            "radius_meters": 136.31
           },
           {
             "segment": 14,
-            "radius_meters": 21684.5
+            "radius_meters": 654.33
           },
           {
             "segment": 15,
-            "radius_meters": 1895.52
+            "radius_meters": 231.68
           },
           {
             "segment": 16,
-            "radius_meters": 54.18
+            "radius_meters": 448.93
           },
           {
             "segment": 17,
-            "radius_meters": 2645.55
+            "radius_meters": 235.74
           },
           {
             "segment": 18,
-            "radius_meters": 1116.46
+            "radius_meters": 9522.47
           },
           {
             "segment": 19,
-            "radius_meters": 8613.02
+            "radius_meters": 316.03
           },
           {
             "segment": 20,
-            "radius_meters": 84153.31
+            "radius_meters": 195.81
           },
           {
             "segment": 21,
-            "radius_meters": 3408.14
+            "radius_meters": 375.29
           },
           {
             "segment": 22,
-            "radius_meters": 1425.03
+            "radius_meters": 241.98
           },
           {
             "segment": 23,
-            "radius_meters": 43.88
+            "radius_meters": 119.92
           },
           {
             "segment": 24,
-            "radius_meters": 1101005.68
+            "radius_meters": 355.38
           },
           {
             "segment": 25,
-            "radius_meters": 6419.2
+            "radius_meters": 1226.47
           },
           {
             "segment": 26,
-            "radius_meters": 43369.76
+            "radius_meters": 8804.95
           },
           {
             "segment": 27,
-            "radius_meters": 44.88
+            "radius_meters": 4863.06
           },
           {
             "segment": 28,
-            "radius_meters": 116.1
+            "radius_meters": 55998.83
           },
           {
             "segment": 29,
-            "radius_meters": 1867.7
+            "radius_meters": 1952.13
           },
           {
             "segment": 30,
-            "radius_meters": 38.86
+            "radius_meters": 293932.0
           },
           {
             "segment": 31,
-            "radius_meters": 242.53
+            "radius_meters": 120.32
           },
           {
             "segment": 32,
-            "radius_meters": 1001.24
+            "radius_meters": 1170.74
           },
           {
             "segment": 33,
-            "radius_meters": 3130.5
+            "radius_meters": 580.14
           },
           {
             "segment": 34,
-            "radius_meters": 41742.51
+            "radius_meters": 411.26
           },
           {
             "segment": 35,
-            "radius_meters": 116.13
+            "radius_meters": 2931.18
           },
           {
             "segment": 36,
-            "radius_meters": 54.36
+            "radius_meters": 3540.17
           },
           {
             "segment": 37,
-            "radius_meters": 5.39
+            "radius_meters": 30746.35
           },
           {
             "segment": 38,
-            "radius_meters": 2650.93
+            "radius_meters": 883.39
           },
           {
             "segment": 39,
-            "radius_meters": 33824.77
+            "radius_meters": 228.17
           },
           {
             "segment": 40,
-            "radius_meters": 40.03
+            "radius_meters": 265.68
           },
           {
             "segment": 41,
-            "radius_meters": 103.62
+            "radius_meters": 84.65
           },
           {
             "segment": 42,
-            "radius_meters": 50.29
+            "radius_meters": 998.76
           },
           {
             "segment": 43,
-            "radius_meters": 1178.61
+            "radius_meters": 22777.54
           },
           {
             "segment": 44,
-            "radius_meters": 87894.97
+            "radius_meters": 483.69
           },
           {
             "segment": 45,
-            "radius_meters": 4614.12
+            "radius_meters": 647.28
           },
           {
             "segment": 46,
-            "radius_meters": 6434.29
+            "radius_meters": 390.02
           },
           {
             "segment": 47,
-            "radius_meters": 1396.24
+            "radius_meters": 1160.39
           },
           {
             "segment": 48,
-            "radius_meters": 124.05
+            "radius_meters": 4171.83
           },
           {
             "segment": 49,
-            "radius_meters": 255.23
+            "radius_meters": 1291.09
           },
           {
             "segment": 50,
-            "radius_meters": 36.18
+            "radius_meters": 1234.16
           },
           {
             "segment": 51,
-            "radius_meters": 26.04
+            "radius_meters": 1222.02
           },
           {
             "segment": 52,
-            "radius_meters": 43.18
+            "radius_meters": 62870.75
           },
           {
             "segment": 53,
-            "radius_meters": 36.53
+            "radius_meters": 2106.12
           },
           {
             "segment": 54,
-            "radius_meters": 33.21
+            "radius_meters": 48.75
           },
           {
             "segment": 55,
-            "radius_meters": 323.8
+            "radius_meters": 1779.88
           },
           {
             "segment": 56,
-            "radius_meters": 26.66
+            "radius_meters": 1174.25
           },
           {
             "segment": 57,
-            "radius_meters": 20.68
+            "radius_meters": 11054.06
           },
           {
             "segment": 58,
-            "radius_meters": 64.33
+            "radius_meters": 1513.35
           },
           {
             "segment": 59,
-            "radius_meters": 7552.75
+            "radius_meters": 1197.18
           },
           {
             "segment": 60,
-            "radius_meters": 22226.1
+            "radius_meters": 11619.3
           },
           {
             "segment": 61,
-            "radius_meters": 1332.35
+            "radius_meters": 2332.91
           },
           {
             "segment": 62,
-            "radius_meters": 74957.3
+            "radius_meters": 4518.54
           },
           {
             "segment": 63,
-            "radius_meters": 31040.0
+            "radius_meters": 40859.86
           },
           {
             "segment": 64,
-            "radius_meters": 3438928.55
+            "radius_meters": 23816.34
           },
           {
             "segment": 65,
-            "radius_meters": 2537.34
+            "radius_meters": 2197.43
           },
           {
             "segment": 66,
-            "radius_meters": 1909.57
+            "radius_meters": 36114.81
           },
           {
             "segment": 67,
-            "radius_meters": 4656.75
+            "radius_meters": 386.65
           },
           {
             "segment": 68,
-            "radius_meters": 3447.78
+            "radius_meters": 217.95
           },
           {
             "segment": 69,
-            "radius_meters": 1932.05
+            "radius_meters": 137774.92
           },
           {
             "segment": 70,
-            "radius_meters": 14460.57
+            "radius_meters": 1557.37
           },
           {
             "segment": 71,
-            "radius_meters": 53.57
+            "radius_meters": 13886.71
           },
           {
             "segment": 72,
-            "radius_meters": 32.83
+            "radius_meters": 2728.19
           },
           {
             "segment": 73,
-            "radius_meters": 49672.34
+            "radius_meters": 770.0
           },
           {
             "segment": 74,
-            "radius_meters": 1105.6
+            "radius_meters": 33328.8
           },
           {
             "segment": 75,
-            "radius_meters": 81886191.0
+            "radius_meters": 2169.94
           },
           {
             "segment": 76,
-            "radius_meters": 3506.02
+            "radius_meters": 16055.99
           },
           {
             "segment": 77,
-            "radius_meters": 203025.34
+            "radius_meters": 14942.08
           },
           {
             "segment": 78,
-            "radius_meters": 74.74
+            "radius_meters": 28948.91
           },
           {
             "segment": 79,
-            "radius_meters": 74.82
+            "radius_meters": 1458.04
           },
           {
             "segment": 80,
-            "radius_meters": 3438928.55
+            "radius_meters": 457.6
           },
           {
             "segment": 81,
-            "radius_meters": 2537.34
+            "radius_meters": 223.37
           },
           {
             "segment": 82,
-            "radius_meters": 1909.57
+            "radius_meters": 1566.76
           },
           {
             "segment": 83,
-            "radius_meters": 4656.75
+            "radius_meters": 30972.55
           },
           {
             "segment": 84,
-            "radius_meters": 3447.78
+            "radius_meters": 1181.63
           },
           {
             "segment": 85,
-            "radius_meters": 1932.05
+            "radius_meters": 2972.18
           },
           {
             "segment": 86,
-            "radius_meters": 14460.57
+            "radius_meters": 499.43
           },
           {
             "segment": 87,
-            "radius_meters": 51771.75
+            "radius_meters": 304.13
           },
           {
             "segment": 88,
-            "radius_meters": 10360.01
+            "radius_meters": 464.92
           },
           {
             "segment": 89,
-            "radius_meters": 3970.02
+            "radius_meters": 374.21
           },
           {
             "segment": 90,
-            "radius_meters": 6220.18
+            "radius_meters": 116.5
           },
           {
             "segment": 91,
-            "radius_meters": 35958.67
+            "radius_meters": 768.62
           },
           {
             "segment": 92,
-            "radius_meters": 380772.99
+            "radius_meters": 71.3
           },
           {
             "segment": 93,
-            "radius_meters": 3997.99
+            "radius_meters": 254.32
           },
           {
             "segment": 94,
-            "radius_meters": 4468.47
+            "radius_meters": 39.19
           },
           {
             "segment": 95,
-            "radius_meters": 2375.79
+            "radius_meters": 66.58
           },
           {
             "segment": 96,
-            "radius_meters": 170.88
+            "radius_meters": 76.29
           },
           {
             "segment": 97,
-            "radius_meters": 23738.4
+            "radius_meters": 58.98
           },
           {
             "segment": 98,
-            "radius_meters": 1339.12
+            "radius_meters": 29.37
           },
           {
             "segment": 99,
-            "radius_meters": 9530.51
+            "radius_meters": 76.38
           },
           {
             "segment": 100,
-            "radius_meters": 694.5
+            "radius_meters": 35.71
           },
           {
             "segment": 101,
-            "radius_meters": 51336.6
+            "radius_meters": 124.32
           },
           {
             "segment": 102,
-            "radius_meters": 2285.58
+            "radius_meters": 52.52
           },
           {
             "segment": 103,
-            "radius_meters": 1438.16
+            "radius_meters": 84.1
           },
           {
             "segment": 104,
-            "radius_meters": 9743.27
+            "radius_meters": 41.88
           },
           {
             "segment": 105,
-            "radius_meters": 2039.05
+            "radius_meters": 372.51
           },
           {
             "segment": 106,
-            "radius_meters": 30901.01
+            "radius_meters": 1528.89
           },
           {
             "segment": 107,
-            "radius_meters": 2560.07
+            "radius_meters": 467.91
           },
           {
             "segment": 108,
-            "radius_meters": 4961.14
+            "radius_meters": 243.23
           },
           {
             "segment": 109,
-            "radius_meters": 28478.88
+            "radius_meters": 3083.75
           },
           {
             "segment": 110,
-            "radius_meters": 3188.54
+            "radius_meters": 2594.22
           },
           {
             "segment": 111,
-            "radius_meters": 2841.87
+            "radius_meters": 237.08
           },
           {
             "segment": 112,
-            "radius_meters": 10020.27
+            "radius_meters": 97.46
           },
           {
             "segment": 113,
-            "radius_meters": 12309.01
+            "radius_meters": 8.34
           },
           {
             "segment": 114,
-            "radius_meters": 1170.79
+            "radius_meters": 61.46
           },
           {
             "segment": 115,
-            "radius_meters": 9819.57
+            "radius_meters": 4.63
           },
           {
             "segment": 116,
-            "radius_meters": 6011.33
+            "radius_meters": 39.39
           },
           {
             "segment": 117,
-            "radius_meters": 73552.21
+            "radius_meters": 228.15
           },
           {
             "segment": 118,
-            "radius_meters": 5189.64
+            "radius_meters": 436.57
           },
           {
             "segment": 119,
-            "radius_meters": 8526.02
+            "radius_meters": 1771.43
           },
           {
             "segment": 120,
-            "radius_meters": 2940.35
+            "radius_meters": 1725.38
           },
           {
             "segment": 121,
-            "radius_meters": 1679.01
+            "radius_meters": 17.81
           },
           {
             "segment": 122,
-            "radius_meters": 10.09
+            "radius_meters": 17.67
           },
           {
             "segment": 123,
-            "radius_meters": 50.53
+            "radius_meters": 3.08
           },
           {
             "segment": 124,
-            "radius_meters": 5816.56
+            "radius_meters": 8.47
           },
           {
             "segment": 125,
-            "radius_meters": 11909.63
+            "radius_meters": 5.12
           },
           {
             "segment": 126,
-            "radius_meters": 3601.42
+            "radius_meters": 11.44
           },
           {
             "segment": 127,
-            "radius_meters": 2598886.85
+            "radius_meters": 34.52
           },
           {
             "segment": 128,
-            "radius_meters": 1984.57
+            "radius_meters": 2594.22
           },
           {
             "segment": 129,
-            "radius_meters": 42.28
+            "radius_meters": 237.08
           },
           {
             "segment": 130,
-            "radius_meters": 70.91
+            "radius_meters": 97.46
           },
           {
             "segment": 131,
-            "radius_meters": 10314.36
+            "radius_meters": 195.28
           },
           {
             "segment": 132,
-            "radius_meters": 49154.5
+            "radius_meters": 152.45
           },
           {
             "segment": 133,
-            "radius_meters": 5242.6
+            "radius_meters": 152.17
           },
           {
             "segment": 134,
-            "radius_meters": 1347.44
+            "radius_meters": 1333.19
           },
           {
             "segment": 135,
-            "radius_meters": 11441.31
+            "radius_meters": 114.22
           },
           {
             "segment": 136,
-            "radius_meters": 876.7
+            "radius_meters": 111.64
           },
           {
             "segment": 137,
-            "radius_meters": 171.3
+            "radius_meters": 282.27
           },
           {
             "segment": 138,
-            "radius_meters": 405.06
+            "radius_meters": 4391.89
           },
           {
             "segment": 139,
-            "radius_meters": 1030.76
+            "radius_meters": 1089.15
           },
           {
             "segment": 140,
-            "radius_meters": 1097.74
+            "radius_meters": 953.84
           },
           {
             "segment": 141,
-            "radius_meters": 4402.62
+            "radius_meters": 4369.76
           },
           {
             "segment": 142,
-            "radius_meters": 599.03
+            "radius_meters": 2507.89
           },
           {
             "segment": 143,
-            "radius_meters": 329.39
+            "radius_meters": 30903.28
           },
           {
             "segment": 144,
-            "radius_meters": 2798.5
+            "radius_meters": 2203.5
           },
           {
             "segment": 145,
-            "radius_meters": 45.79
+            "radius_meters": 1225.96
           },
           {
             "segment": 146,
-            "radius_meters": 641.98
+            "radius_meters": 2324.83
           },
           {
             "segment": 147,
-            "radius_meters": 17384.61
+            "radius_meters": 611.22
           },
           {
             "segment": 148,
-            "radius_meters": 6755.36
+            "radius_meters": 1295.24
           },
           {
             "segment": 149,
-            "radius_meters": 10407.33
+            "radius_meters": 1117.06
           },
           {
             "segment": 150,
-            "radius_meters": 39020.79
+            "radius_meters": 45840.43
           },
           {
             "segment": 151,
-            "radius_meters": 3696.33
+            "radius_meters": 485.48
           },
           {
             "segment": 152,
-            "radius_meters": 1324.43
+            "radius_meters": 497.25
           },
           {
             "segment": 153,
-            "radius_meters": 1002.98
+            "radius_meters": 223.64
           },
           {
             "segment": 154,
-            "radius_meters": 73.99
+            "radius_meters": 106.31
           },
           {
             "segment": 155,
-            "radius_meters": 1520.72
+            "radius_meters": 217.61
           },
           {
             "segment": 156,
-            "radius_meters": 1486.02
+            "radius_meters": 162.35
           },
           {
             "segment": 157,
-            "radius_meters": 218263.84
+            "radius_meters": 435.9
           },
           {
             "segment": 158,
-            "radius_meters": 2081.37
+            "radius_meters": 122.74
           },
           {
             "segment": 159,
-            "radius_meters": Infinity
+            "radius_meters": 136.08
           },
           {
             "segment": 160,
-            "radius_meters": 6604.85
+            "radius_meters": 944.33
           },
           {
             "segment": 161,
-            "radius_meters": 4154.24
+            "radius_meters": 36249.78
           },
           {
             "segment": 162,
-            "radius_meters": 32.72
+            "radius_meters": 1266.9
           },
           {
             "segment": 163,
-            "radius_meters": 1993.83
+            "radius_meters": 62.46
           },
           {
             "segment": 164,
-            "radius_meters": 8046.95
+            "radius_meters": 469.19
           },
           {
             "segment": 165,
-            "radius_meters": 20325.57
+            "radius_meters": 986.38
           },
           {
             "segment": 166,
-            "radius_meters": 57862.86
+            "radius_meters": 267.46
           },
           {
             "segment": 167,
-            "radius_meters": 1675.45
+            "radius_meters": 201.67
           },
           {
             "segment": 168,
-            "radius_meters": 5125.91
+            "radius_meters": 234.67
           },
           {
             "segment": 169,
-            "radius_meters": 11262.42
+            "radius_meters": 2451.73
           },
           {
             "segment": 170,
-            "radius_meters": 12812.35
-          },
-          {
-            "segment": 171,
-            "radius_meters": 14030.12
-          },
-          {
-            "segment": 172,
-            "radius_meters": 65.11
-          },
-          {
-            "segment": 173,
-            "radius_meters": 12427.74
-          },
-          {
-            "segment": 174,
-            "radius_meters": 12427.74
-          },
-          {
-            "segment": 175,
-            "radius_meters": 28.53
-          },
-          {
-            "segment": 176,
-            "radius_meters": 73199.28
-          },
-          {
-            "segment": 177,
-            "radius_meters": 482.85
-          },
-          {
-            "segment": 178,
-            "radius_meters": 744.65
-          },
-          {
-            "segment": 179,
-            "radius_meters": 521.74
-          },
-          {
-            "segment": 180,
-            "radius_meters": 5608.58
-          },
-          {
-            "segment": 181,
-            "radius_meters": 48.42
-          },
-          {
-            "segment": 182,
-            "radius_meters": 3481.19
-          },
-          {
-            "segment": 183,
-            "radius_meters": 62675.8
-          },
-          {
-            "segment": 184,
-            "radius_meters": 26.4
-          },
-          {
-            "segment": 185,
-            "radius_meters": 55.58
-          },
-          {
-            "segment": 186,
-            "radius_meters": 110.57
-          },
-          {
-            "segment": 187,
-            "radius_meters": 32.88
-          },
-          {
-            "segment": 188,
-            "radius_meters": 2569.26
-          },
-          {
-            "segment": 189,
-            "radius_meters": 3375.02
-          },
-          {
-            "segment": 190,
-            "radius_meters": 1738.56
-          },
-          {
-            "segment": 191,
-            "radius_meters": 10651.73
-          },
-          {
-            "segment": 192,
-            "radius_meters": 790.22
-          },
-          {
-            "segment": 193,
-            "radius_meters": 20356.77
-          },
-          {
-            "segment": 194,
-            "radius_meters": 73.24
-          },
-          {
-            "segment": 195,
-            "radius_meters": 134.16
-          },
-          {
-            "segment": 196,
-            "radius_meters": 10.15
-          },
-          {
-            "segment": 197,
-            "radius_meters": 61.72
-          },
-          {
-            "segment": 198,
-            "radius_meters": 80.17
-          },
-          {
-            "segment": 199,
-            "radius_meters": 19.84
-          },
-          {
-            "segment": 200,
-            "radius_meters": 6.96
-          },
-          {
-            "segment": 201,
-            "radius_meters": 18.1
-          },
-          {
-            "segment": 202,
-            "radius_meters": 203.77
-          },
-          {
-            "segment": 203,
-            "radius_meters": 23733.48
-          },
-          {
-            "segment": 204,
-            "radius_meters": 185.35
-          },
-          {
-            "segment": 205,
-            "radius_meters": 17.35
-          },
-          {
-            "segment": 206,
-            "radius_meters": 55.33
-          },
-          {
-            "segment": 207,
-            "radius_meters": 102.26
-          },
-          {
-            "segment": 208,
-            "radius_meters": 52.63
-          },
-          {
-            "segment": 209,
-            "radius_meters": 12.59
-          },
-          {
-            "segment": 210,
-            "radius_meters": 131.77
-          },
-          {
-            "segment": 211,
-            "radius_meters": 75069.48
-          }
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            -43.342787,
-            -21.788015
-          ],
-          [
-            -43.342534,
-            -21.788196
-          ],
-          [
-            -43.343006,
-            -21.788615
-          ],
-          [
-            -43.343718,
-            -21.789211
-          ],
-          [
-            -43.343836,
-            -21.78929
-          ],
-          [
-            -43.344185,
-            -21.789435
-          ],
-          [
-            -43.344198,
-            -21.78944
-          ],
-          [
-            -43.344504,
-            -21.789534
-          ],
-          [
-            -43.34455,
-            -21.789373
-          ],
-          [
-            -43.344671,
-            -21.788888
-          ],
-          [
-            -43.344741,
-            -21.788696
-          ],
-          [
-            -43.344785,
-            -21.788601
-          ],
-          [
-            -43.344881,
-            -21.788394
-          ],
-          [
-            -43.345176,
-            -21.78802
-          ],
-          [
-            -43.345443,
-            -21.787633
-          ],
-          [
-            -43.345506,
-            -21.787542
-          ],
-          [
-            -43.346029,
-            -21.786835
-          ],
-          [
-            -43.345801,
-            -21.786681
-          ],
-          [
-            -43.34561,
-            -21.786549
-          ],
-          [
-            -43.345054,
-            -21.786125
-          ],
-          [
-            -43.344905,
-            -21.78601
-          ],
-          [
-            -43.344593,
-            -21.785769
-          ],
-          [
-            -43.344514,
-            -21.785709
-          ],
-          [
-            -43.343943,
-            -21.785303
-          ],
-          [
-            -43.344141,
-            -21.785064
-          ],
-          [
-            -43.344667,
-            -21.784429
-          ],
-          [
-            -43.344814,
-            -21.784255
-          ],
-          [
-            -43.345034,
-            -21.783995
-          ],
-          [
-            -43.345603,
-            -21.784409
-          ],
-          [
-            -43.346784,
-            -21.782942
-          ],
-          [
-            -43.346867,
-            -21.782824
-          ],
-          [
-            -43.346873,
-            -21.782612
-          ],
-          [
-            -43.346829,
-            -21.782257
-          ],
-          [
-            -43.346828,
-            -21.782247
-          ],
-          [
-            -43.346715,
-            -21.781305
-          ],
-          [
-            -43.346525,
-            -21.779771
-          ],
-          [
-            -43.346464,
-            -21.77974
-          ],
-          [
-            -43.346418,
-            -21.779723
-          ],
-          [
-            -43.346381,
-            -21.77975
-          ],
-          [
-            -43.345981,
-            -21.780035
-          ],
-          [
-            -43.345655,
-            -21.780268
-          ],
-          [
-            -43.345327,
-            -21.779767
-          ],
-          [
-            -43.345312,
-            -21.779671
-          ],
-          [
-            -43.345343,
-            -21.779506
-          ],
-          [
-            -43.345458,
-            -21.778999
-          ],
-          [
-            -43.345624,
-            -21.778264
-          ],
-          [
-            -43.34568,
-            -21.778031
-          ],
-          [
-            -43.345712,
-            -21.7779
-          ],
-          [
-            -43.345766,
-            -21.777661
-          ],
-          [
-            -43.34577,
-            -21.777596
-          ],
-          [
-            -43.345772,
-            -21.77751
-          ],
-          [
-            -43.345762,
-            -21.777464
-          ],
-          [
-            -43.345739,
-            -21.777417
-          ],
-          [
-            -43.345725,
-            -21.777395
-          ],
-          [
-            -43.345702,
-            -21.777366
-          ],
-          [
-            -43.345584,
-            -21.777287
-          ],
-          [
-            -43.345526,
-            -21.777245
-          ],
-          [
-            -43.345489,
-            -21.777197
-          ],
-          [
-            -43.345471,
-            -21.777134
-          ],
-          [
-            -43.345569,
-            -21.776714
-          ],
-          [
-            -43.345958,
-            -21.775167
-          ],
-          [
-            -43.345975,
-            -21.775098
-          ],
-          [
-            -43.346032,
-            -21.77488
-          ],
-          [
-            -43.346165,
-            -21.77437
-          ],
-          [
-            -43.346485,
-            -21.773161
-          ],
-          [
-            -43.346494,
-            -21.773127
-          ],
-          [
-            -43.346677,
-            -21.772482
-          ],
-          [
-            -43.346754,
-            -21.772172
-          ],
-          [
-            -43.346799,
-            -21.771996
-          ],
-          [
-            -43.346825,
-            -21.771892
-          ],
-          [
-            -43.346851,
-            -21.771791
-          ],
-          [
-            -43.347078,
-            -21.770925
-          ],
-          [
-            -43.347158,
-            -21.770944
-          ],
-          [
-            -43.347019,
-            -21.77147
-          ],
-          [
-            -43.346929,
-            -21.771809
-          ],
-          [
-            -43.346905,
-            -21.77191
-          ],
-          [
-            -43.346881,
-            -21.772011
-          ],
-          [
-            -43.346573,
-            -21.773182
-          ],
-          [
-            -43.346256,
-            -21.774391
-          ],
-          [
-            -43.346165,
-            -21.77437
-          ],
-          [
-            -43.346485,
-            -21.773161
-          ],
-          [
-            -43.346494,
-            -21.773127
-          ],
-          [
-            -43.346677,
-            -21.772482
-          ],
-          [
-            -43.346754,
-            -21.772172
-          ],
-          [
-            -43.346799,
-            -21.771996
-          ],
-          [
-            -43.346825,
-            -21.771892
-          ],
-          [
-            -43.346851,
-            -21.771791
-          ],
-          [
-            -43.347078,
-            -21.770925
-          ],
-          [
-            -43.347237,
-            -21.770323
-          ],
-          [
-            -43.347292,
-            -21.770119
-          ],
-          [
-            -43.347523,
-            -21.769316
-          ],
-          [
-            -43.347615,
-            -21.768981
-          ],
-          [
-            -43.347679,
-            -21.768747
-          ],
-          [
-            -43.34789,
-            -21.767975
-          ],
-          [
-            -43.348132,
-            -21.766976
-          ],
-          [
-            -43.348255,
-            -21.766412
-          ],
-          [
-            -43.348268,
-            -21.766347
-          ],
-          [
-            -43.348304,
-            -21.766218
-          ],
-          [
-            -43.348488,
-            -21.765553
-          ],
-          [
-            -43.348519,
-            -21.765421
-          ],
-          [
-            -43.348633,
-            -21.764926
-          ],
-          [
-            -43.348669,
-            -21.764803
-          ],
-          [
-            -43.348857,
-            -21.764163
-          ],
-          [
-            -43.349037,
-            -21.763448
-          ],
-          [
-            -43.349063,
-            -21.763325
-          ],
-          [
-            -43.349179,
-            -21.762788
-          ],
-          [
-            -43.349323,
-            -21.76222
-          ],
-          [
-            -43.349542,
-            -21.761367
-          ],
-          [
-            -43.349816,
-            -21.76047
-          ],
-          [
-            -43.349989,
-            -21.75986
-          ],
-          [
-            -43.350055,
-            -21.759629
-          ],
-          [
-            -43.350232,
-            -21.758963
-          ],
-          [
-            -43.350435,
-            -21.758071
-          ],
-          [
-            -43.350446,
-            -21.758024
-          ],
-          [
-            -43.350594,
-            -21.757381
-          ],
-          [
-            -43.350673,
-            -21.757104
-          ],
-          [
-            -43.350717,
-            -21.756948
-          ],
-          [
-            -43.350852,
-            -21.756456
-          ],
-          [
-            -43.351007,
-            -21.755889
-          ],
-          [
-            -43.351304,
-            -21.754699
-          ],
-          [
-            -43.351626,
-            -21.753503
-          ],
-          [
-            -43.351686,
-            -21.753305
-          ],
-          [
-            -43.351709,
-            -21.753226
-          ],
-          [
-            -43.351791,
-            -21.753202
-          ],
-          [
-            -43.351963,
-            -21.752544
-          ],
-          [
-            -43.35203,
-            -21.752298
-          ],
-          [
-            -43.352197,
-            -21.751696
-          ],
-          [
-            -43.352603,
-            -21.749944
-          ],
-          [
-            -43.352673,
-            -21.749642
-          ],
-          [
-            -43.352855,
-            -21.748959
-          ],
-          [
-            -43.352791,
-            -21.748945
-          ],
-          [
-            -43.35309,
-            -21.747796
-          ],
-          [
-            -43.353328,
-            -21.746828
-          ],
-          [
-            -43.353378,
-            -21.746626
-          ],
-          [
-            -43.353425,
-            -21.746432
-          ],
-          [
-            -43.353474,
-            -21.746245
-          ],
-          [
-            -43.353608,
-            -21.745725
-          ],
-          [
-            -43.353682,
-            -21.745493
-          ],
-          [
-            -43.353698,
-            -21.745408
-          ],
-          [
-            -43.353871,
-            -21.744836
-          ],
-          [
-            -43.353904,
-            -21.744706
-          ],
-          [
-            -43.354008,
-            -21.744342
-          ],
-          [
-            -43.354084,
-            -21.744066
-          ],
-          [
-            -43.35409,
-            -21.744041
-          ],
-          [
-            -43.354101,
-            -21.743992
-          ],
-          [
-            -43.35428,
-            -21.743258
-          ],
-          [
-            -43.354405,
-            -21.743282
-          ],
-          [
-            -43.354819,
-            -21.743381
-          ],
-          [
-            -43.355191,
-            -21.743469
-          ],
-          [
-            -43.355433,
-            -21.743525
-          ],
-          [
-            -43.35665,
-            -21.743797
-          ],
-          [
-            -43.356808,
-            -21.743832
-          ],
-          [
-            -43.357813,
-            -21.744037
-          ],
-          [
-            -43.357882,
-            -21.744048
-          ],
-          [
-            -43.358082,
-            -21.744077
-          ],
-          [
-            -43.358219,
-            -21.744064
-          ],
-          [
-            -43.358626,
-            -21.744033
-          ],
-          [
-            -43.359311,
-            -21.744007
-          ],
-          [
-            -43.360699,
-            -21.743955
-          ],
-          [
-            -43.360817,
-            -21.743955
-          ],
-          [
-            -43.360843,
-            -21.743955
-          ],
-          [
-            -43.362883,
-            -21.743988
-          ],
-          [
-            -43.363349,
-            -21.743981
-          ],
-          [
-            -43.363307,
-            -21.743613
-          ],
-          [
-            -43.363268,
-            -21.743167
-          ],
-          [
-            -43.363255,
-            -21.743026
-          ],
-          [
-            -43.36324,
-            -21.742865
-          ],
-          [
-            -43.363174,
-            -21.742149
-          ],
-          [
-            -43.363171,
-            -21.742101
-          ],
-          [
-            -43.363133,
-            -21.741558
-          ],
-          [
-            -43.363112,
-            -21.741277
-          ],
-          [
-            -43.363093,
-            -21.741013
-          ],
-          [
-            -43.363054,
-            -21.740497
-          ],
-          [
-            -43.362024,
-            -21.740572
-          ],
-          [
-            -43.363002,
-            -21.740501
-          ],
-          [
-            -43.363054,
-            -21.740497
-          ],
-          [
-            -43.363016,
-            -21.740025
-          ],
-          [
-            -43.363008,
-            -21.739925
-          ],
-          [
-            -43.362972,
-            -21.73965
-          ],
-          [
-            -43.362943,
-            -21.73948
-          ],
-          [
-            -43.362902,
-            -21.738724
-          ],
-          [
-            -43.362887,
-            -21.738361
-          ],
-          [
-            -43.362721,
-            -21.738205
-          ],
-          [
-            -43.362476,
-            -21.737979
-          ],
-          [
-            -43.36228,
-            -21.737798
-          ],
-          [
-            -43.362551,
-            -21.737544
-          ],
-          [
-            -43.362513,
-            -21.737126
-          ],
-          [
-            -43.362527,
-            -21.737056
-          ],
-          [
-            -43.362575,
-            -21.736972
-          ],
-          [
-            -43.362662,
-            -21.736822
-          ],
-          [
-            -43.363003,
-            -21.736212
-          ],
-          [
-            -43.363073,
-            -21.736095
-          ],
-          [
-            -43.363217,
-            -21.735853
-          ],
-          [
-            -43.363562,
-            -21.735354
-          ],
-          [
-            -43.36367,
-            -21.735197
-          ],
-          [
-            -43.364655,
-            -21.735194
-          ],
-          [
-            -43.364698,
-            -21.735175
-          ],
-          [
-            -43.364725,
-            -21.735138
-          ],
-          [
-            -43.364779,
-            -21.734705
-          ],
-          [
-            -43.36483,
-            -21.734622
-          ],
-          [
-            -43.364922,
-            -21.734579
-          ],
-          [
-            -43.364951,
-            -21.734611
-          ],
-          [
-            -43.36497,
-            -21.734651
-          ],
-          [
-            -43.365111,
-            -21.735448
-          ],
-          [
-            -43.365142,
-            -21.735626
-          ],
-          [
-            -43.365171,
-            -21.73573
-          ],
-          [
-            -43.36526,
-            -21.735785
-          ],
-          [
-            -43.365348,
-            -21.735818
-          ],
-          [
-            -43.365982,
-            -21.735806
-          ],
-          [
-            -43.366025,
-            -21.735763
-          ],
-          [
-            -43.366037,
-            -21.735713
-          ],
-          [
-            -43.365993,
-            -21.735135
-          ],
-          [
-            -43.365909,
-            -21.734052
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "summary": "",
-        "route_type": "Bairro-Centro",
-        "color": "blue",
-        "direction": "blue",
-        "radii": [
-          {
-            "segment": 1,
             "radius_meters": Infinity
           },
           {
-            "segment": 2,
-            "radius_meters": 90859.41
-          },
-          {
-            "segment": 3,
-            "radius_meters": 164.19
-          },
-          {
-            "segment": 4,
-            "radius_meters": 12.59
-          },
-          {
-            "segment": 5,
-            "radius_meters": 20.88
-          },
-          {
-            "segment": 6,
-            "radius_meters": 23437.25
-          },
-          {
-            "segment": 7,
-            "radius_meters": 70.8
-          },
-          {
-            "segment": 8,
-            "radius_meters": 55.33
-          },
-          {
-            "segment": 9,
-            "radius_meters": 17.35
-          },
-          {
-            "segment": 10,
-            "radius_meters": 153.54
-          },
-          {
-            "segment": 11,
-            "radius_meters": 18727.47
-          },
-          {
-            "segment": 12,
-            "radius_meters": 217.85
-          },
-          {
-            "segment": 13,
-            "radius_meters": 18.1
-          },
-          {
-            "segment": 14,
-            "radius_meters": 6.96
-          },
-          {
-            "segment": 15,
-            "radius_meters": 19.84
-          },
-          {
-            "segment": 16,
-            "radius_meters": 54.05
-          },
-          {
-            "segment": 17,
-            "radius_meters": 6559.11
-          },
-          {
-            "segment": 18,
-            "radius_meters": 27.58
-          },
-          {
-            "segment": 19,
-            "radius_meters": 10.15
-          },
-          {
-            "segment": 20,
-            "radius_meters": 134.16
-          },
-          {
-            "segment": 21,
-            "radius_meters": 87.97
-          },
-          {
-            "segment": 22,
-            "radius_meters": 146983.58
-          },
-          {
-            "segment": 23,
-            "radius_meters": 667.02
-          },
-          {
-            "segment": 24,
-            "radius_meters": 948.68
-          },
-          {
-            "segment": 25,
-            "radius_meters": 9712.98
-          },
-          {
-            "segment": 26,
-            "radius_meters": 4197.13
-          },
-          {
-            "segment": 27,
-            "radius_meters": 65.97
-          },
-          {
-            "segment": 28,
-            "radius_meters": 26.81
-          },
-          {
-            "segment": 29,
-            "radius_meters": 3357.52
-          },
-          {
-            "segment": 30,
-            "radius_meters": 61.09
-          },
-          {
-            "segment": 31,
-            "radius_meters": 113.39
-          },
-          {
-            "segment": 32,
-            "radius_meters": 12.5
-          },
-          {
-            "segment": 33,
-            "radius_meters": 68.91
-          },
-          {
-            "segment": 34,
-            "radius_meters": 2487.31
-          },
-          {
-            "segment": 35,
-            "radius_meters": 733.48
-          },
-          {
-            "segment": 36,
-            "radius_meters": 4201.35
-          },
-          {
-            "segment": 37,
-            "radius_meters": 79.65
-          },
-          {
-            "segment": 38,
-            "radius_meters": 93141.34
-          },
-          {
-            "segment": 39,
-            "radius_meters": 38.12
-          },
-          {
-            "segment": 40,
-            "radius_meters": 7.32
-          },
-          {
-            "segment": 41,
-            "radius_meters": 17.74
-          },
-          {
-            "segment": 42,
-            "radius_meters": 455.03
-          },
-          {
-            "segment": 43,
-            "radius_meters": 3713.07
-          },
-          {
-            "segment": 44,
-            "radius_meters": 19609.68
-          },
-          {
-            "segment": 45,
-            "radius_meters": 13556.74
-          },
-          {
-            "segment": 46,
-            "radius_meters": 12890.19
-          },
-          {
-            "segment": 47,
-            "radius_meters": 5164.06
-          },
-          {
-            "segment": 48,
-            "radius_meters": 11719.87
-          },
-          {
-            "segment": 49,
-            "radius_meters": 12439.02
-          },
-          {
-            "segment": 50,
-            "radius_meters": 519.38
-          },
-          {
-            "segment": 51,
-            "radius_meters": 29.6
-          },
-          {
-            "segment": 52,
-            "radius_meters": 19.78
-          },
-          {
-            "segment": 53,
-            "radius_meters": 6314.55
-          },
-          {
-            "segment": 54,
-            "radius_meters": 531.76
-          },
-          {
-            "segment": 55,
-            "radius_meters": 10.72
-          },
-          {
-            "segment": 56,
-            "radius_meters": 17.7
-          },
-          {
-            "segment": 57,
-            "radius_meters": 10.05
-          },
-          {
-            "segment": 58,
-            "radius_meters": 56.22
-          },
-          {
-            "segment": 59,
-            "radius_meters": 397.35
-          },
-          {
-            "segment": 60,
-            "radius_meters": 435.1
-          },
-          {
-            "segment": 61,
-            "radius_meters": 241.13
-          },
-          {
-            "segment": 62,
-            "radius_meters": 194.09
-          },
-          {
-            "segment": 63,
-            "radius_meters": 193.91
-          },
-          {
-            "segment": 64,
-            "radius_meters": 766.75
-          },
-          {
-            "segment": 65,
-            "radius_meters": 21611.9
-          },
-          {
-            "segment": 66,
-            "radius_meters": 14419.02
-          },
-          {
-            "segment": 67,
-            "radius_meters": 820.62
-          },
-          {
-            "segment": 68,
-            "radius_meters": 4158.8
-          },
-          {
-            "segment": 69,
-            "radius_meters": 2975.53
-          },
-          {
-            "segment": 70,
-            "radius_meters": 5955.85
-          },
-          {
-            "segment": 71,
-            "radius_meters": 2301.3
-          },
-          {
-            "segment": 72,
-            "radius_meters": 333.5
-          },
-          {
-            "segment": 73,
-            "radius_meters": 1028.97
-          },
-          {
-            "segment": 74,
-            "radius_meters": 6741.96
-          },
-          {
-            "segment": 75,
-            "radius_meters": 2864.3
-          },
-          {
-            "segment": 76,
-            "radius_meters": 2361.04
-          },
-          {
-            "segment": 77,
-            "radius_meters": 1166.45
-          },
-          {
-            "segment": 78,
-            "radius_meters": 107088.47
-          },
-          {
-            "segment": 79,
-            "radius_meters": 107028.74
-          },
-          {
-            "segment": 80,
-            "radius_meters": 731.65
-          },
-          {
-            "segment": 81,
-            "radius_meters": 48.99
-          },
-          {
-            "segment": 82,
-            "radius_meters": 550.12
-          },
-          {
-            "segment": 83,
-            "radius_meters": 255.82
-          },
-          {
-            "segment": 84,
-            "radius_meters": 646.26
-          },
-          {
-            "segment": 85,
-            "radius_meters": 55813.72
-          },
-          {
-            "segment": 86,
-            "radius_meters": 3295180.42
-          },
-          {
-            "segment": 87,
-            "radius_meters": 17480.68
-          },
-          {
-            "segment": 88,
-            "radius_meters": 28609.26
-          },
-          {
-            "segment": 89,
-            "radius_meters": 6445.82
-          },
-          {
-            "segment": 90,
-            "radius_meters": 11919.89
-          },
-          {
-            "segment": 91,
-            "radius_meters": 7119.94
-          },
-          {
-            "segment": 92,
-            "radius_meters": 10831.82
-          },
-          {
-            "segment": 93,
-            "radius_meters": 2005.4
-          },
-          {
-            "segment": 94,
-            "radius_meters": 2540.47
-          },
-          {
-            "segment": 95,
-            "radius_meters": 3863.62
-          },
-          {
-            "segment": 96,
-            "radius_meters": 5698.98
-          },
-          {
-            "segment": 97,
-            "radius_meters": 1105.08
-          },
-          {
-            "segment": 98,
-            "radius_meters": 8393.84
-          },
-          {
-            "segment": 99,
-            "radius_meters": 2040.03
-          },
-          {
-            "segment": 100,
-            "radius_meters": 42220.75
-          },
-          {
-            "segment": 101,
-            "radius_meters": 52151.27
-          },
-          {
-            "segment": 102,
-            "radius_meters": 10698.01
-          },
-          {
-            "segment": 103,
-            "radius_meters": 14596.38
-          },
-          {
-            "segment": 104,
-            "radius_meters": 10719.05
-          },
-          {
-            "segment": 105,
-            "radius_meters": 40933.83
-          },
-          {
-            "segment": 106,
-            "radius_meters": 7890.91
-          },
-          {
-            "segment": 107,
-            "radius_meters": 94777.92
-          },
-          {
-            "segment": 108,
-            "radius_meters": 1058.03
-          },
-          {
-            "segment": 109,
-            "radius_meters": 1378.41
-          },
-          {
-            "segment": 110,
-            "radius_meters": 49.03
-          },
-          {
-            "segment": 111,
-            "radius_meters": 623.33
-          },
-          {
-            "segment": 112,
-            "radius_meters": 81202.75
-          },
-          {
-            "segment": 113,
-            "radius_meters": 2238.92
-          },
-          {
-            "segment": 114,
-            "radius_meters": 27208.17
-          },
-          {
-            "segment": 115,
-            "radius_meters": 1794.89
-          },
-          {
-            "segment": 116,
-            "radius_meters": 150086.67
-          },
-          {
-            "segment": 117,
-            "radius_meters": 79197.94
-          },
-          {
-            "segment": 118,
-            "radius_meters": 18.6
-          },
-          {
-            "segment": 119,
-            "radius_meters": 1141.19
-          },
-          {
-            "segment": 120,
-            "radius_meters": 47.16
-          },
-          {
-            "segment": 121,
-            "radius_meters": 9.61
-          },
-          {
-            "segment": 122,
-            "radius_meters": 3.78
-          },
-          {
-            "segment": 123,
-            "radius_meters": 11.29
-          },
-          {
-            "segment": 124,
-            "radius_meters": 96.5
-          },
-          {
-            "segment": 125,
-            "radius_meters": 28.7
-          },
-          {
-            "segment": 126,
-            "radius_meters": 1021.71
-          },
-          {
-            "segment": 127,
-            "radius_meters": 78.9
-          },
-          {
-            "segment": 128,
-            "radius_meters": 783.75
-          },
-          {
-            "segment": 129,
-            "radius_meters": 17.43
-          },
-          {
-            "segment": 130,
-            "radius_meters": 216707.5
-          },
-          {
-            "segment": 131,
-            "radius_meters": 8690.49
-          },
-          {
-            "segment": 132,
-            "radius_meters": 4655.1
-          },
-          {
-            "segment": 133,
-            "radius_meters": 4934.56
-          },
-          {
-            "segment": 134,
-            "radius_meters": 3238.94
-          },
-          {
-            "segment": 135,
-            "radius_meters": 2010.06
-          },
-          {
-            "segment": 136,
-            "radius_meters": 3959.39
-          },
-          {
-            "segment": 137,
-            "radius_meters": 56593.33
-          },
-          {
-            "segment": 138,
-            "radius_meters": 3791.69
-          },
-          {
-            "segment": 139,
-            "radius_meters": 1836.8
-          },
-          {
-            "segment": 140,
-            "radius_meters": 6503.72
-          },
-          {
-            "segment": 141,
-            "radius_meters": 786.49
-          },
-          {
-            "segment": 142,
-            "radius_meters": 317.84
-          },
-          {
-            "segment": 143,
-            "radius_meters": 3102.31
-          },
-          {
-            "segment": 144,
-            "radius_meters": 6962.88
-          },
-          {
-            "segment": 145,
-            "radius_meters": 510.72
-          },
-          {
-            "segment": 146,
-            "radius_meters": 9201.51
-          },
-          {
-            "segment": 147,
-            "radius_meters": 2698.14
-          },
-          {
-            "segment": 148,
-            "radius_meters": 8244.36
-          },
-          {
-            "segment": 149,
-            "radius_meters": 42731.12
-          },
-          {
-            "segment": 150,
-            "radius_meters": 33147.1
-          },
-          {
-            "segment": 151,
-            "radius_meters": 18530.19
-          },
-          {
-            "segment": 152,
-            "radius_meters": 546.38
-          },
-          {
-            "segment": 153,
-            "radius_meters": 3421.5
-          },
-          {
-            "segment": 154,
-            "radius_meters": 36404.54
-          },
-          {
-            "segment": 155,
-            "radius_meters": 23554.71
-          },
-          {
-            "segment": 156,
-            "radius_meters": 59.71
-          },
-          {
-            "segment": 157,
-            "radius_meters": 88.34
-          },
-          {
-            "segment": 158,
-            "radius_meters": 87.72
-          },
-          {
-            "segment": 159,
-            "radius_meters": 5278.17
-          },
-          {
-            "segment": 160,
-            "radius_meters": 816.88
-          },
-          {
-            "segment": 161,
-            "radius_meters": 49.21
-          },
-          {
-            "segment": 162,
-            "radius_meters": 8059.12
-          },
-          {
-            "segment": 163,
-            "radius_meters": 41373.13
-          },
-          {
-            "segment": 164,
-            "radius_meters": 28079.81
-          },
-          {
-            "segment": 165,
-            "radius_meters": 15757.13
-          },
-          {
-            "segment": 166,
-            "radius_meters": 29.42
-          },
-          {
-            "segment": 167,
-            "radius_meters": 67.15
-          },
-          {
-            "segment": 168,
-            "radius_meters": 6829.31
-          },
-          {
-            "segment": 169,
-            "radius_meters": 35639.77
-          },
-          {
-            "segment": 170,
-            "radius_meters": 1543.88
-          },
-          {
             "segment": 171,
-            "radius_meters": 138.08
+            "radius_meters": Infinity
           },
           {
             "segment": 172,
-            "radius_meters": 317.23
+            "radius_meters": 935.17
           },
           {
             "segment": 173,
-            "radius_meters": 213.55
+            "radius_meters": 2222.64
           },
           {
             "segment": 174,
-            "radius_meters": 190.38
+            "radius_meters": 362.35
           },
           {
             "segment": 175,
-            "radius_meters": 195.65
+            "radius_meters": 2187.37
           },
           {
             "segment": 176,
-            "radius_meters": 98.64
+            "radius_meters": 1005.16
           },
           {
             "segment": 177,
-            "radius_meters": 530.66
+            "radius_meters": 927.07
           },
           {
             "segment": 178,
-            "radius_meters": 1605.6
+            "radius_meters": 5636.65
           },
           {
             "segment": 179,
-            "radius_meters": 2382.3
+            "radius_meters": 763.69
           },
           {
             "segment": 180,
-            "radius_meters": 8160.51
+            "radius_meters": 670.19
           },
           {
             "segment": 181,
-            "radius_meters": 44770.9
+            "radius_meters": 4009.49
           },
           {
             "segment": 182,
-            "radius_meters": 843.09
+            "radius_meters": 262.48
           },
           {
             "segment": 183,
-            "radius_meters": 723.4
+            "radius_meters": 80.44
           },
           {
             "segment": 184,
-            "radius_meters": 65660597.12
+            "radius_meters": 2159.38
           },
           {
             "segment": 185,
-            "radius_meters": 899.95
+            "radius_meters": 17390.9
           },
           {
             "segment": 186,
-            "radius_meters": 22.53
+            "radius_meters": 25124.61
           },
           {
             "segment": 187,
-            "radius_meters": 267.9
+            "radius_meters": 554.42
           },
           {
             "segment": 188,
-            "radius_meters": 17366.12
+            "radius_meters": 10491.17
           },
           {
             "segment": 189,
-            "radius_meters": 42.79
+            "radius_meters": 204.84
           },
           {
             "segment": 190,
-            "radius_meters": 33758.58
+            "radius_meters": 3047.17
           },
           {
             "segment": 191,
-            "radius_meters": 5942.39
+            "radius_meters": 1424.36
           },
           {
             "segment": 192,
-            "radius_meters": 32870.59
+            "radius_meters": 2506.38
           },
           {
             "segment": 193,
-            "radius_meters": 43.1
+            "radius_meters": 330.88
           },
           {
             "segment": 194,
-            "radius_meters": 40.42
+            "radius_meters": 263.98
           },
           {
             "segment": 195,
-            "radius_meters": 1098.64
+            "radius_meters": 558.99
           },
           {
             "segment": 196,
-            "radius_meters": 1188.04
+            "radius_meters": 218.23
           },
           {
             "segment": 197,
-            "radius_meters": 942.39
+            "radius_meters": 276.42
           },
           {
             "segment": 198,
-            "radius_meters": 30262.33
+            "radius_meters": 318.75
           },
           {
             "segment": 199,
-            "radius_meters": 126.06
+            "radius_meters": 156729.23
           },
           {
             "segment": 200,
-            "radius_meters": 8608.61
+            "radius_meters": 11310.19
           },
           {
             "segment": 201,
-            "radius_meters": 44.65
+            "radius_meters": 323951.21
           },
           {
             "segment": 202,
-            "radius_meters": 4013.88
+            "radius_meters": 2691.72
           },
           {
             "segment": 203,
-            "radius_meters": 51.35
+            "radius_meters": 546.92
           },
           {
             "segment": 204,
-            "radius_meters": 68735.37
+            "radius_meters": 412.46
           },
           {
             "segment": 205,
-            "radius_meters": 6083.28
+            "radius_meters": 391.49
           },
           {
             "segment": 206,
-            "radius_meters": 1733.87
+            "radius_meters": 198.2
           },
           {
             "segment": 207,
-            "radius_meters": 32445.27
+            "radius_meters": 128.95
           },
           {
             "segment": 208,
-            "radius_meters": 551.22
+            "radius_meters": 151.77
           },
           {
             "segment": 209,
-            "radius_meters": 1022.61
+            "radius_meters": 4.93
           },
           {
             "segment": 210,
-            "radius_meters": 27754.03
+            "radius_meters": 6.26
           },
           {
             "segment": 211,
-            "radius_meters": 42.85
+            "radius_meters": 326.45
           },
           {
             "segment": 212,
-            "radius_meters": 7839.39
+            "radius_meters": 6735.44
           },
           {
             "segment": 213,
-            "radius_meters": 1897.63
+            "radius_meters": 469.45
           },
           {
             "segment": 214,
-            "radius_meters": 59.07
+            "radius_meters": 6829.37
+          },
+          {
+            "segment": 215,
+            "radius_meters": 270.72
+          },
+          {
+            "segment": 216,
+            "radius_meters": 113.74
+          },
+          {
+            "segment": 217,
+            "radius_meters": 76.11
+          },
+          {
+            "segment": 218,
+            "radius_meters": 54.73
+          },
+          {
+            "segment": 219,
+            "radius_meters": 758.81
+          },
+          {
+            "segment": 220,
+            "radius_meters": 234.0
+          },
+          {
+            "segment": 221,
+            "radius_meters": 1227.11
+          },
+          {
+            "segment": 222,
+            "radius_meters": 335.37
+          },
+          {
+            "segment": 223,
+            "radius_meters": 432.89
+          },
+          {
+            "segment": 224,
+            "radius_meters": 177.07
+          },
+          {
+            "segment": 225,
+            "radius_meters": 351.91
+          },
+          {
+            "segment": 226,
+            "radius_meters": 1058.87
+          },
+          {
+            "segment": 227,
+            "radius_meters": 1203.6
+          },
+          {
+            "segment": 228,
+            "radius_meters": 92812.6
+          },
+          {
+            "segment": 229,
+            "radius_meters": 238.24
+          },
+          {
+            "segment": 230,
+            "radius_meters": 1740.57
+          },
+          {
+            "segment": 231,
+            "radius_meters": 592.3
+          },
+          {
+            "segment": 232,
+            "radius_meters": 410.93
+          },
+          {
+            "segment": 233,
+            "radius_meters": 204.71
+          },
+          {
+            "segment": 234,
+            "radius_meters": 945.58
+          },
+          {
+            "segment": 235,
+            "radius_meters": 846.11
+          },
+          {
+            "segment": 236,
+            "radius_meters": 744.38
+          },
+          {
+            "segment": 237,
+            "radius_meters": 7717.27
+          },
+          {
+            "segment": 238,
+            "radius_meters": 593.47
+          },
+          {
+            "segment": 239,
+            "radius_meters": 2070.8
+          },
+          {
+            "segment": 240,
+            "radius_meters": 3260.04
+          },
+          {
+            "segment": 241,
+            "radius_meters": 5388.94
+          },
+          {
+            "segment": 242,
+            "radius_meters": 29237.92
+          },
+          {
+            "segment": 243,
+            "radius_meters": 116543.07
+          },
+          {
+            "segment": 244,
+            "radius_meters": 14003.16
+          },
+          {
+            "segment": 245,
+            "radius_meters": 4502.13
+          },
+          {
+            "segment": 246,
+            "radius_meters": 1025.66
+          },
+          {
+            "segment": 247,
+            "radius_meters": 639.97
+          },
+          {
+            "segment": 248,
+            "radius_meters": 413.08
+          },
+          {
+            "segment": 249,
+            "radius_meters": 12096.58
+          },
+          {
+            "segment": 250,
+            "radius_meters": 987.94
+          },
+          {
+            "segment": 251,
+            "radius_meters": 1309.98
+          },
+          {
+            "segment": 252,
+            "radius_meters": 141116.97
+          },
+          {
+            "segment": 253,
+            "radius_meters": 2796.71
+          },
+          {
+            "segment": 254,
+            "radius_meters": 551.87
+          },
+          {
+            "segment": 255,
+            "radius_meters": 278.63
+          },
+          {
+            "segment": 256,
+            "radius_meters": 24456.15
+          },
+          {
+            "segment": 257,
+            "radius_meters": 565.1
+          },
+          {
+            "segment": 258,
+            "radius_meters": 30545.4
+          },
+          {
+            "segment": 259,
+            "radius_meters": 500.53
+          },
+          {
+            "segment": 260,
+            "radius_meters": 308.29
+          },
+          {
+            "segment": 261,
+            "radius_meters": 204.27
+          },
+          {
+            "segment": 262,
+            "radius_meters": 1566.02
+          },
+          {
+            "segment": 263,
+            "radius_meters": 577.87
+          },
+          {
+            "segment": 264,
+            "radius_meters": 371.03
+          },
+          {
+            "segment": 265,
+            "radius_meters": 483.18
+          },
+          {
+            "segment": 266,
+            "radius_meters": 8767.18
+          },
+          {
+            "segment": 267,
+            "radius_meters": 110.09
+          },
+          {
+            "segment": 268,
+            "radius_meters": 255.21
+          },
+          {
+            "segment": 269,
+            "radius_meters": 3074.73
+          },
+          {
+            "segment": 270,
+            "radius_meters": 504.61
+          },
+          {
+            "segment": 271,
+            "radius_meters": 172.82
+          },
+          {
+            "segment": 272,
+            "radius_meters": 653.03
+          },
+          {
+            "segment": 273,
+            "radius_meters": 19278.87
+          },
+          {
+            "segment": 274,
+            "radius_meters": 2568.87
+          },
+          {
+            "segment": 275,
+            "radius_meters": 9116.03
+          },
+          {
+            "segment": 276,
+            "radius_meters": 7169.72
+          },
+          {
+            "segment": 277,
+            "radius_meters": 1628.45
+          },
+          {
+            "segment": 278,
+            "radius_meters": 328613.37
+          },
+          {
+            "segment": 279,
+            "radius_meters": 562.39
+          },
+          {
+            "segment": 280,
+            "radius_meters": 29794.32
+          },
+          {
+            "segment": 281,
+            "radius_meters": 614.57
+          },
+          {
+            "segment": 282,
+            "radius_meters": 217.81
+          },
+          {
+            "segment": 283,
+            "radius_meters": 313.25
+          },
+          {
+            "segment": 284,
+            "radius_meters": 960.56
+          },
+          {
+            "segment": 285,
+            "radius_meters": 915.13
+          },
+          {
+            "segment": 286,
+            "radius_meters": 200.47
+          },
+          {
+            "segment": 287,
+            "radius_meters": 191.43
+          },
+          {
+            "segment": 288,
+            "radius_meters": 1774.05
+          },
+          {
+            "segment": 289,
+            "radius_meters": 2943.18
+          },
+          {
+            "segment": 290,
+            "radius_meters": 691.39
+          },
+          {
+            "segment": 291,
+            "radius_meters": 207.83
+          },
+          {
+            "segment": 292,
+            "radius_meters": 341.08
+          },
+          {
+            "segment": 293,
+            "radius_meters": 4258.54
+          },
+          {
+            "segment": 294,
+            "radius_meters": 689.54
+          },
+          {
+            "segment": 295,
+            "radius_meters": 729.48
+          },
+          {
+            "segment": 296,
+            "radius_meters": 591.43
+          },
+          {
+            "segment": 297,
+            "radius_meters": 617.79
+          },
+          {
+            "segment": 298,
+            "radius_meters": 288.6
+          },
+          {
+            "segment": 299,
+            "radius_meters": 1997.99
+          },
+          {
+            "segment": 300,
+            "radius_meters": 16791.01
+          },
+          {
+            "segment": 301,
+            "radius_meters": 222.44
+          },
+          {
+            "segment": 302,
+            "radius_meters": 67.6
+          },
+          {
+            "segment": 303,
+            "radius_meters": 1000.32
+          },
+          {
+            "segment": 304,
+            "radius_meters": 184.13
+          },
+          {
+            "segment": 305,
+            "radius_meters": 1357.3
+          },
+          {
+            "segment": 306,
+            "radius_meters": 172.06
+          },
+          {
+            "segment": 307,
+            "radius_meters": 639.51
+          },
+          {
+            "segment": 308,
+            "radius_meters": 272.82
+          },
+          {
+            "segment": 309,
+            "radius_meters": 382.74
+          },
+          {
+            "segment": 310,
+            "radius_meters": 214.56
+          },
+          {
+            "segment": 311,
+            "radius_meters": 321.84
+          },
+          {
+            "segment": 312,
+            "radius_meters": 324.76
+          },
+          {
+            "segment": 313,
+            "radius_meters": 1748.29
+          },
+          {
+            "segment": 314,
+            "radius_meters": 413.04
+          },
+          {
+            "segment": 315,
+            "radius_meters": 228.45
+          },
+          {
+            "segment": 316,
+            "radius_meters": 27244.68
+          },
+          {
+            "segment": 317,
+            "radius_meters": 2368.43
+          },
+          {
+            "segment": 318,
+            "radius_meters": 757.61
+          },
+          {
+            "segment": 319,
+            "radius_meters": 558.8
+          },
+          {
+            "segment": 320,
+            "radius_meters": 1118.41
+          },
+          {
+            "segment": 321,
+            "radius_meters": 144.59
+          },
+          {
+            "segment": 322,
+            "radius_meters": 225.17
+          },
+          {
+            "segment": 323,
+            "radius_meters": 211.51
+          },
+          {
+            "segment": 324,
+            "radius_meters": 285.77
+          },
+          {
+            "segment": 325,
+            "radius_meters": 1262.45
+          },
+          {
+            "segment": 326,
+            "radius_meters": 129.28
+          },
+          {
+            "segment": 327,
+            "radius_meters": 308.9
+          },
+          {
+            "segment": 328,
+            "radius_meters": 387.43
+          },
+          {
+            "segment": 329,
+            "radius_meters": 222.1
+          },
+          {
+            "segment": 330,
+            "radius_meters": 319.9
+          },
+          {
+            "segment": 331,
+            "radius_meters": 154.74
+          },
+          {
+            "segment": 332,
+            "radius_meters": 3503.34
+          },
+          {
+            "segment": 333,
+            "radius_meters": 180.48
+          },
+          {
+            "segment": 334,
+            "radius_meters": 698.1
+          },
+          {
+            "segment": 335,
+            "radius_meters": 1011.02
+          },
+          {
+            "segment": 336,
+            "radius_meters": 1955.89
+          },
+          {
+            "segment": 337,
+            "radius_meters": 959.46
+          },
+          {
+            "segment": 338,
+            "radius_meters": 762.09
+          },
+          {
+            "segment": 339,
+            "radius_meters": 161.05
+          },
+          {
+            "segment": 340,
+            "radius_meters": 1562.91
+          },
+          {
+            "segment": 341,
+            "radius_meters": 463.9
+          },
+          {
+            "segment": 342,
+            "radius_meters": 2242.18
+          },
+          {
+            "segment": 343,
+            "radius_meters": 124.06
+          },
+          {
+            "segment": 344,
+            "radius_meters": 224.69
+          },
+          {
+            "segment": 345,
+            "radius_meters": 105.15
+          },
+          {
+            "segment": 346,
+            "radius_meters": 275.39
+          },
+          {
+            "segment": 347,
+            "radius_meters": 1189.28
+          },
+          {
+            "segment": 348,
+            "radius_meters": 1287.95
+          },
+          {
+            "segment": 349,
+            "radius_meters": 131.52
+          },
+          {
+            "segment": 350,
+            "radius_meters": 55.65
+          },
+          {
+            "segment": 351,
+            "radius_meters": 223.68
+          },
+          {
+            "segment": 352,
+            "radius_meters": 4985.99
+          },
+          {
+            "segment": 353,
+            "radius_meters": 5286.67
+          },
+          {
+            "segment": 354,
+            "radius_meters": 461.13
+          },
+          {
+            "segment": 355,
+            "radius_meters": 37712.01
+          },
+          {
+            "segment": 356,
+            "radius_meters": 182711.46
+          },
+          {
+            "segment": 357,
+            "radius_meters": 777.36
+          },
+          {
+            "segment": 358,
+            "radius_meters": 2331.82
+          },
+          {
+            "segment": 359,
+            "radius_meters": 1385.07
+          },
+          {
+            "segment": 360,
+            "radius_meters": 195941.11
+          },
+          {
+            "segment": 361,
+            "radius_meters": 15312.26
+          },
+          {
+            "segment": 362,
+            "radius_meters": 10112.99
+          },
+          {
+            "segment": 363,
+            "radius_meters": 6796.11
+          },
+          {
+            "segment": 364,
+            "radius_meters": 2820.14
+          },
+          {
+            "segment": 365,
+            "radius_meters": 1834.6
+          },
+          {
+            "segment": 366,
+            "radius_meters": 952.82
+          },
+          {
+            "segment": 367,
+            "radius_meters": 13943.35
+          },
+          {
+            "segment": 368,
+            "radius_meters": 844.23
+          },
+          {
+            "segment": 369,
+            "radius_meters": 62.43
+          },
+          {
+            "segment": 370,
+            "radius_meters": 105.36
+          },
+          {
+            "segment": 371,
+            "radius_meters": 134.06
+          },
+          {
+            "segment": 372,
+            "radius_meters": 98.91
+          },
+          {
+            "segment": 373,
+            "radius_meters": 417.42
+          },
+          {
+            "segment": 374,
+            "radius_meters": 105.56
+          },
+          {
+            "segment": 375,
+            "radius_meters": 32.41
+          },
+          {
+            "segment": 376,
+            "radius_meters": 788.52
+          },
+          {
+            "segment": 377,
+            "radius_meters": 368.6
+          },
+          {
+            "segment": 378,
+            "radius_meters": 115.27
+          },
+          {
+            "segment": 379,
+            "radius_meters": 241.13
+          },
+          {
+            "segment": 380,
+            "radius_meters": 194.09
+          },
+          {
+            "segment": 381,
+            "radius_meters": 193.91
+          },
+          {
+            "segment": 382,
+            "radius_meters": 766.75
+          },
+          {
+            "segment": 383,
+            "radius_meters": 21611.9
+          },
+          {
+            "segment": 384,
+            "radius_meters": 14419.02
+          },
+          {
+            "segment": 385,
+            "radius_meters": 222.12
+          },
+          {
+            "segment": 386,
+            "radius_meters": 5049.29
+          },
+          {
+            "segment": 387,
+            "radius_meters": Infinity
+          },
+          {
+            "segment": 388,
+            "radius_meters": 1186.67
+          },
+          {
+            "segment": 389,
+            "radius_meters": 2975.53
+          },
+          {
+            "segment": 390,
+            "radius_meters": 5955.85
+          },
+          {
+            "segment": 391,
+            "radius_meters": 2301.3
+          },
+          {
+            "segment": 392,
+            "radius_meters": 333.5
+          },
+          {
+            "segment": 393,
+            "radius_meters": 1028.97
+          },
+          {
+            "segment": 394,
+            "radius_meters": 6741.96
+          },
+          {
+            "segment": 395,
+            "radius_meters": 2864.3
+          },
+          {
+            "segment": 396,
+            "radius_meters": 2361.04
+          },
+          {
+            "segment": 397,
+            "radius_meters": 1166.45
+          },
+          {
+            "segment": 398,
+            "radius_meters": 107088.47
+          },
+          {
+            "segment": 399,
+            "radius_meters": 107028.74
+          },
+          {
+            "segment": 400,
+            "radius_meters": 731.65
+          },
+          {
+            "segment": 401,
+            "radius_meters": 48.99
+          },
+          {
+            "segment": 402,
+            "radius_meters": 550.12
+          },
+          {
+            "segment": 403,
+            "radius_meters": 255.82
+          },
+          {
+            "segment": 404,
+            "radius_meters": 646.26
+          },
+          {
+            "segment": 405,
+            "radius_meters": 55813.72
+          },
+          {
+            "segment": 406,
+            "radius_meters": 3295180.42
+          },
+          {
+            "segment": 407,
+            "radius_meters": 17480.68
+          },
+          {
+            "segment": 408,
+            "radius_meters": 28609.26
+          },
+          {
+            "segment": 409,
+            "radius_meters": 6445.82
+          },
+          {
+            "segment": 410,
+            "radius_meters": 11919.89
+          },
+          {
+            "segment": 411,
+            "radius_meters": 7119.94
+          },
+          {
+            "segment": 412,
+            "radius_meters": 10831.82
+          },
+          {
+            "segment": 413,
+            "radius_meters": 2005.4
+          },
+          {
+            "segment": 414,
+            "radius_meters": 2540.47
+          },
+          {
+            "segment": 415,
+            "radius_meters": 3863.62
+          },
+          {
+            "segment": 416,
+            "radius_meters": 5698.98
+          },
+          {
+            "segment": 417,
+            "radius_meters": 1105.08
+          },
+          {
+            "segment": 418,
+            "radius_meters": 8393.84
+          },
+          {
+            "segment": 419,
+            "radius_meters": 2040.03
+          },
+          {
+            "segment": 420,
+            "radius_meters": 42220.75
+          },
+          {
+            "segment": 421,
+            "radius_meters": 52151.27
+          },
+          {
+            "segment": 422,
+            "radius_meters": 10698.01
+          },
+          {
+            "segment": 423,
+            "radius_meters": 77.11
+          },
+          {
+            "segment": 424,
+            "radius_meters": 405.97
+          },
+          {
+            "segment": 425,
+            "radius_meters": 48.17
+          },
+          {
+            "segment": 426,
+            "radius_meters": 40.78
+          },
+          {
+            "segment": 427,
+            "radius_meters": 35.87
+          },
+          {
+            "segment": 428,
+            "radius_meters": 315.57
+          },
+          {
+            "segment": 429,
+            "radius_meters": 70.56
+          },
+          {
+            "segment": 430,
+            "radius_meters": 128.7
+          },
+          {
+            "segment": 431,
+            "radius_meters": 97.43
+          },
+          {
+            "segment": 432,
+            "radius_meters": 23.45
+          },
+          {
+            "segment": 433,
+            "radius_meters": 83.65
+          },
+          {
+            "segment": 434,
+            "radius_meters": 25.56
+          },
+          {
+            "segment": 435,
+            "radius_meters": 13.59
+          },
+          {
+            "segment": 436,
+            "radius_meters": 122.71
+          },
+          {
+            "segment": 437,
+            "radius_meters": 181.24
+          },
+          {
+            "segment": 438,
+            "radius_meters": 708.65
+          },
+          {
+            "segment": 439,
+            "radius_meters": 332.63
+          },
+          {
+            "segment": 440,
+            "radius_meters": 55.41
+          },
+          {
+            "segment": 441,
+            "radius_meters": 56729.99
+          },
+          {
+            "segment": 442,
+            "radius_meters": 21.06
+          },
+          {
+            "segment": 443,
+            "radius_meters": 108.45
+          },
+          {
+            "segment": 444,
+            "radius_meters": 866.15
+          },
+          {
+            "segment": 445,
+            "radius_meters": 71.57
+          },
+          {
+            "segment": 446,
+            "radius_meters": 8986.51
+          },
+          {
+            "segment": 447,
+            "radius_meters": 2354.57
+          },
+          {
+            "segment": 448,
+            "radius_meters": 1307.14
           }
         ]
       },
       "geometry": {
         "coordinates": [
           [
-            -43.365909,
-            -21.734052
+            -43.438615,
+            -21.711446
           ],
           [
-            -43.365909,
-            -21.734052
+            -43.438427,
+            -21.711345
           ],
           [
-            -43.365981,
-            -21.73498
+            -43.438205,
+            -21.711224
           ],
           [
-            -43.366037,
-            -21.735713
+            -43.437877,
+            -21.711049
           ],
           [
-            -43.366025,
-            -21.735763
+            -43.437701,
+            -21.710958
           ],
           [
-            -43.365982,
-            -21.735806
+            -43.437069,
+            -21.710627
           ],
           [
-            -43.36576,
-            -21.73581
+            -43.436459,
+            -21.710307
           ],
           [
-            -43.365348,
-            -21.735818
+            -43.436191,
+            -21.710165
           ],
           [
-            -43.36526,
-            -21.735785
+            -43.435834,
+            -21.709976
           ],
           [
-            -43.365171,
-            -21.73573
+            -43.435561,
+            -21.709836
           ],
           [
-            -43.365142,
-            -21.735626
+            -43.434614,
+            -21.709587
           ],
           [
-            -43.365121,
-            -21.735509
+            -43.434326,
+            -21.709511
           ],
           [
-            -43.36497,
-            -21.734651
+            -43.433859,
+            -21.709394
           ],
           [
-            -43.364951,
-            -21.734611
+            -43.433802,
+            -21.709378
           ],
           [
-            -43.364922,
-            -21.734579
+            -43.433527,
+            -21.709257
           ],
           [
-            -43.36483,
-            -21.734622
+            -43.43328,
+            -21.709134
           ],
           [
-            -43.364779,
-            -21.734705
+            -43.433087,
+            -21.709007
           ],
           [
-            -43.364746,
-            -21.734966
+            -43.432918,
+            -21.708882
           ],
           [
-            -43.364725,
-            -21.735138
+            -43.432621,
+            -21.708582
           ],
           [
-            -43.364698,
-            -21.735175
+            -43.43256,
+            -21.70852
           ],
           [
-            -43.364655,
-            -21.735194
+            -43.432454,
+            -21.708402
           ],
           [
-            -43.36367,
-            -21.735197
+            -43.432327,
+            -21.708223
           ],
           [
-            -43.363398,
-            -21.735591
+            -43.432239,
+            -21.708081
           ],
           [
-            -43.363217,
-            -21.735853
+            -43.432184,
+            -21.707976
           ],
           [
-            -43.363003,
-            -21.736212
+            -43.432128,
+            -21.707813
           ],
           [
-            -43.362967,
-            -21.736277
+            -43.432031,
+            -21.707381
           ],
           [
-            -43.362662,
-            -21.736822
+            -43.432026,
+            -21.707361
           ],
           [
-            -43.362527,
-            -21.737056
+            -43.431859,
+            -21.706707
           ],
           [
-            -43.362513,
-            -21.737126
+            -43.431685,
+            -21.706072
           ],
           [
-            -43.362518,
-            -21.737177
+            -43.431543,
+            -21.705551
           ],
           [
-            -43.362551,
-            -21.737544
+            -43.431468,
+            -21.705242
           ],
           [
-            -43.362854,
-            -21.737799
+            -43.4314,
+            -21.704962
           ],
           [
-            -43.362876,
-            -21.737828
+            -43.431282,
+            -21.704753
           ],
           [
-            -43.362886,
-            -21.73786
+            -43.431078,
+            -21.704418
           ],
           [
-            -43.362885,
-            -21.738152
+            -43.43102,
+            -21.704333
           ],
           [
-            -43.362887,
-            -21.738361
+            -43.43055,
+            -21.703794
           ],
           [
-            -43.362891,
-            -21.738468
+            -43.429985,
+            -21.703102
           ],
           [
-            -43.362902,
-            -21.738724
+            -43.429717,
+            -21.702788
           ],
           [
-            -43.364301,
-            -21.738694
+            -43.429455,
+            -21.702482
           ],
           [
-            -43.364891,
-            -21.738682
+            -43.42939,
+            -21.702411
           ],
           [
-            -43.364898,
-            -21.738693
+            -43.429336,
+            -21.702357
           ],
           [
-            -43.364903,
-            -21.738708
+            -43.429314,
+            -21.702336
           ],
           [
-            -43.364907,
-            -21.738729
+            -43.429124,
+            -21.702209
           ],
           [
-            -43.364956,
-            -21.739665
+            -43.428685,
+            -21.701941
           ],
           [
-            -43.365063,
-            -21.740859
+            -43.428605,
+            -21.701892
           ],
           [
-            -43.365118,
-            -21.741518
+            -43.428328,
+            -21.701703
           ],
           [
-            -43.365124,
-            -21.741587
+            -43.428021,
+            -21.701464
           ],
           [
-            -43.365158,
-            -21.741989
+            -43.427575,
+            -21.700991
           ],
           [
-            -43.365206,
-            -21.742665
+            -43.427506,
+            -21.700912
           ],
           [
-            -43.365233,
-            -21.743017
+            -43.427322,
+            -21.700699
           ],
           [
-            -43.365265,
-            -21.743458
+            -43.42691,
+            -21.700178
           ],
           [
-            -43.365274,
-            -21.743524
+            -43.426477,
+            -21.699696
           ],
           [
-            -43.365296,
-            -21.743576
+            -43.426361,
+            -21.699556
           ],
           [
-            -43.365316,
-            -21.743601
+            -43.42584,
+            -21.698926
           ],
           [
-            -43.365562,
-            -21.743906
+            -43.425277,
+            -21.698306
           ],
           [
-            -43.365573,
-            -21.743921
+            -43.425217,
+            -21.698354
           ],
           [
-            -43.365583,
-            -21.74398
+            -43.424565,
+            -21.698846
           ],
           [
-            -43.365573,
-            -21.744025
+            -43.424394,
+            -21.698989
           ],
           [
-            -43.365543,
-            -21.744056
+            -43.424174,
+            -21.699172
           ],
           [
-            -43.365406,
-            -21.744148
+            -43.423684,
+            -21.69961
+          ],
+          [
+            -43.423403,
+            -21.699888
+          ],
+          [
+            -43.42328,
+            -21.700009
+          ],
+          [
+            -43.422867,
+            -21.700431
+          ],
+          [
+            -43.422477,
+            -21.700818
+          ],
+          [
+            -43.422188,
+            -21.701104
+          ],
+          [
+            -43.422055,
+            -21.701236
+          ],
+          [
+            -43.42166,
+            -21.701644
+          ],
+          [
+            -43.421252,
+            -21.702067
+          ],
+          [
+            -43.421217,
+            -21.702097
+          ],
+          [
+            -43.420977,
+            -21.702351
+          ],
+          [
+            -43.420841,
+            -21.702495
+          ],
+          [
+            -43.42044,
+            -21.702896
+          ],
+          [
+            -43.420027,
+            -21.703313
+          ],
+          [
+            -43.4196,
+            -21.703767
+          ],
+          [
+            -43.419442,
+            -21.703915
+          ],
+          [
+            -43.419166,
+            -21.704173
+          ],
+          [
+            -43.418419,
+            -21.704927
+          ],
+          [
+            -43.418212,
+            -21.705138
+          ],
+          [
+            -43.418004,
+            -21.705351
+          ],
+          [
+            -43.417241,
+            -21.706128
+          ],
+          [
+            -43.416897,
+            -21.706527
+          ],
+          [
+            -43.416812,
+            -21.706645
+          ],
+          [
+            -43.416659,
+            -21.706927
+          ],
+          [
+            -43.416564,
+            -21.707094
+          ],
+          [
+            -43.416454,
+            -21.707287
+          ],
+          [
+            -43.416166,
+            -21.707849
+          ],
+          [
+            -43.416066,
+            -21.708036
+          ],
+          [
+            -43.416058,
+            -21.70805
+          ],
+          [
+            -43.415982,
+            -21.708195
+          ],
+          [
+            -43.415936,
+            -21.708291
+          ],
+          [
+            -43.415897,
+            -21.70838
+          ],
+          [
+            -43.415853,
+            -21.708538
+          ],
+          [
+            -43.415838,
+            -21.708596
+          ],
+          [
+            -43.415827,
+            -21.708709
+          ],
+          [
+            -43.415823,
+            -21.708795
+          ],
+          [
+            -43.415797,
+            -21.708873
+          ],
+          [
+            -43.415763,
+            -21.70894
+          ],
+          [
+            -43.41572,
+            -21.709004
+          ],
+          [
+            -43.415656,
+            -21.709071
+          ],
+          [
+            -43.4156,
+            -21.709102
+          ],
+          [
+            -43.415551,
+            -21.709124
+          ],
+          [
+            -43.415501,
+            -21.709158
+          ],
+          [
+            -43.415455,
+            -21.709193
+          ],
+          [
+            -43.415416,
+            -21.709231
+          ],
+          [
+            -43.415375,
+            -21.709278
+          ],
+          [
+            -43.41534,
+            -21.709338
+          ],
+          [
+            -43.415248,
+            -21.709513
+          ],
+          [
+            -43.415111,
+            -21.709787
+          ],
+          [
+            -43.415072,
+            -21.709856
+          ],
+          [
+            -43.414997,
+            -21.710011
+          ],
+          [
+            -43.414748,
+            -21.710507
+          ],
+          [
+            -43.414653,
+            -21.710688
+          ],
+          [
+            -43.414532,
+            -21.710868
+          ],
+          [
+            -43.414506,
+            -21.710896
+          ],
+          [
+            -43.414648,
+            -21.710935
+          ],
+          [
+            -43.414683,
+            -21.710951
+          ],
+          [
+            -43.414686,
+            -21.710874
+          ],
+          [
+            -43.414778,
+            -21.710699
+          ],
+          [
+            -43.414852,
+            -21.710511
+          ],
+          [
+            -43.414965,
+            -21.710272
+          ],
+          [
+            -43.415043,
+            -21.7101
+          ],
+          [
+            -43.415051,
+            -21.710082
+          ],
+          [
+            -43.415056,
+            -21.710065
+          ],
+          [
+            -43.415059,
+            -21.710045
+          ],
+          [
+            -43.41505,
+            -21.710032
+          ],
+          [
+            -43.415038,
+            -21.710021
+          ],
+          [
+            -43.415018,
+            -21.710014
+          ],
+          [
+            -43.414997,
+            -21.710011
+          ],
+          [
+            -43.414748,
+            -21.710507
+          ],
+          [
+            -43.414653,
+            -21.710688
+          ],
+          [
+            -43.414532,
+            -21.710868
+          ],
+          [
+            -43.414506,
+            -21.710896
+          ],
+          [
+            -43.414334,
+            -21.711122
+          ],
+          [
+            -43.414273,
+            -21.711182
+          ],
+          [
+            -43.414163,
+            -21.711273
+          ],
+          [
+            -43.414058,
+            -21.711362
+          ],
+          [
+            -43.413951,
+            -21.711431
+          ],
+          [
+            -43.413858,
+            -21.711477
+          ],
+          [
+            -43.413752,
+            -21.711524
+          ],
+          [
+            -43.413496,
+            -21.711639
+          ],
+          [
+            -43.413182,
+            -21.711792
+          ],
+          [
+            -43.412803,
+            -21.711998
+          ],
+          [
+            -43.412391,
+            -21.712216
+          ],
+          [
+            -43.412053,
+            -21.712387
+          ],
+          [
+            -43.411696,
+            -21.712567
+          ],
+          [
+            -43.411299,
+            -21.712757
+          ],
+          [
+            -43.411011,
+            -21.712907
+          ],
+          [
+            -43.410895,
+            -21.712969
+          ],
+          [
+            -43.410558,
+            -21.71317
+          ],
+          [
+            -43.410353,
+            -21.713285
+          ],
+          [
+            -43.410171,
+            -21.713382
+          ],
+          [
+            -43.410141,
+            -21.713398
+          ],
+          [
+            -43.409961,
+            -21.713488
+          ],
+          [
+            -43.409851,
+            -21.713548
+          ],
+          [
+            -43.409767,
+            -21.7136
+          ],
+          [
+            -43.409694,
+            -21.713656
+          ],
+          [
+            -43.409622,
+            -21.713717
+          ],
+          [
+            -43.409524,
+            -21.713815
+          ],
+          [
+            -43.409406,
+            -21.713924
+          ],
+          [
+            -43.409307,
+            -21.713994
+          ],
+          [
+            -43.40916,
+            -21.714074
+          ],
+          [
+            -43.40894,
+            -21.714187
+          ],
+          [
+            -43.408635,
+            -21.714344
+          ],
+          [
+            -43.408458,
+            -21.71443
+          ],
+          [
+            -43.408409,
+            -21.714442
+          ],
+          [
+            -43.408326,
+            -21.714461
+          ],
+          [
+            -43.408168,
+            -21.714495
+          ],
+          [
+            -43.408025,
+            -21.714535
+          ],
+          [
+            -43.407888,
+            -21.714585
+          ],
+          [
+            -43.407782,
+            -21.714631
+          ],
+          [
+            -43.407725,
+            -21.714656
+          ],
+          [
+            -43.407725,
+            -21.714656
+          ],
+          [
+            -43.40752,
+            -21.714744
+          ],
+          [
+            -43.407388,
+            -21.714804
+          ],
+          [
+            -43.407186,
+            -21.714898
+          ],
+          [
+            -43.407003,
+            -21.714998
+          ],
+          [
+            -43.406835,
+            -21.715092
+          ],
+          [
+            -43.406645,
+            -21.715204
+          ],
+          [
+            -43.406333,
+            -21.715403
+          ],
+          [
+            -43.40604,
+            -21.715587
+          ],
+          [
+            -43.405902,
+            -21.715681
+          ],
+          [
+            -43.405749,
+            -21.715792
+          ],
+          [
+            -43.405667,
+            -21.715852
+          ],
+          [
+            -43.405615,
+            -21.715893
+          ],
+          [
+            -43.405545,
+            -21.715963
+          ],
+          [
+            -43.40535,
+            -21.716162
+          ],
+          [
+            -43.405264,
+            -21.71625
+          ],
+          [
+            -43.405126,
+            -21.716391
+          ],
+          [
+            -43.40501,
+            -21.716501
+          ],
+          [
+            -43.404864,
+            -21.71664
+          ],
+          [
+            -43.404566,
+            -21.716846
+          ],
+          [
+            -43.404058,
+            -21.717184
+          ],
+          [
+            -43.403502,
+            -21.717516
+          ],
+          [
+            -43.403327,
+            -21.717625
+          ],
+          [
+            -43.403174,
+            -21.717735
+          ],
+          [
+            -43.403059,
+            -21.717831
+          ],
+          [
+            -43.402947,
+            -21.717919
+          ],
+          [
+            -43.402802,
+            -21.718015
+          ],
+          [
+            -43.402609,
+            -21.718122
+          ],
+          [
+            -43.401928,
+            -21.718368
+          ],
+          [
+            -43.401179,
+            -21.718639
+          ],
+          [
+            -43.400884,
+            -21.718744
+          ],
+          [
+            -43.398945,
+            -21.719435
+          ],
+          [
+            -43.398555,
+            -21.719553
+          ],
+          [
+            -43.398322,
+            -21.71964
+          ],
+          [
+            -43.398188,
+            -21.719698
+          ],
+          [
+            -43.398071,
+            -21.719754
+          ],
+          [
+            -43.39797,
+            -21.719811
+          ],
+          [
+            -43.397861,
+            -21.719889
+          ],
+          [
+            -43.397834,
+            -21.719911
+          ],
+          [
+            -43.397907,
+            -21.719956
+          ],
+          [
+            -43.39785,
+            -21.720013
+          ],
+          [
+            -43.397787,
+            -21.72008
+          ],
+          [
+            -43.397573,
+            -21.720306
+          ],
+          [
+            -43.397177,
+            -21.720844
+          ],
+          [
+            -43.397127,
+            -21.720911
+          ],
+          [
+            -43.397078,
+            -21.720972
+          ],
+          [
+            -43.397022,
+            -21.721031
+          ],
+          [
+            -43.396851,
+            -21.721147
+          ],
+          [
+            -43.396734,
+            -21.721378
+          ],
+          [
+            -43.396664,
+            -21.721529
+          ],
+          [
+            -43.396578,
+            -21.721793
+          ],
+          [
+            -43.396474,
+            -21.722153
+          ],
+          [
+            -43.396439,
+            -21.722356
+          ],
+          [
+            -43.396413,
+            -21.722609
+          ],
+          [
+            -43.396417,
+            -21.722728
+          ],
+          [
+            -43.39645,
+            -21.723026
+          ],
+          [
+            -43.396455,
+            -21.723064
+          ],
+          [
+            -43.396482,
+            -21.723295
+          ],
+          [
+            -43.396518,
+            -21.723602
+          ],
+          [
+            -43.396519,
+            -21.72367
+          ],
+          [
+            -43.396523,
+            -21.72384
+          ],
+          [
+            -43.396519,
+            -21.724056
+          ],
+          [
+            -43.396513,
+            -21.724146
+          ],
+          [
+            -43.396506,
+            -21.724207
+          ],
+          [
+            -43.396498,
+            -21.724283
+          ],
+          [
+            -43.396488,
+            -21.724393
+          ],
+          [
+            -43.396463,
+            -21.724603
+          ],
+          [
+            -43.396437,
+            -21.724815
+          ],
+          [
+            -43.396423,
+            -21.72499
+          ],
+          [
+            -43.396396,
+            -21.725436
+          ],
+          [
+            -43.396365,
+            -21.726372
+          ],
+          [
+            -43.396352,
+            -21.726645
+          ],
+          [
+            -43.396315,
+            -21.727387
+          ],
+          [
+            -43.396301,
+            -21.727671
+          ],
+          [
+            -43.396251,
+            -21.728583
+          ],
+          [
+            -43.396238,
+            -21.728938
+          ],
+          [
+            -43.396206,
+            -21.729322
+          ],
+          [
+            -43.396192,
+            -21.729427
+          ],
+          [
+            -43.396095,
+            -21.729864
+          ],
+          [
+            -43.396056,
+            -21.730037
+          ],
+          [
+            -43.395959,
+            -21.730405
+          ],
+          [
+            -43.395776,
+            -21.730985
+          ],
+          [
+            -43.395642,
+            -21.731409
+          ],
+          [
+            -43.395471,
+            -21.731999
+          ],
+          [
+            -43.395402,
+            -21.732423
+          ],
+          [
+            -43.395368,
+            -21.732538
+          ],
+          [
+            -43.395297,
+            -21.732779
+          ],
+          [
+            -43.3951,
+            -21.73328
+          ],
+          [
+            -43.39486,
+            -21.733886
+          ],
+          [
+            -43.394688,
+            -21.734199
+          ],
+          [
+            -43.394397,
+            -21.73457
+          ],
+          [
+            -43.394376,
+            -21.73459
+          ],
+          [
+            -43.394195,
+            -21.734766
+          ],
+          [
+            -43.39397,
+            -21.734962
+          ],
+          [
+            -43.3937,
+            -21.735155
+          ],
+          [
+            -43.393432,
+            -21.735318
+          ],
+          [
+            -43.393346,
+            -21.73537
+          ],
+          [
+            -43.393215,
+            -21.735429
+          ],
+          [
+            -43.393095,
+            -21.735475
+          ],
+          [
+            -43.392928,
+            -21.735538
+          ],
+          [
+            -43.392869,
+            -21.735562
+          ],
+          [
+            -43.392755,
+            -21.735601
+          ],
+          [
+            -43.392473,
+            -21.735687
+          ],
+          [
+            -43.392027,
+            -21.735822
+          ],
+          [
+            -43.391416,
+            -21.735992
+          ],
+          [
+            -43.391321,
+            -21.736018
+          ],
+          [
+            -43.390769,
+            -21.736172
+          ],
+          [
+            -43.390618,
+            -21.736218
+          ],
+          [
+            -43.389929,
+            -21.736428
+          ],
+          [
+            -43.389805,
+            -21.736477
+          ],
+          [
+            -43.389658,
+            -21.736535
+          ],
+          [
+            -43.389403,
+            -21.736647
+          ],
+          [
+            -43.389364,
+            -21.736668
+          ],
+          [
+            -43.389135,
+            -21.736808
+          ],
+          [
+            -43.388579,
+            -21.737191
+          ],
+          [
+            -43.38851,
+            -21.737234
+          ],
+          [
+            -43.388428,
+            -21.737291
+          ],
+          [
+            -43.388186,
+            -21.737423
+          ],
+          [
+            -43.387713,
+            -21.737666
+          ],
+          [
+            -43.386928,
+            -21.738044
+          ],
+          [
+            -43.386747,
+            -21.738151
+          ],
+          [
+            -43.386559,
+            -21.738295
+          ],
+          [
+            -43.386182,
+            -21.73867
+          ],
+          [
+            -43.385863,
+            -21.738979
+          ],
+          [
+            -43.385519,
+            -21.739266
+          ],
+          [
+            -43.385263,
+            -21.739455
+          ],
+          [
+            -43.384945,
+            -21.739659
+          ],
+          [
+            -43.384632,
+            -21.739832
+          ],
+          [
+            -43.384429,
+            -21.739917
+          ],
+          [
+            -43.384345,
+            -21.739953
+          ],
+          [
+            -43.384196,
+            -21.740017
+          ],
+          [
+            -43.384079,
+            -21.740058
+          ],
+          [
+            -43.384017,
+            -21.74007
+          ],
+          [
+            -43.383969,
+            -21.740079
+          ],
+          [
+            -43.383751,
+            -21.740103
+          ],
+          [
+            -43.383594,
+            -21.740118
+          ],
+          [
+            -43.383387,
+            -21.740115
+          ],
+          [
+            -43.383083,
+            -21.740098
+          ],
+          [
+            -43.382754,
+            -21.740039
+          ],
+          [
+            -43.382501,
+            -21.739972
+          ],
+          [
+            -43.382299,
+            -21.739892
+          ],
+          [
+            -43.381974,
+            -21.739725
+          ],
+          [
+            -43.381794,
+            -21.739609
+          ],
+          [
+            -43.381646,
+            -21.739511
+          ],
+          [
+            -43.381437,
+            -21.739354
+          ],
+          [
+            -43.381223,
+            -21.73914
+          ],
+          [
+            -43.380745,
+            -21.73866
+          ],
+          [
+            -43.380329,
+            -21.738267
+          ],
+          [
+            -43.380117,
+            -21.738091
+          ],
+          [
+            -43.379904,
+            -21.737933
+          ],
+          [
+            -43.37977,
+            -21.737838
+          ],
+          [
+            -43.37959,
+            -21.737745
+          ],
+          [
+            -43.379354,
+            -21.737654
+          ],
+          [
+            -43.379122,
+            -21.737596
+          ],
+          [
+            -43.378967,
+            -21.737569
+          ],
+          [
+            -43.378894,
+            -21.737557
+          ],
+          [
+            -43.378641,
+            -21.737549
+          ],
+          [
+            -43.37831,
+            -21.737571
+          ],
+          [
+            -43.378014,
+            -21.737616
+          ],
+          [
+            -43.377692,
+            -21.737716
+          ],
+          [
+            -43.377481,
+            -21.737804
+          ],
+          [
+            -43.377363,
+            -21.737872
+          ],
+          [
+            -43.377279,
+            -21.73792
+          ],
+          [
+            -43.377084,
+            -21.73806
+          ],
+          [
+            -43.37671,
+            -21.738363
+          ],
+          [
+            -43.376048,
+            -21.738992
+          ],
+          [
+            -43.375981,
+            -21.739052
+          ],
+          [
+            -43.375805,
+            -21.739216
+          ],
+          [
+            -43.375684,
+            -21.739336
+          ],
+          [
+            -43.375625,
+            -21.739385
+          ],
+          [
+            -43.375542,
+            -21.739453
+          ],
+          [
+            -43.375266,
+            -21.739655
+          ],
+          [
+            -43.374681,
+            -21.74006
+          ],
+          [
+            -43.374468,
+            -21.740102
+          ],
+          [
+            -43.374311,
+            -21.740119
+          ],
+          [
+            -43.374104,
+            -21.740104
+          ],
+          [
+            -43.373652,
+            -21.740013
+          ],
+          [
+            -43.373567,
+            -21.739998
+          ],
+          [
+            -43.372956,
+            -21.739908
+          ],
+          [
+            -43.372851,
+            -21.739923
+          ],
+          [
+            -43.37269,
+            -21.739993
+          ],
+          [
+            -43.372356,
+            -21.740197
+          ],
+          [
+            -43.371301,
+            -21.740868
+          ],
+          [
+            -43.371254,
+            -21.740897
+          ],
+          [
+            -43.37114,
+            -21.740971
+          ],
+          [
+            -43.370683,
+            -21.741267
+          ],
+          [
+            -43.370558,
+            -21.741348
+          ],
+          [
+            -43.37044,
+            -21.741428
+          ],
+          [
+            -43.370287,
+            -21.74153
+          ],
+          [
+            -43.36985,
+            -21.741804
+          ],
+          [
+            -43.369246,
+            -21.742183
+          ],
+          [
+            -43.368919,
+            -21.74239
+          ],
+          [
+            -43.368698,
+            -21.742531
+          ],
+          [
+            -43.367905,
+            -21.743048
+          ],
+          [
+            -43.367532,
+            -21.743277
+          ],
+          [
+            -43.36706,
+            -21.743548
+          ],
+          [
+            -43.366553,
+            -21.743886
+          ],
+          [
+            -43.366349,
+            -21.744021
+          ],
+          [
+            -43.366082,
+            -21.744184
+          ],
+          [
+            -43.366019,
+            -21.744198
+          ],
+          [
+            -43.365888,
+            -21.744214
+          ],
+          [
+            -43.365773,
+            -21.744217
+          ],
+          [
+            -43.365678,
+            -21.744209
+          ],
+          [
+            -43.36562,
+            -21.744203
+          ],
+          [
+            -43.365503,
+            -21.744201
+          ],
+          [
+            -43.365462,
+            -21.744211
+          ],
+          [
+            -43.365337,
+            -21.744243
           ],
           [
             -43.365133,
@@ -2852,6 +3348,14 @@
           [
             -43.363407,
             -21.744617
+          ],
+          [
+            -43.36328,
+            -21.744616
+          ],
+          [
+            -43.362638,
+            -21.744616
           ],
           [
             -43.362433,
@@ -2998,452 +3502,130 @@
             -21.753572
           ],
           [
+            -43.351783,
+            -21.753585
+          ],
+          [
+            -43.352023,
+            -21.753697
+          ],
+          [
+            -43.352105,
+            -21.753802
+          ],
+          [
+            -43.352126,
+            -21.753855
+          ],
+          [
+            -43.352136,
+            -21.753912
+          ],
+          [
+            -43.352166,
+            -21.75405
+          ],
+          [
+            -43.351885,
+            -21.754587
+          ],
+          [
+            -43.351745,
+            -21.754709
+          ],
+          [
+            -43.351715,
+            -21.754729
+          ],
+          [
+            -43.35164,
+            -21.754754
+          ],
+          [
+            -43.351591,
+            -21.754766
+          ],
+          [
+            -43.351545,
+            -21.754768
+          ],
+          [
+            -43.351526,
+            -21.754764
+          ],
+          [
             -43.351441,
             -21.754742
           ],
           [
-            -43.35137,
-            -21.755019
+            -43.351376,
+            -21.754722
           ],
           [
-            -43.351131,
-            -21.755944
+            -43.351304,
+            -21.754699
           ],
           [
-            -43.350801,
-            -21.757134
+            -43.350972,
+            -21.754567
           ],
           [
-            -43.350706,
-            -21.757478
+            -43.350573,
+            -21.755325
           ],
           [
-            -43.35058,
-            -21.758064
+            -43.350413,
+            -21.755628
           ],
           [
-            -43.350571,
-            -21.758113
+            -43.350492,
+            -21.755668
           ],
           [
-            -43.350566,
-            -21.758131
+            -43.350103,
+            -21.75734
           ],
           [
-            -43.350467,
-            -21.758567
+            -43.350067,
+            -21.757435
           ],
           [
-            -43.350369,
-            -21.759
+            -43.34965,
+            -21.757766
           ],
           [
-            -43.34994,
-            -21.760495
+            -43.348874,
+            -21.75837
           ],
           [
-            -43.349875,
-            -21.760718
+            -43.348587,
+            -21.758579
           ],
           [
-            -43.349701,
-            -21.761398
-          ],
-          [
-            -43.349531,
-            -21.762064
-          ],
-          [
-            -43.349459,
-            -21.762347
-          ],
-          [
-            -43.34956,
-            -21.762373
-          ],
-          [
-            -43.350003,
-            -21.762475
-          ],
-          [
-            -43.350034,
-            -21.762464
-          ],
-          [
-            -43.350043,
-            -21.762458
-          ],
-          [
-            -43.350052,
-            -21.762443
-          ],
-          [
-            -43.350059,
-            -21.762422
-          ],
-          [
-            -43.35009,
-            -21.762275
-          ],
-          [
-            -43.349677,
-            -21.762115
-          ],
-          [
-            -43.349641,
-            -21.7621
-          ],
-          [
-            -43.349564,
-            -21.762075
-          ],
-          [
-            -43.349531,
-            -21.762064
-          ],
-          [
-            -43.349459,
-            -21.762347
-          ],
-          [
-            -43.349323,
-            -21.762881
-          ],
-          [
-            -43.349212,
-            -21.763304
-          ],
-          [
-            -43.3492,
-            -21.763351
-          ],
-          [
-            -43.349098,
-            -21.763741
-          ],
-          [
-            -43.348988,
-            -21.764193
-          ],
-          [
-            -43.348954,
-            -21.764322
-          ],
-          [
-            -43.348885,
-            -21.764591
-          ],
-          [
-            -43.348822,
-            -21.764836
-          ],
-          [
-            -43.348789,
-            -21.764961
-          ],
-          [
-            -43.348607,
-            -21.765755
-          ],
-          [
-            -43.348486,
-            -21.766253
-          ],
-          [
-            -43.34846,
-            -21.766341
-          ],
-          [
-            -43.348431,
-            -21.766457
-          ],
-          [
-            -43.348103,
-            -21.767631
-          ],
-          [
-            -43.348096,
-            -21.767655
-          ],
-          [
-            -43.348028,
-            -21.767926
-          ],
-          [
-            -43.34801,
-            -21.767997
-          ],
-          [
-            -43.347826,
-            -21.768671
-          ],
-          [
-            -43.347447,
-            -21.77016
-          ],
-          [
-            -43.347293,
-            -21.770757
-          ],
-          [
-            -43.34702,
-            -21.77183
-          ],
-          [
-            -43.346995,
-            -21.77193
-          ],
-          [
-            -43.346968,
-            -21.772028
-          ],
-          [
-            -43.346873,
-            -21.772385
-          ],
-          [
-            -43.346654,
-            -21.773201
-          ],
-          [
-            -43.346622,
-            -21.773319
-          ],
-          [
-            -43.347656,
-            -21.773557
-          ],
-          [
-            -43.34734,
-            -21.774633
-          ],
-          [
-            -43.346384,
-            -21.77442
-          ],
-          [
-            -43.346354,
-            -21.774413
-          ],
-          [
-            -43.346256,
-            -21.774391
-          ],
-          [
-            -43.346053,
-            -21.775185
-          ],
-          [
-            -43.345982,
-            -21.775453
-          ],
-          [
-            -43.34576,
-            -21.776297
-          ],
-          [
-            -43.345723,
-            -21.776439
-          ],
-          [
-            -43.345674,
-            -21.776626
-          ],
-          [
-            -43.345724,
-            -21.776734
-          ],
-          [
-            -43.345584,
-            -21.777287
-          ],
-          [
-            -43.345445,
-            -21.777813
-          ],
-          [
-            -43.345345,
-            -21.778194
-          ],
-          [
-            -43.34523,
-            -21.778712
-          ],
-          [
-            -43.345165,
-            -21.778825
-          ],
-          [
-            -43.345003,
-            -21.779189
-          ],
-          [
-            -43.344966,
-            -21.779329
-          ],
-          [
-            -43.344938,
-            -21.779522
-          ],
-          [
-            -43.344941,
-            -21.779797
-          ],
-          [
-            -43.344929,
-            -21.779854
-          ],
-          [
-            -43.344924,
-            -21.779879
-          ],
-          [
-            -43.344789,
-            -21.780475
-          ],
-          [
-            -43.34454,
-            -21.781394
-          ],
-          [
-            -43.344507,
-            -21.78152
-          ],
-          [
-            -43.344251,
-            -21.782504
-          ],
-          [
-            -43.344215,
-            -21.782606
-          ],
-          [
-            -43.344147,
-            -21.782818
-          ],
-          [
-            -43.344062,
-            -21.783083
-          ],
-          [
-            -43.344025,
-            -21.783211
-          ],
-          [
-            -43.344201,
-            -21.783379
-          ],
-          [
-            -43.344489,
-            -21.783591
-          ],
-          [
-            -43.345034,
-            -21.783995
-          ],
-          [
-            -43.344838,
-            -21.784227
-          ],
-          [
-            -43.344667,
-            -21.784429
-          ],
-          [
-            -43.34412,
-            -21.78509
-          ],
-          [
-            -43.343943,
-            -21.785303
-          ],
-          [
-            -43.344514,
-            -21.785709
-          ],
-          [
-            -43.344564,
-            -21.785652
-          ],
-          [
-            -43.345057,
-            -21.785034
-          ],
-          [
-            -43.345068,
-            -21.785019
-          ],
-          [
-            -43.345195,
-            -21.784851
-          ],
-          [
-            -43.345272,
-            -21.784749
-          ],
-          [
-            -43.345366,
-            -21.784652
-          ],
-          [
-            -43.345603,
-            -21.784409
-          ],
-          [
-            -43.34615,
-            -21.784797
-          ],
-          [
-            -43.346724,
-            -21.785188
-          ],
-          [
-            -43.34636,
-            -21.785631
-          ],
-          [
-            -43.345865,
-            -21.786232
-          ],
-          [
-            -43.34561,
-            -21.786549
-          ],
-          [
-            -43.345381,
-            -21.786819
-          ],
-          [
-            -43.344998,
-            -21.787269
-          ],
-          [
-            -43.344612,
-            -21.787882
-          ],
-          [
-            -43.344477,
-            -21.788128
-          ],
-          [
-            -43.344163,
-            -21.788703
-          ],
-          [
-            -43.343806,
-            -21.788457
-          ],
-          [
-            -43.343727,
-            -21.788403
-          ],
+            -43.347993,
+            -21.759057
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "summary": "",
+        "route_type": "Bairro-Centro",
+        "color": "blue",
+        "direction": "blue"
+      },
+      "geometry": {
+        "coordinates": [
           [
-            -43.342992,
-            -21.787868
+            -43.438615,
+            -21.711446
           ],
           [
-            -43.342787,
-            -21.788015
+            -43.438615,
+            -21.711446
           ]
         ],
         "type": "LineString"

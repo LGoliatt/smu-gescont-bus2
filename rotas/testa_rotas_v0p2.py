@@ -110,7 +110,7 @@ def extrair_rotas_csv(caminho_csv):
     return rota_CB, rota_BC
 
 # === 2. Carregar CSV e extrair latlongs_CB e latlongs_BC ===
-fn = '../data_stops/123.csv'
+fn = '../data_stops/722.csv'
 df = pd.read_csv(fn, on_bad_lines='skip')
 df['stopsequence'] = df['stopsequence'].astype(int)
 
