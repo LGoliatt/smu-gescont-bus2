@@ -611,59 +611,99 @@ with tab2:
         st.warning("No data available for the selected filters.")
          
 # tab 3: Bus Boarding/Time Acummulated        
+import plotly.graph_objects as go
+import pandas as pd
+
 with tab3:
-    # st.header("Bus Occupation")
-    st.write("This tab shows the accumulated occupation percentage of buses across all routes over time.")
-    
-    # Make a copy of the dataframe and filter if needed
+    st.write("This tab shows the accumulated occupation percentage of buses across all routes over time, with error bars.")
+
     filtered_df = df3.copy()
-    #print(filtered_df)
+
     if not filtered_df.empty:
-        # Group by 'hour' and sum the selected data_type across all routes
-        accumulated_df = filtered_df.groupby('hour')[data_type].sum().reset_index()
-    
-        # Plot the accumulated values
-        fig = px.line(
-            accumulated_df,
-            x='hour',
-            y=data_type,
-            hover_data=['hour', data_type],
-            markers=True,
-            color_discrete_sequence=["#007BFF"],  # Single color for the line
-            height=600
-        )
-    
-        # Customize layout
-        fig.update_layout(
-            xaxis_title='Hour',
-            yaxis_title=f'Total {data_type.capitalize()}',
-            legend_title='Accumulated',
-            hovermode='x unified',
-            plot_bgcolor='rgba(0,0,0,0)',
-            margin=dict(l=20, r=20, t=30, b=20),
-            font=dict(
-                family="Arial",
-                size=18,
-                color="black"
-            ),
-            xaxis=dict(
-                title_font=dict(size=20),
-                tickfont=dict(size=18)
-            ),
-            yaxis=dict(
-                title_font=dict(size=20),
-                tickfont=dict(size=18)
+        # Verificar se a coluna de dados existe
+        if data_type not in filtered_df.columns:
+            st.error(f"Column '{data_type}' not found in data.")
+        else:
+            # Agrupar por 'hour' e calcular média e desvio padrão
+            summary_df = filtered_df.groupby('hour').agg(
+                mean_value=(data_type, 'mean'),
+                std_value=(data_type, 'std'),
+                count=(data_type, 'count')
+            ).reset_index()
+
+            # Substituir NaN no desvio padrão (caso tenha apenas 1 ponto)
+            summary_df['std_value'] = summary_df['std_value'].fillna(0)
+
+            # Opcional: erro padrão (mais conservador)
+            # summary_df['se_value'] = summary_df['std_value'] / np.sqrt(summary_df['count'])
+            # Use `std_value` para desvio padrão (mais comum em error bars)
+
+            # Criar gráfico com barras de erro
+            fig = go.Figure()
+
+            fig.add_trace(go.Scatter(
+                x=summary_df['hour'],
+                y=summary_df['mean_value'],
+                mode='lines+markers',
+                error_y=dict(
+                    type='data',
+                    array=summary_df['std_value'],
+                    visible=True,
+                    color='rgba(0, 123, 255, 0.5)',
+                    thickness=2,
+                    width=5
+                ),
+                marker=dict(
+                    size=12,
+                    color='#007BFF',
+                    line=dict(width=2, color='white')
+                ),
+                line=dict(width=4, color='#007BFF'),
+                hovertemplate=(
+                    '<b>Hora:</b> %{x}<br>'
+                    '<b>Média:</b> %{y:.2f}<br>'
+                    '<b>Desvio Padrão:</b> %{error_y.array:.2f}'
+                ),
+                name='Mean'
+            ))
+
+            # Layout
+            fig.update_layout(
+                title={
+                    'text': f"Occupation Over Time with Error Bars<br><sup>{data_type.capitalize()} ± Standard Deviation</sup>",
+                    'x': 0.5,
+                    'xanchor': 'center',
+                    'font': dict(size=16)
+                },
+                xaxis_title='Hour',
+                yaxis_title=f'{data_type.capitalize()}',
+                hovermode='x unified',
+                plot_bgcolor='rgba(255,255,255,1)',
+                paper_bgcolor='rgba(255,255,255,1)',
+                margin=dict(l=20, r=20, t=80, b=60),
+                font=dict(family="Arial", size=18, color="black"),
+                xaxis=dict(
+                    title_font=dict(size=20),
+                    tickfont=dict(size=18)
+                ),
+                yaxis=dict(
+                    title_font=dict(size=20),
+                    tickfont=dict(size=18)
+                ),
+                showlegend=False
             )
-        )
-    
-        # Style the line and markers
-        fig.update_traces(line=dict(width=4), marker=dict(size=12))
-    
-        # Display the chart
-        st.plotly_chart(fig, use_container_width=True)
-    
+
+            # Exibir no Streamlit
+            st.plotly_chart(fig, use_container_width=True)
+
+            # (Opcional) Mostrar tabela de média e desvio
+            with st.expander("View statistical summary (mean ± std)"):
+                summary_display = summary_df[['hour', 'mean_value', 'std_value']].round(2)
+                summary_display.columns = ['Hour', 'Mean', 'Std Deviation']
+                st.dataframe(summary_display)
+
     else:
-        st.warning("No data available for the selected filters.")    
+        st.warning("No data available for the selected filters.")
 
       
 # tab 4: Bus Fleet
