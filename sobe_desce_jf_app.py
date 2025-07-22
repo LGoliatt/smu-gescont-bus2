@@ -245,7 +245,7 @@ def analise_frota_onibus_plotly(df, frequencia=None):
             ),
             showlegend=False,
             text=f"{row['onibus_necessarios']}×<br>{row['tipo_recomendado'].split()[0]}",
-            textposition="inside",
+            #textposition="inside",
             textfont=dict(size=12)
         ))
 
