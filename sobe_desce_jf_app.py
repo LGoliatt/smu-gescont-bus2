@@ -210,7 +210,9 @@ filtered_df=df2.copy()
 #     filtered_df.sort_values(by='stopsequence', inplace=True)
 
 # Create two tabs
-tab1, tab2, tab3, tab4,  = st.tabs(["Routes Heatmap", "Bus Boarding/Time", "Bus Boarding/Time Acummulated", "Board-Landing"])
+
+#tab1, tab2, tab3, tab4,  = st.tabs(["Routes Heatmap", "Bus Boarding/Time", "Bus Boarding/Time Acummulated", "Board-Landing"])
+tab1, tab2, tab3,   = st.tabs(["Routes Heatmap", "Bus Boarding/Time", "Bus Boarding/Time Acummulated", ])
 
 # Tab 1: Routes Heatmap
 with tab1:
@@ -455,54 +457,54 @@ with tab3:
     else:
         st.warning("No data available for the selected filters.")    
 
-with tab4:
+# with tab4:
     
-    # Upload do arquivo CSV
-    uploaded_file = st.file_uploader("Envie o arquivo CSV com os dados de transporte", type="csv")
+#     # Upload do arquivo CSV
+#     uploaded_file = st.file_uploader("Envie o arquivo CSV com os dados de transporte", type="csv")
     
-    if uploaded_file:
-        df = pd.read_csv(uploaded_file)
-        df.fillna(0, inplace=True)
+#     if uploaded_file:
+#         df = pd.read_csv(uploaded_file)
+#         df.fillna(0, inplace=True)
     
-        # Pré-processamento
-        df['day'] = pd.to_datetime(df['day'])
-        df['departuretime'] = pd.to_datetime(df['departuretime'], format='%H:%M').dt.time
-        df['trip_id'] = df['routeshortname'].astype(str) + '_' + df['day'].astype(str) + '_' + df['departuretime'].astype(str)
+#         # Pré-processamento
+#         df['day'] = pd.to_datetime(df['day'])
+#         df['departuretime'] = pd.to_datetime(df['departuretime'], format='%H:%M').dt.time
+#         df['trip_id'] = df['routeshortname'].astype(str) + '_' + df['day'].astype(str) + '_' + df['departuretime'].astype(str)
     
-        # Seleção de viagem
-        viagens_disponiveis = df['trip_id'].unique()
-        viagem_selecionada = st.selectbox("Selecione uma viagem", viagens_disponiveis)
+#         # Seleção de viagem
+#         viagens_disponiveis = df['trip_id'].unique()
+#         viagem_selecionada = st.selectbox("Selecione uma viagem", viagens_disponiveis)
     
-        # Filtrar a viagem selecionada
-        df_viagem = df[df['trip_id'] == viagem_selecionada].copy()
-        df_viagem.sort_values(by='stopsequence', inplace=True)
+#         # Filtrar a viagem selecionada
+#         df_viagem = df[df['trip_id'] == viagem_selecionada].copy()
+#         df_viagem.sort_values(by='stopsequence', inplace=True)
     
-        # Gráfico sobe-desce com Plotly
-        fig = px.line(df_viagem,
-                      x='stopname',
-                      y= data_type,
-                      markers=True,
-                      title=f'Ocupação ao Longo da Rota - Viagem {viagem_selecionada}',
-                      labels={data_type: '', 'stopname': 'Parada'},
-                      height=700,
-                    )
+#         # Gráfico sobe-desce com Plotly
+#         fig = px.line(df_viagem,
+#                       x='stopname',
+#                       y= data_type,
+#                       markers=True,
+#                       title=f'Ocupação ao Longo da Rota - Viagem {viagem_selecionada}',
+#                       labels={data_type: '', 'stopname': 'Parada'},
+#                       height=700,
+#                     )
     
-        #fig.update_layout(xaxis_tickangle=-90)
-        # Customize layout
-        fig.update_layout(
-                #xaxis_title='Hour',
-                yaxis_title=data_type.capitalize(),
-                #legend_title='Route',
-                hovermode='x unified',
-                plot_bgcolor='rgba(0,0,0,0)',
-                xaxis_tickangle=-90,
-                margin=dict(l=20, r=20, t=30, b=20)
-            )
-        st.plotly_chart(fig)
+#         #fig.update_layout(xaxis_tickangle=-90)
+#         # Customize layout
+#         fig.update_layout(
+#                 #xaxis_title='Hour',
+#                 yaxis_title=data_type.capitalize(),
+#                 #legend_title='Route',
+#                 hovermode='x unified',
+#                 plot_bgcolor='rgba(0,0,0,0)',
+#                 xaxis_tickangle=-90,
+#                 margin=dict(l=20, r=20, t=30, b=20)
+#             )
+#         st.plotly_chart(fig)
     
-        # Mostrar tabela da viagem
-        with st.expander("Ver dados da viagem"):
-            st.dataframe(df_viagem[['stopsequence', 'stopname', 'boarding', 'landing', 'occupation']])
+#         # Mostrar tabela da viagem
+#         with st.expander("Ver dados da viagem"):
+#             st.dataframe(df_viagem[['stopsequence', 'stopname', 'boarding', 'landing', 'occupation']])
             
 # Instructions
 st.sidebar.markdown("""
