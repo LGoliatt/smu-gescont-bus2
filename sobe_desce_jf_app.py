@@ -95,7 +95,8 @@ route_options = file_list
 selected_routes = st.sidebar.multiselect(
     "Select Route(s):",
     options=route_options,
-    default=[route_options[0]] if len(route_options) > 0 else None
+    default=None
+    #default=[route_options[0]] if len(route_options) > 0 else None
     #default=['100', '101', '102', '103', '104', '105',]
 )
 
