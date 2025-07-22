@@ -25,7 +25,7 @@ link='https://docs.google.com/spreadsheet/ccc?key='+key+'&output=csv'
 df = pd.read_csv(link, sep=',')
 
 
-
+  
 
 # API URL with query parameters
 url = "https://bus2.services/api-b2b/sobe-desce"
@@ -46,6 +46,13 @@ headers = {
 }
 
 
+
+#curl -X 'GET' \
+#  'https://bus2.services/api-b2b/sobe-desce?startDate=2025-01-01&endDate=2025-01-10&routeShortName=105&page=1&limit=20' \
+#  -H 'accept: /' \
+#  -H 'x-api-key: cb66e329-eaca-4cbb-bc31-914e20c25f86'
+  
+  
 for index, row in df.iterrows():
     params = {
         "startDate": row['startDate'],
@@ -70,45 +77,50 @@ for index, row in df.iterrows():
         with open(filename, "w", encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
     
-        print(f"Success! Data saved to {filename}")
+        #print(f"Success! Data saved to {filename}")
     else:
         print(f"Error: {response.status_code}")
         print("Response text:", response.text)
 
         
     data= response.json()    
-    print(len(data['data']))
-    
-    # --- Convert coordinates to float and sort by stopsequence ---
-    stops = sorted(data['data'], key=lambda x: x['stopsequence'])
-    print(stops[0]['stop_lat'])
-    
-    coordinates = [(float(stop['stop_lat']), float(stop['stop_lon'])) for stop in stops]
-    
-    # --- Initialize map centered at first stop ---
-    start_lat, start_lon = coordinates[0]
-    map_route = folium.Map(location=[start_lat, start_lon], zoom_start=14)
-    
-    # --- Add stop markers with info ---
-    for stop in stops:
-        lat = float(stop['stop_lat'])
-        lon = float(stop['stop_lon'])
-        name = stop['stopname']
-        seq = stop['stopsequence']
-        occ = stop['occupation']
-        popup_text = f"#{seq} - {name}<br>Occupation: {occ}"
+    if len(data['data'])> 0:
+        print(len(data['data']))
+        # --- Convert coordinates to float and sort by stopsequence ---
+        stops = sorted(data['data'], key=lambda x: x['stopsequence'])
+        #print(stops[0]['stop_lat'])
         
-        folium.Marker(
-            location=[lat, lon],
-            popup=popup_text,
-            icon=folium.Icon(color='blue' if occ == 0 else 'red', icon='bus', prefix='fa')
-        ).add_to(map_route)
+        coordinates = [(float(stop['stop_lat']), float(stop['stop_lon'])) for stop in stops]
+        
+        aux = pd.DataFrame(data['data'])
+        
+        l=aux['routeshortname'].unique()[0]
+        aux.to_csv(f'{l}.csv', sep=',', index=None)
     
-    # --- Add polyline connecting the stops ---
-    folium.PolyLine(coordinates, color="blue", weight=3, opacity=0.7).add_to(map_route)
-    
-    # --- Save and/or show ---
-    map_route.save(f"bus_route_{routeShortName}.html")
+        # --- Initialize map centered at first stop ---
+        start_lat, start_lon = coordinates[0]
+        map_route = folium.Map(location=[start_lat, start_lon], zoom_start=14)
+        
+        # --- Add stop markers with info ---
+        for stop in stops:
+            lat = float(stop['stop_lat'])
+            lon = float(stop['stop_lon'])
+            name = stop['stopname']
+            seq = stop['stopsequence']
+            occ = stop['occupation']
+            popup_text = f"#{seq} - {name}<br>Occupation: {occ}"
+            
+            folium.Marker(
+                location=[lat, lon],
+                popup=popup_text,
+                icon=folium.Icon(color='blue' if occ == 0 else 'red', icon='bus', prefix='fa')
+            ).add_to(map_route)
+        
+        # --- Add polyline connecting the stops ---
+        folium.PolyLine(coordinates, color="blue", weight=3, opacity=0.7).add_to(map_route)
+        
+        # --- Save and/or show ---
+        map_route.save(f"bus_route_{routeShortName}.html")
         
 
 #%%
