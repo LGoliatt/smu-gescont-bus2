@@ -262,7 +262,7 @@ def analise_frota_onibus_plotly(df, frequencia=None):
         uniformtext_minsize=12,
         uniformtext_mode='hide',
         hovermode="x unified",
-        height=800, 
+        height=500, 
         template="plotly_white",
         margin=dict(t=100, b=100, l=60, r=60)
     )
