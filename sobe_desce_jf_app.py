@@ -404,6 +404,7 @@ with tab2:
     else:
         st.warning("No data available for the selected filters.")
          
+# tab 3: Bus Boarding/Time Acummulated        
 with tab3:
     # st.header("Bus Occupation")
     st.write("This tab shows the accumulated occupation percentage of buses across all routes over time.")
