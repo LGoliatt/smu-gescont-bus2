@@ -168,8 +168,8 @@ def analise_frota_onibus_plotly(df, frequencia=None):
         'Midiônibus': '#66BB6A',
         'Ônibus Básico': '#42A5F5',
         'Ônibus Padron': '#1E88E5',
-        'Articulado': '#8E24AA',
-        'Biarticulado': '#3E2723'
+        #'Articulado': '#8E24AA',
+        #'Biarticulado': '#3E2723'
     }
 
     # Preparar dados
