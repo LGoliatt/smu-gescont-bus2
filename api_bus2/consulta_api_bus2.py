@@ -20,12 +20,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 key = "1rCp6RqilhvGhFNh_iZcesXwgUcR_Cc_kHAU117hV4zQ"
-key="1EYGny7QH-49pTEkS-bIiFC3W_NzcFcVE6eksDd09CUM" # teste richard
+#key="1EYGny7QH-49pTEkS-bIiFC3W_NzcFcVE6eksDd09CUM" # teste richard
 link='https://docs.google.com/spreadsheet/ccc?key='+key+'&output=csv'
 df = pd.read_csv(link, sep=',')
 
 
-  
+if  'ativa' in df.columns:
+    df=df[df['ativa']!='n']
 
 # API URL with query parameters
 url = "https://bus2.services/api-b2b/sobe-desce"
@@ -85,18 +86,18 @@ for index, row in df.iterrows():
         
     data= response.json()    
     if len(data['data'])> 0:
-        print(len(data['data']))
+        aux = pd.DataFrame(data['data'])
+        l=aux['routeshortname'].unique()[0]
+        aux.to_csv(f'{l}.csv', sep=',', index=None)    
+        print(l, len(data['data']))
         # --- Convert coordinates to float and sort by stopsequence ---
         stops = sorted(data['data'], key=lambda x: x['stopsequence'])
         #print(stops[0]['stop_lat'])
         
         coordinates = [(float(stop['stop_lat']), float(stop['stop_lon'])) for stop in stops]
         
-        aux = pd.DataFrame(data['data'])
         
-        l=aux['routeshortname'].unique()[0]
-        aux.to_csv(f'{l}.csv', sep=',', index=None)
-    
+        
         # --- Initialize map centered at first stop ---
         start_lat, start_lon = coordinates[0]
         map_route = folium.Map(location=[start_lat, start_lon], zoom_start=14)
