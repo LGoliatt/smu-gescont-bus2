@@ -1,598 +1,598 @@
-routeshortname,routelongname,departuretime,stopsequence,boarding,landing,occupation,day,stop_lon,stop_lat,stopname
-543,Santa Cordola,06:00,1,6,0,6,2024-11-09,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,06:00,2,7,0,13,2024-11-09,-43.34476793,-21.76163378,"Avenida Getúlio Vargas, 207"
-543,Santa Cordola,06:00,3,0,0,13,2024-11-09,-43.34768295,-21.76537704,"Avenida Presidente Itamar Franco, 986"
-543,Santa Cordola,06:00,4,0,0,13,2024-11-09,-43.35034538,-21.76838477,"Avenida Presidente Itamar Franco, 1622"
-543,Santa Cordola,06:00,5,1,0,14,2024-11-09,-43.35187101,-21.77073128,"Avenida Presidente Itamar Franco, 1840"
-543,Santa Cordola,06:00,6,0,0,14,2024-11-09,-43.35514824,-21.77467451,"Avenida Presidente Itamar Franco, 2360"
-543,Santa Cordola,06:00,7,0,2,12,2024-11-09,-43.35676165,-21.77592644,"Avenida Presidente Itamar Franco, 2520"
-543,Santa Cordola,06:00,8,0,7,5,2024-11-09,-43.3590889,-21.77818298,"Avenida Presidente Itamar Franco, 3050"
-543,Santa Cordola,06:00,9,0,3,2,2024-11-09,-43.3638649,-21.78231812,"Avenida Doutor Paulo Japiassu Coelho, 605"
-543,Santa Cordola,06:00,10,0,0,2,2024-11-09,-43.36533785,-21.78362889,"Avenida Doutor Paulo Japiassu Coelho, 401"
-543,Santa Cordola,06:00,11,0,0,2,2024-11-09,-43.36433411,-21.78536797,"Avenida Doutor Paulo Japiassu Coelho, 213"
-543,Santa Cordola,06:00,12,0,2,0,2024-11-09,-43.36269879,-21.78680992,"Avenida Doutor Paulo Japiassu Coelho, 109"
-543,Santa Cordola,06:00,13,4,0,4,2024-11-09,-43.36355007,-21.78815539,"Avenida Deusdedith Salgado, 1298"
-543,Santa Cordola,06:00,14,0,0,4,2024-11-09,-43.36520698,-21.79056606,"Avenida Deusdedith Salgado, 1600"
-543,Santa Cordola,06:00,15,0,0,4,2024-11-09,-43.36581349,-21.79168844,"Avenida Deusdedith Salgado, 1700"
-543,Santa Cordola,06:00,16,0,0,4,2024-11-09,-43.36662269,-21.79708597,"Avenida Deusdedith Salgado, 2200"
-543,Santa Cordola,06:00,17,2,0,6,2024-11-09,-43.37030696,-21.80254597,"Avenida Deusdedith Salgado, 2800"
-543,Santa Cordola,06:00,18,0,4,2,2024-11-09,-43.37226558,-21.80410544,"Avenida Deusdedith Salgado, 3800"
-543,Santa Cordola,06:00,19,0,1,1,2024-11-09,-43.37626195,-21.80717204,"Avenida Deusdedith Salgado, 4550"
-543,Santa Cordola,06:00,20,2,1,2,2024-11-09,-43.37553072,-21.81243939,"Avenida Deusdedith Salgado, 5050"
-543,Santa Cordola,06:00,21,0,1,1,2024-11-09,-43.37596583,-21.81434748,"Avenida Deusdedith Salgado, 4570"
-543,Santa Cordola,06:00,22,1,1,1,2024-11-09,-43.37654185,-21.81668091,"Avenida Deusdedith Salgado, 5450"
-543,Santa Cordola,06:00,23,0,0,1,2024-11-09,-43.37495864,-21.82508276,BR-040 sul
-543,Santa Cordola,06:00,24,0,0,1,2024-11-09,-43.374897,-21.83651543,BR-040 sul
-543,Santa Cordola,06:00,25,0,0,1,2024-11-09,-43.38006973,-21.84679031,MG-353 sul
-543,Santa Cordola,06:00,26,0,0,1,2024-11-09,-43.38606841,-21.84224468,MG-353 sul
-543,Santa Cordola,06:00,27,0,0,1,2024-11-09,-43.39340157,-21.84213514,MG-353 sul
-543,Santa Cordola,06:00,28,0,0,1,2024-11-09,-43.40201305,-21.83781339,MG-353 sul
-543,Santa Cordola,06:00,29,0,0,1,2024-11-09,-43.4103703,-21.84145694,MG-353 sul
-543,Santa Cordola,06:00,30,0,0,1,2024-11-09,-43.41173303,-21.84740752,MG-353 sul
-543,Santa Cordola,06:00,31,0,0,1,2024-11-09,-43.41294969,-21.85101665,MG-353 sul
-543,Santa Cordola,06:00,32,0,0,1,2024-11-09,-43.41500854,-21.85347366,AMG-3055 sul - Entrada MG-353
-543,Santa Cordola,06:00,33,0,0,1,2024-11-09,-43.40818525,-21.8658401,AMG-3055 sul
-543,Santa Cordola,06:00,34,0,0,1,2024-11-09,-43.40304625,-21.86991956,AMG-3055 sul
-543,Santa Cordola,06:00,35,0,0,1,2024-11-09,-43.39654863,-21.87529801,AMG-3055 sul
-543,Santa Cordola,06:00,36,0,0,1,2024-11-09,-43.3971746,-21.88147187,AMG-3055 sul
-543,Santa Cordola,06:00,37,0,0,1,2024-11-09,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,06:50,1,0,0,0,2024-11-09,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,06:50,2,0,0,0,2024-11-09,-43.39686608,-21.88139153,AMG-3055 norte
-543,Santa Cordola,06:50,3,0,0,0,2024-11-09,-43.39629722,-21.87513985,AMG-3055 norte
-543,Santa Cordola,06:50,4,0,0,0,2024-11-09,-43.40290677,-21.86979013,AMG-3055 norte
-543,Santa Cordola,06:50,5,0,0,0,2024-11-09,-43.40804267,-21.86567113,AMG-3055 norte
-543,Santa Cordola,06:50,6,0,0,0,2024-11-09,-43.41494524,-21.85330946,AMG-3055 norte - Entrada MG-353
-543,Santa Cordola,06:50,7,4,0,4,2024-11-09,-43.41265333,-21.85095448,MG-353 norte
-543,Santa Cordola,06:50,8,0,0,4,2024-11-09,-43.41152382,-21.8475071,MG-353 norte
-543,Santa Cordola,06:50,9,0,0,4,2024-11-09,-43.41015351,-21.84132135,MG-353 norte
-543,Santa Cordola,06:50,10,0,0,4,2024-11-09,-43.40212034,-21.8379827,MG-353 norte
-543,Santa Cordola,06:50,11,0,0,4,2024-11-09,-43.39338011,-21.84224966,MG-353 norte
-543,Santa Cordola,06:50,12,0,0,4,2024-11-09,-43.38599867,-21.84241398,MG-353 norte
-543,Santa Cordola,06:50,13,0,0,4,2024-11-09,-43.38027203,-21.84699059,MG-353 norte
-543,Santa Cordola,06:50,14,0,0,4,2024-11-09,-43.37364093,-21.83461155,BR-040 norte
-543,Santa Cordola,06:50,15,2,0,6,2024-11-09,-43.37397629,-21.82766967,BR-040 norte
-543,Santa Cordola,06:50,16,0,0,6,2024-11-09,-43.37596023,-21.81589731,"Avenida Deusdedith Salgado, 5405"
-543,Santa Cordola,06:50,17,2,0,8,2024-11-09,-43.37514317,-21.81230216,"Avenida Deusdedith Salgado, 5025"
-543,Santa Cordola,06:50,18,0,0,8,2024-11-09,-43.37564468,-21.8067894,"Avenida Deusdedith Salgado, 4551"
-543,Santa Cordola,06:50,19,4,0,12,2024-11-09,-43.37307882,-21.80512163,"Avenida Deusdedith Salgado, 4451"
-543,Santa Cordola,06:50,20,0,0,12,2024-11-09,-43.37152195,-21.80458631,"Avenida Deusdedith Salgado, 3701"
-543,Santa Cordola,06:50,21,0,2,10,2024-11-09,-43.36966229,-21.80149184,"Avenida Deusdedith Salgado, 2401"
-543,Santa Cordola,06:50,22,0,1,9,2024-11-09,-43.36734369,-21.79908456,"Avenida Deusdedith Salgado, 2395"
-543,Santa Cordola,06:50,23,0,1,8,2024-11-09,-43.3662653,-21.797472,"Avenida Deusdedith Salgado, 2251"
-543,Santa Cordola,06:50,24,0,1,7,2024-11-09,-43.36567592,-21.79576145,"Avenida Deusdedith Salgado, 2227"
-543,Santa Cordola,06:50,25,0,0,7,2024-11-09,-43.36605501,-21.79318175,"Avenida Deusdedith Salgado, 1945"
-543,Santa Cordola,06:50,26,1,0,8,2024-11-09,-43.3649501,-21.79044018,"Avenida Deusdedith Salgado, 1597"
-543,Santa Cordola,06:50,27,0,1,7,2024-11-09,-43.36378348,-21.78877914,"Avenida Deusdedith Salgado, 1351"
-543,Santa Cordola,06:50,28,1,0,8,2024-11-09,-43.36238527,-21.7874579,"Avenida Deusdedith Salgado, 1189"
-543,Santa Cordola,06:50,29,0,0,8,2024-11-09,-43.36330116,-21.78597182,"Avenida Doutor Paulo Japiassu Coelho, 142"
-543,Santa Cordola,06:50,30,1,0,9,2024-11-09,-43.36475218,-21.78470041,"Avenida Doutor Paulo Japiassu Coelho, 320"
-543,Santa Cordola,06:50,31,0,0,9,2024-11-09,-43.36497879,-21.78351021,"Avenida Doutor Paulo Japiassu Coelho, 528"
-543,Santa Cordola,06:50,32,0,2,7,2024-11-09,-43.36368561,-21.78239632,"Avenida Doutor Paulo Japiassu Coelho, 630"
-543,Santa Cordola,06:50,33,0,2,5,2024-11-09,-43.36211063,-21.78121672,"Avenida Presidente Itamar Franco, 3261"
-543,Santa Cordola,06:50,34,2,1,6,2024-11-09,-43.35867795,-21.77810902,"Avenida Presidente Itamar Franco, 3001"
-543,Santa Cordola,06:50,35,0,0,6,2024-11-09,-43.3558315,-21.77566225,"Avenida Presidente Itamar Franco, 2463"
-543,Santa Cordola,06:50,36,2,0,8,2024-11-09,-43.35470581,-21.77436066,"Avenida Presidente Itamar Franco, 2335"
-543,Santa Cordola,06:50,37,0,0,8,2024-11-09,-43.35205078,-21.77130127,"Avenida Presidente Itamar Franco, 1901"
-543,Santa Cordola,06:50,38,0,1,7,2024-11-09,-43.35009754,-21.76843834,"Avenida Presidente Itamar Franco, 1619"
-543,Santa Cordola,06:50,39,0,5,2,2024-11-09,-43.34879673,-21.76672451,"Avenida Presidente Itamar Franco, 1339"
-543,Santa Cordola,06:50,40,0,2,0,2024-11-09,-43.347229,-21.76519012,"Avenida Presidente Itamar Franco, 915"
-543,Santa Cordola,06:50,41,1,0,1,2024-11-09,-43.34470749,-21.76272774,"Avenida Presidente Itamar Franco, 605"
-543,Santa Cordola,06:50,42,0,1,0,2024-11-09,-43.34353638,-21.75967216,"Avenida Francisco Bernardino, 162"
-543,Santa Cordola,06:50,43,0,0,0,2024-11-09,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,11:45,1,0,0,0,2024-11-09,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,11:45,2,4,0,4,2024-11-09,-43.34476793,-21.76163378,"Avenida Getúlio Vargas, 207"
-543,Santa Cordola,11:45,3,5,0,9,2024-11-09,-43.34768295,-21.76537704,"Avenida Presidente Itamar Franco, 986"
-543,Santa Cordola,11:45,4,1,0,10,2024-11-09,-43.35034538,-21.76838477,"Avenida Presidente Itamar Franco, 1622"
-543,Santa Cordola,11:45,5,0,0,10,2024-11-09,-43.35187101,-21.77073128,"Avenida Presidente Itamar Franco, 1840"
-543,Santa Cordola,11:45,6,0,2,8,2024-11-09,-43.35514824,-21.77467451,"Avenida Presidente Itamar Franco, 2360"
-543,Santa Cordola,11:45,7,0,0,8,2024-11-09,-43.35676165,-21.77592644,"Avenida Presidente Itamar Franco, 2520"
-543,Santa Cordola,11:45,8,1,2,7,2024-11-09,-43.3590889,-21.77818298,"Avenida Presidente Itamar Franco, 3050"
-543,Santa Cordola,11:45,9,2,0,9,2024-11-09,-43.3638649,-21.78231812,"Avenida Doutor Paulo Japiassu Coelho, 605"
-543,Santa Cordola,11:45,10,0,0,9,2024-11-09,-43.36533785,-21.78362889,"Avenida Doutor Paulo Japiassu Coelho, 401"
-543,Santa Cordola,11:45,11,0,1,8,2024-11-09,-43.36433411,-21.78536797,"Avenida Doutor Paulo Japiassu Coelho, 213"
-543,Santa Cordola,11:45,12,0,1,7,2024-11-09,-43.36269879,-21.78680992,"Avenida Doutor Paulo Japiassu Coelho, 109"
-543,Santa Cordola,11:45,13,1,0,8,2024-11-09,-43.36355007,-21.78815539,"Avenida Deusdedith Salgado, 1298"
-543,Santa Cordola,11:45,14,0,1,7,2024-11-09,-43.36520698,-21.79056606,"Avenida Deusdedith Salgado, 1600"
-543,Santa Cordola,11:45,15,0,1,6,2024-11-09,-43.36581349,-21.79168844,"Avenida Deusdedith Salgado, 1700"
-543,Santa Cordola,11:45,16,1,0,7,2024-11-09,-43.36662269,-21.79708597,"Avenida Deusdedith Salgado, 2200"
-543,Santa Cordola,11:45,17,2,0,9,2024-11-09,-43.37030696,-21.80254597,"Avenida Deusdedith Salgado, 2800"
-543,Santa Cordola,11:45,18,0,4,5,2024-11-09,-43.37226558,-21.80410544,"Avenida Deusdedith Salgado, 3800"
-543,Santa Cordola,11:45,19,0,0,5,2024-11-09,-43.37626195,-21.80717204,"Avenida Deusdedith Salgado, 4550"
-543,Santa Cordola,11:45,20,0,2,3,2024-11-09,-43.37553072,-21.81243939,"Avenida Deusdedith Salgado, 5050"
-543,Santa Cordola,11:45,21,0,0,3,2024-11-09,-43.37596583,-21.81434748,"Avenida Deusdedith Salgado, 4570"
-543,Santa Cordola,11:45,22,0,0,3,2024-11-09,-43.37654185,-21.81668091,"Avenida Deusdedith Salgado, 5450"
-543,Santa Cordola,11:45,23,0,2,1,2024-11-09,-43.37495864,-21.82508276,BR-040 sul
-543,Santa Cordola,11:45,24,0,0,1,2024-11-09,-43.374897,-21.83651543,BR-040 sul
-543,Santa Cordola,11:45,25,0,0,1,2024-11-09,-43.38006973,-21.84679031,MG-353 sul
-543,Santa Cordola,11:45,26,0,0,1,2024-11-09,-43.38606841,-21.84224468,MG-353 sul
-543,Santa Cordola,11:45,27,0,0,1,2024-11-09,-43.39340157,-21.84213514,MG-353 sul
-543,Santa Cordola,11:45,28,0,0,1,2024-11-09,-43.40201305,-21.83781339,MG-353 sul
-543,Santa Cordola,11:45,29,0,0,1,2024-11-09,-43.4103703,-21.84145694,MG-353 sul
-543,Santa Cordola,11:45,30,0,0,1,2024-11-09,-43.41173303,-21.84740752,MG-353 sul
-543,Santa Cordola,11:45,31,0,1,0,2024-11-09,-43.41294969,-21.85101665,MG-353 sul
-543,Santa Cordola,11:45,32,0,0,0,2024-11-09,-43.41500854,-21.85347366,AMG-3055 sul - Entrada MG-353
-543,Santa Cordola,11:45,33,0,0,0,2024-11-09,-43.40818525,-21.8658401,AMG-3055 sul
-543,Santa Cordola,11:45,34,1,0,1,2024-11-09,-43.40304625,-21.86991956,AMG-3055 sul
-543,Santa Cordola,11:45,35,0,0,1,2024-11-09,-43.39654863,-21.87529801,AMG-3055 sul
-543,Santa Cordola,11:45,36,0,0,1,2024-11-09,-43.3971746,-21.88147187,AMG-3055 sul
-543,Santa Cordola,11:45,37,0,0,1,2024-11-09,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,19:10,1,0,0,0,2024-11-09,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,19:10,2,0,0,0,2024-11-09,-43.39686608,-21.88139153,AMG-3055 norte
-543,Santa Cordola,19:10,3,0,0,0,2024-11-09,-43.39629722,-21.87513985,AMG-3055 norte
-543,Santa Cordola,19:10,4,0,0,0,2024-11-09,-43.40290677,-21.86979013,AMG-3055 norte
-543,Santa Cordola,19:10,5,0,0,0,2024-11-09,-43.40804267,-21.86567113,AMG-3055 norte
-543,Santa Cordola,19:10,6,0,0,0,2024-11-09,-43.41494524,-21.85330946,AMG-3055 norte - Entrada MG-353
-543,Santa Cordola,19:10,7,0,0,0,2024-11-09,-43.41265333,-21.85095448,MG-353 norte
-543,Santa Cordola,19:10,8,0,0,0,2024-11-09,-43.41152382,-21.8475071,MG-353 norte
-543,Santa Cordola,19:10,9,0,0,0,2024-11-09,-43.41015351,-21.84132135,MG-353 norte
-543,Santa Cordola,19:10,10,0,0,0,2024-11-09,-43.40212034,-21.8379827,MG-353 norte
-543,Santa Cordola,19:10,11,0,0,0,2024-11-09,-43.39338011,-21.84224966,MG-353 norte
-543,Santa Cordola,19:10,12,0,0,0,2024-11-09,-43.38599867,-21.84241398,MG-353 norte
-543,Santa Cordola,19:10,13,0,0,0,2024-11-09,-43.38027203,-21.84699059,MG-353 norte
-543,Santa Cordola,19:10,14,0,0,0,2024-11-09,-43.37364093,-21.83461155,BR-040 norte
-543,Santa Cordola,19:10,15,0,0,0,2024-11-09,-43.37397629,-21.82766967,BR-040 norte
-543,Santa Cordola,19:10,16,1,0,1,2024-11-09,-43.37596023,-21.81589731,"Avenida Deusdedith Salgado, 5405"
-543,Santa Cordola,19:10,17,4,1,4,2024-11-09,-43.37514317,-21.81230216,"Avenida Deusdedith Salgado, 5025"
-543,Santa Cordola,19:10,18,1,0,5,2024-11-09,-43.37564468,-21.8067894,"Avenida Deusdedith Salgado, 4551"
-543,Santa Cordola,19:10,19,0,0,5,2024-11-09,-43.37307882,-21.80512163,"Avenida Deusdedith Salgado, 4451"
-543,Santa Cordola,19:10,20,4,0,9,2024-11-09,-43.37152195,-21.80458631,"Avenida Deusdedith Salgado, 3701"
-543,Santa Cordola,19:10,21,0,2,7,2024-11-09,-43.36966229,-21.80149184,"Avenida Deusdedith Salgado, 2401"
-543,Santa Cordola,19:10,22,0,0,7,2024-11-09,-43.36734369,-21.79908456,"Avenida Deusdedith Salgado, 2395"
-543,Santa Cordola,19:10,23,0,0,7,2024-11-09,-43.3662653,-21.797472,"Avenida Deusdedith Salgado, 2251"
-543,Santa Cordola,19:10,24,0,0,7,2024-11-09,-43.36567592,-21.79576145,"Avenida Deusdedith Salgado, 2227"
-543,Santa Cordola,19:10,25,0,0,7,2024-11-09,-43.36605501,-21.79318175,"Avenida Deusdedith Salgado, 1945"
-543,Santa Cordola,19:10,26,0,0,7,2024-11-09,-43.3649501,-21.79044018,"Avenida Deusdedith Salgado, 1597"
-543,Santa Cordola,19:10,27,0,4,3,2024-11-09,-43.36378348,-21.78877914,"Avenida Deusdedith Salgado, 1351"
-543,Santa Cordola,19:10,28,1,0,4,2024-11-09,-43.36238527,-21.7874579,"Avenida Deusdedith Salgado, 1189"
-543,Santa Cordola,19:10,29,1,0,5,2024-11-09,-43.36330116,-21.78597182,"Avenida Doutor Paulo Japiassu Coelho, 142"
-543,Santa Cordola,19:10,30,0,0,5,2024-11-09,-43.36475218,-21.78470041,"Avenida Doutor Paulo Japiassu Coelho, 320"
-543,Santa Cordola,19:10,31,0,0,5,2024-11-09,-43.36497879,-21.78351021,"Avenida Doutor Paulo Japiassu Coelho, 528"
-543,Santa Cordola,19:10,32,3,0,8,2024-11-09,-43.36368561,-21.78239632,"Avenida Doutor Paulo Japiassu Coelho, 630"
-543,Santa Cordola,19:10,33,0,0,8,2024-11-09,-43.36211063,-21.78121672,"Avenida Presidente Itamar Franco, 3261"
-543,Santa Cordola,19:10,34,7,0,15,2024-11-09,-43.35867795,-21.77810902,"Avenida Presidente Itamar Franco, 3001"
-543,Santa Cordola,19:10,35,2,0,17,2024-11-09,-43.3558315,-21.77566225,"Avenida Presidente Itamar Franco, 2463"
-543,Santa Cordola,19:10,36,0,0,17,2024-11-09,-43.35470581,-21.77436066,"Avenida Presidente Itamar Franco, 2335"
-543,Santa Cordola,19:10,37,0,1,16,2024-11-09,-43.35205078,-21.77130127,"Avenida Presidente Itamar Franco, 1901"
-543,Santa Cordola,19:10,38,0,0,16,2024-11-09,-43.35009754,-21.76843834,"Avenida Presidente Itamar Franco, 1619"
-543,Santa Cordola,19:10,39,0,0,16,2024-11-09,-43.34879673,-21.76672451,"Avenida Presidente Itamar Franco, 1339"
-543,Santa Cordola,19:10,40,0,0,16,2024-11-09,-43.347229,-21.76519012,"Avenida Presidente Itamar Franco, 915"
-543,Santa Cordola,19:10,41,0,7,9,2024-11-09,-43.34470749,-21.76272774,"Avenida Presidente Itamar Franco, 605"
-543,Santa Cordola,19:10,42,0,7,2,2024-11-09,-43.34353638,-21.75967216,"Avenida Francisco Bernardino, 162"
-543,Santa Cordola,19:10,43,0,2,0,2024-11-09,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,06:00,1,0,0,0,2024-11-23,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,06:00,2,6,0,6,2024-11-23,-43.34476793,-21.76163378,"Avenida Getúlio Vargas, 207"
-543,Santa Cordola,06:00,3,0,0,6,2024-11-23,-43.34768295,-21.76537704,"Avenida Presidente Itamar Franco, 986"
-543,Santa Cordola,06:00,4,1,0,7,2024-11-23,-43.35034538,-21.76838477,"Avenida Presidente Itamar Franco, 1622"
-543,Santa Cordola,06:00,5,1,0,8,2024-11-23,-43.35187101,-21.77073128,"Avenida Presidente Itamar Franco, 1840"
-543,Santa Cordola,06:00,6,0,0,8,2024-11-23,-43.35514824,-21.77467451,"Avenida Presidente Itamar Franco, 2360"
-543,Santa Cordola,06:00,7,0,0,8,2024-11-23,-43.35676165,-21.77592644,"Avenida Presidente Itamar Franco, 2520"
-543,Santa Cordola,06:00,8,0,0,8,2024-11-23,-43.3590889,-21.77818298,"Avenida Presidente Itamar Franco, 3050"
-543,Santa Cordola,06:00,9,0,0,8,2024-11-23,-43.3638649,-21.78231812,"Avenida Doutor Paulo Japiassu Coelho, 605"
-543,Santa Cordola,06:00,10,0,1,7,2024-11-23,-43.36533785,-21.78362889,"Avenida Doutor Paulo Japiassu Coelho, 401"
-543,Santa Cordola,06:00,11,0,0,7,2024-11-23,-43.36433411,-21.78536797,"Avenida Doutor Paulo Japiassu Coelho, 213"
-543,Santa Cordola,06:00,12,0,3,4,2024-11-23,-43.36269879,-21.78680992,"Avenida Doutor Paulo Japiassu Coelho, 109"
-543,Santa Cordola,06:00,13,0,0,4,2024-11-23,-43.36355007,-21.78815539,"Avenida Deusdedith Salgado, 1298"
-543,Santa Cordola,06:00,14,0,0,4,2024-11-23,-43.36520698,-21.79056606,"Avenida Deusdedith Salgado, 1600"
-543,Santa Cordola,06:00,15,1,0,5,2024-11-23,-43.36581349,-21.79168844,"Avenida Deusdedith Salgado, 1700"
-543,Santa Cordola,06:00,16,4,1,8,2024-11-23,-43.36662269,-21.79708597,"Avenida Deusdedith Salgado, 2200"
-543,Santa Cordola,06:00,17,0,0,8,2024-11-23,-43.37030696,-21.80254597,"Avenida Deusdedith Salgado, 2800"
-543,Santa Cordola,06:00,18,0,1,7,2024-11-23,-43.37226558,-21.80410544,"Avenida Deusdedith Salgado, 3800"
-543,Santa Cordola,06:00,19,1,0,8,2024-11-23,-43.37626195,-21.80717204,"Avenida Deusdedith Salgado, 4550"
-543,Santa Cordola,06:00,20,0,5,3,2024-11-23,-43.37553072,-21.81243939,"Avenida Deusdedith Salgado, 5050"
-543,Santa Cordola,06:00,21,0,3,0,2024-11-23,-43.37596583,-21.81434748,"Avenida Deusdedith Salgado, 4570"
-543,Santa Cordola,06:00,22,0,0,0,2024-11-23,-43.37654185,-21.81668091,"Avenida Deusdedith Salgado, 5450"
-543,Santa Cordola,06:00,23,0,0,0,2024-11-23,-43.37495864,-21.82508276,BR-040 sul
-543,Santa Cordola,06:00,24,0,0,0,2024-11-23,-43.374897,-21.83651543,BR-040 sul
-543,Santa Cordola,06:00,25,0,0,0,2024-11-23,-43.38006973,-21.84679031,MG-353 sul
-543,Santa Cordola,06:00,26,0,0,0,2024-11-23,-43.38606841,-21.84224468,MG-353 sul
-543,Santa Cordola,06:00,27,0,0,0,2024-11-23,-43.39340157,-21.84213514,MG-353 sul
-543,Santa Cordola,06:00,28,0,0,0,2024-11-23,-43.40201305,-21.83781339,MG-353 sul
-543,Santa Cordola,06:00,29,0,0,0,2024-11-23,-43.4103703,-21.84145694,MG-353 sul
-543,Santa Cordola,06:00,30,0,0,0,2024-11-23,-43.41173303,-21.84740752,MG-353 sul
-543,Santa Cordola,06:00,31,0,0,0,2024-11-23,-43.41294969,-21.85101665,MG-353 sul
-543,Santa Cordola,06:00,32,0,0,0,2024-11-23,-43.41500854,-21.85347366,AMG-3055 sul - Entrada MG-353
-543,Santa Cordola,06:00,33,0,0,0,2024-11-23,-43.40818525,-21.8658401,AMG-3055 sul
-543,Santa Cordola,06:00,34,0,0,0,2024-11-23,-43.40304625,-21.86991956,AMG-3055 sul
-543,Santa Cordola,06:00,35,0,0,0,2024-11-23,-43.39654863,-21.87529801,AMG-3055 sul
-543,Santa Cordola,06:00,36,1,0,1,2024-11-23,-43.3971746,-21.88147187,AMG-3055 sul
-543,Santa Cordola,06:00,37,0,0,1,2024-11-23,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,06:50,1,0,0,0,2024-11-23,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,06:50,2,0,0,0,2024-11-23,-43.39686608,-21.88139153,AMG-3055 norte
-543,Santa Cordola,06:50,3,0,0,0,2024-11-23,-43.39629722,-21.87513985,AMG-3055 norte
-543,Santa Cordola,06:50,4,0,0,0,2024-11-23,-43.40290677,-21.86979013,AMG-3055 norte
-543,Santa Cordola,06:50,5,0,0,0,2024-11-23,-43.40804267,-21.86567113,AMG-3055 norte
-543,Santa Cordola,06:50,6,0,0,0,2024-11-23,-43.41494524,-21.85330946,AMG-3055 norte - Entrada MG-353
-543,Santa Cordola,06:50,7,3,0,3,2024-11-23,-43.41265333,-21.85095448,MG-353 norte
-543,Santa Cordola,06:50,8,0,0,3,2024-11-23,-43.41152382,-21.8475071,MG-353 norte
-543,Santa Cordola,06:50,9,0,0,3,2024-11-23,-43.41015351,-21.84132135,MG-353 norte
-543,Santa Cordola,06:50,10,0,0,3,2024-11-23,-43.40212034,-21.8379827,MG-353 norte
-543,Santa Cordola,06:50,11,0,0,3,2024-11-23,-43.39338011,-21.84224966,MG-353 norte
-543,Santa Cordola,06:50,12,0,0,3,2024-11-23,-43.38599867,-21.84241398,MG-353 norte
-543,Santa Cordola,06:50,13,0,0,3,2024-11-23,-43.38027203,-21.84699059,MG-353 norte
-543,Santa Cordola,06:50,14,2,0,5,2024-11-23,-43.37364093,-21.83461155,BR-040 norte
-543,Santa Cordola,06:50,15,2,0,7,2024-11-23,-43.37397629,-21.82766967,BR-040 norte
-543,Santa Cordola,06:50,16,0,0,7,2024-11-23,-43.37596023,-21.81589731,"Avenida Deusdedith Salgado, 5405"
-543,Santa Cordola,06:50,17,3,0,10,2024-11-23,-43.37514317,-21.81230216,"Avenida Deusdedith Salgado, 5025"
-543,Santa Cordola,06:50,18,1,0,11,2024-11-23,-43.37564468,-21.8067894,"Avenida Deusdedith Salgado, 4551"
-543,Santa Cordola,06:50,19,0,0,11,2024-11-23,-43.37307882,-21.80512163,"Avenida Deusdedith Salgado, 4451"
-543,Santa Cordola,06:50,20,10,0,21,2024-11-23,-43.37152195,-21.80458631,"Avenida Deusdedith Salgado, 3701"
-543,Santa Cordola,06:50,21,0,2,19,2024-11-23,-43.36966229,-21.80149184,"Avenida Deusdedith Salgado, 2401"
-543,Santa Cordola,06:50,22,0,6,13,2024-11-23,-43.36734369,-21.79908456,"Avenida Deusdedith Salgado, 2395"
-543,Santa Cordola,06:50,23,0,6,7,2024-11-23,-43.3662653,-21.797472,"Avenida Deusdedith Salgado, 2251"
-543,Santa Cordola,06:50,24,0,6,1,2024-11-23,-43.36567592,-21.79576145,"Avenida Deusdedith Salgado, 2227"
-543,Santa Cordola,06:50,25,0,0,1,2024-11-23,-43.36605501,-21.79318175,"Avenida Deusdedith Salgado, 1945"
-543,Santa Cordola,06:50,26,0,0,1,2024-11-23,-43.3649501,-21.79044018,"Avenida Deusdedith Salgado, 1597"
-543,Santa Cordola,06:50,27,0,1,0,2024-11-23,-43.36378348,-21.78877914,"Avenida Deusdedith Salgado, 1351"
-543,Santa Cordola,06:50,28,0,0,0,2024-11-23,-43.36238527,-21.7874579,"Avenida Deusdedith Salgado, 1189"
-543,Santa Cordola,06:50,29,1,0,1,2024-11-23,-43.36330116,-21.78597182,"Avenida Doutor Paulo Japiassu Coelho, 142"
-543,Santa Cordola,06:50,30,0,0,1,2024-11-23,-43.36475218,-21.78470041,"Avenida Doutor Paulo Japiassu Coelho, 320"
-543,Santa Cordola,06:50,31,1,0,2,2024-11-23,-43.36497879,-21.78351021,"Avenida Doutor Paulo Japiassu Coelho, 528"
-543,Santa Cordola,06:50,32,1,2,1,2024-11-23,-43.36368561,-21.78239632,"Avenida Doutor Paulo Japiassu Coelho, 630"
-543,Santa Cordola,06:50,33,0,1,0,2024-11-23,-43.36211063,-21.78121672,"Avenida Presidente Itamar Franco, 3261"
-543,Santa Cordola,06:50,34,0,0,0,2024-11-23,-43.35867795,-21.77810902,"Avenida Presidente Itamar Franco, 3001"
-543,Santa Cordola,06:50,35,0,0,0,2024-11-23,-43.3558315,-21.77566225,"Avenida Presidente Itamar Franco, 2463"
-543,Santa Cordola,06:50,36,0,0,0,2024-11-23,-43.35470581,-21.77436066,"Avenida Presidente Itamar Franco, 2335"
-543,Santa Cordola,06:50,37,1,0,1,2024-11-23,-43.35205078,-21.77130127,"Avenida Presidente Itamar Franco, 1901"
-543,Santa Cordola,06:50,38,0,1,0,2024-11-23,-43.35009754,-21.76843834,"Avenida Presidente Itamar Franco, 1619"
-543,Santa Cordola,06:50,39,0,0,0,2024-11-23,-43.34879673,-21.76672451,"Avenida Presidente Itamar Franco, 1339"
-543,Santa Cordola,06:50,40,0,0,0,2024-11-23,-43.347229,-21.76519012,"Avenida Presidente Itamar Franco, 915"
-543,Santa Cordola,06:50,41,0,0,0,2024-11-23,-43.34470749,-21.76272774,"Avenida Presidente Itamar Franco, 605"
-543,Santa Cordola,06:50,42,0,0,0,2024-11-23,-43.34353638,-21.75967216,"Avenida Francisco Bernardino, 162"
-543,Santa Cordola,06:50,43,0,0,0,2024-11-23,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,11:45,1,1,0,1,2024-11-23,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,11:45,2,3,0,4,2024-11-23,-43.34476793,-21.76163378,"Avenida Getúlio Vargas, 207"
-543,Santa Cordola,11:45,3,2,0,6,2024-11-23,-43.34768295,-21.76537704,"Avenida Presidente Itamar Franco, 986"
-543,Santa Cordola,11:45,4,4,0,10,2024-11-23,-43.35034538,-21.76838477,"Avenida Presidente Itamar Franco, 1622"
-543,Santa Cordola,11:45,5,0,0,10,2024-11-23,-43.35187101,-21.77073128,"Avenida Presidente Itamar Franco, 1840"
-543,Santa Cordola,11:45,6,0,0,10,2024-11-23,-43.35514824,-21.77467451,"Avenida Presidente Itamar Franco, 2360"
-543,Santa Cordola,11:45,7,0,0,10,2024-11-23,-43.35676165,-21.77592644,"Avenida Presidente Itamar Franco, 2520"
-543,Santa Cordola,11:45,8,3,2,11,2024-11-23,-43.3590889,-21.77818298,"Avenida Presidente Itamar Franco, 3050"
-543,Santa Cordola,11:45,9,1,6,6,2024-11-23,-43.3638649,-21.78231812,"Avenida Doutor Paulo Japiassu Coelho, 605"
-543,Santa Cordola,11:45,10,0,1,5,2024-11-23,-43.36533785,-21.78362889,"Avenida Doutor Paulo Japiassu Coelho, 401"
-543,Santa Cordola,11:45,11,0,0,5,2024-11-23,-43.36433411,-21.78536797,"Avenida Doutor Paulo Japiassu Coelho, 213"
-543,Santa Cordola,11:45,12,0,2,3,2024-11-23,-43.36269879,-21.78680992,"Avenida Doutor Paulo Japiassu Coelho, 109"
-543,Santa Cordola,11:45,13,2,0,5,2024-11-23,-43.36355007,-21.78815539,"Avenida Deusdedith Salgado, 1298"
-543,Santa Cordola,11:45,14,1,3,3,2024-11-23,-43.36520698,-21.79056606,"Avenida Deusdedith Salgado, 1600"
-543,Santa Cordola,11:45,15,0,3,0,2024-11-23,-43.36581349,-21.79168844,"Avenida Deusdedith Salgado, 1700"
-543,Santa Cordola,11:45,16,0,0,0,2024-11-23,-43.36662269,-21.79708597,"Avenida Deusdedith Salgado, 2200"
-543,Santa Cordola,11:45,17,1,0,1,2024-11-23,-43.37030696,-21.80254597,"Avenida Deusdedith Salgado, 2800"
-543,Santa Cordola,11:45,18,0,0,1,2024-11-23,-43.37226558,-21.80410544,"Avenida Deusdedith Salgado, 3800"
-543,Santa Cordola,11:45,19,0,1,0,2024-11-23,-43.37626195,-21.80717204,"Avenida Deusdedith Salgado, 4550"
-543,Santa Cordola,11:45,20,0,0,0,2024-11-23,-43.37553072,-21.81243939,"Avenida Deusdedith Salgado, 5050"
-543,Santa Cordola,11:45,21,0,0,0,2024-11-23,-43.37596583,-21.81434748,"Avenida Deusdedith Salgado, 4570"
-543,Santa Cordola,11:45,22,1,0,1,2024-11-23,-43.37654185,-21.81668091,"Avenida Deusdedith Salgado, 5450"
-543,Santa Cordola,11:45,23,0,0,1,2024-11-23,-43.37495864,-21.82508276,BR-040 sul
-543,Santa Cordola,11:45,24,0,0,1,2024-11-23,-43.374897,-21.83651543,BR-040 sul
-543,Santa Cordola,11:45,25,0,0,1,2024-11-23,-43.38006973,-21.84679031,MG-353 sul
-543,Santa Cordola,11:45,26,0,0,1,2024-11-23,-43.38606841,-21.84224468,MG-353 sul
-543,Santa Cordola,11:45,27,0,0,1,2024-11-23,-43.39340157,-21.84213514,MG-353 sul
-543,Santa Cordola,11:45,28,0,0,1,2024-11-23,-43.40201305,-21.83781339,MG-353 sul
-543,Santa Cordola,11:45,29,0,0,1,2024-11-23,-43.4103703,-21.84145694,MG-353 sul
-543,Santa Cordola,11:45,30,0,0,1,2024-11-23,-43.41173303,-21.84740752,MG-353 sul
-543,Santa Cordola,11:45,31,0,0,1,2024-11-23,-43.41294969,-21.85101665,MG-353 sul
-543,Santa Cordola,11:45,32,0,0,1,2024-11-23,-43.41500854,-21.85347366,AMG-3055 sul - Entrada MG-353
-543,Santa Cordola,11:45,33,0,0,1,2024-11-23,-43.40818525,-21.8658401,AMG-3055 sul
-543,Santa Cordola,11:45,34,0,0,1,2024-11-23,-43.40304625,-21.86991956,AMG-3055 sul
-543,Santa Cordola,11:45,35,0,0,1,2024-11-23,-43.39654863,-21.87529801,AMG-3055 sul
-543,Santa Cordola,11:45,36,0,0,1,2024-11-23,-43.3971746,-21.88147187,AMG-3055 sul
-543,Santa Cordola,11:45,37,0,0,1,2024-11-23,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,17:10,1,0,0,0,2024-11-23,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,17:10,2,0,0,0,2024-11-23,-43.39686608,-21.88139153,AMG-3055 norte
-543,Santa Cordola,17:10,3,0,0,0,2024-11-23,-43.39629722,-21.87513985,AMG-3055 norte
-543,Santa Cordola,17:10,4,0,0,0,2024-11-23,-43.40290677,-21.86979013,AMG-3055 norte
-543,Santa Cordola,17:10,5,0,0,0,2024-11-23,-43.40804267,-21.86567113,AMG-3055 norte
-543,Santa Cordola,17:10,6,0,0,0,2024-11-23,-43.41494524,-21.85330946,AMG-3055 norte - Entrada MG-353
-543,Santa Cordola,17:10,7,2,0,2,2024-11-23,-43.41265333,-21.85095448,MG-353 norte
-543,Santa Cordola,17:10,8,0,0,2,2024-11-23,-43.41152382,-21.8475071,MG-353 norte
-543,Santa Cordola,17:10,9,0,0,2,2024-11-23,-43.41015351,-21.84132135,MG-353 norte
-543,Santa Cordola,17:10,10,0,0,2,2024-11-23,-43.40212034,-21.8379827,MG-353 norte
-543,Santa Cordola,17:10,11,0,0,2,2024-11-23,-43.39338011,-21.84224966,MG-353 norte
-543,Santa Cordola,17:10,12,0,0,2,2024-11-23,-43.38599867,-21.84241398,MG-353 norte
-543,Santa Cordola,17:10,13,0,0,2,2024-11-23,-43.38027203,-21.84699059,MG-353 norte
-543,Santa Cordola,17:10,14,0,0,2,2024-11-23,-43.37364093,-21.83461155,BR-040 norte
-543,Santa Cordola,17:10,15,0,0,2,2024-11-23,-43.37397629,-21.82766967,BR-040 norte
-543,Santa Cordola,17:10,16,4,1,5,2024-11-23,-43.37596023,-21.81589731,"Avenida Deusdedith Salgado, 5405"
-543,Santa Cordola,17:10,17,5,0,10,2024-11-23,-43.37514317,-21.81230216,"Avenida Deusdedith Salgado, 5025"
-543,Santa Cordola,17:10,18,0,0,10,2024-11-23,-43.37564468,-21.8067894,"Avenida Deusdedith Salgado, 4551"
-543,Santa Cordola,17:10,19,0,0,10,2024-11-23,-43.37307882,-21.80512163,"Avenida Deusdedith Salgado, 4451"
-543,Santa Cordola,17:10,20,1,0,11,2024-11-23,-43.37152195,-21.80458631,"Avenida Deusdedith Salgado, 3701"
-543,Santa Cordola,17:10,21,0,1,10,2024-11-23,-43.36966229,-21.80149184,"Avenida Deusdedith Salgado, 2401"
-543,Santa Cordola,17:10,22,0,0,10,2024-11-23,-43.36734369,-21.79908456,"Avenida Deusdedith Salgado, 2395"
-543,Santa Cordola,17:10,23,0,0,10,2024-11-23,-43.3662653,-21.797472,"Avenida Deusdedith Salgado, 2251"
-543,Santa Cordola,17:10,24,1,0,11,2024-11-23,-43.36567592,-21.79576145,"Avenida Deusdedith Salgado, 2227"
-543,Santa Cordola,17:10,25,0,0,11,2024-11-23,-43.36605501,-21.79318175,"Avenida Deusdedith Salgado, 1945"
-543,Santa Cordola,17:10,26,0,1,10,2024-11-23,-43.3649501,-21.79044018,"Avenida Deusdedith Salgado, 1597"
-543,Santa Cordola,17:10,27,0,2,8,2024-11-23,-43.36378348,-21.78877914,"Avenida Deusdedith Salgado, 1351"
-543,Santa Cordola,17:10,28,3,0,11,2024-11-23,-43.36238527,-21.7874579,"Avenida Deusdedith Salgado, 1189"
-543,Santa Cordola,17:10,29,0,0,11,2024-11-23,-43.36330116,-21.78597182,"Avenida Doutor Paulo Japiassu Coelho, 142"
-543,Santa Cordola,17:10,30,0,0,11,2024-11-23,-43.36475218,-21.78470041,"Avenida Doutor Paulo Japiassu Coelho, 320"
-543,Santa Cordola,17:10,31,1,0,12,2024-11-23,-43.36497879,-21.78351021,"Avenida Doutor Paulo Japiassu Coelho, 528"
-543,Santa Cordola,17:10,32,0,1,11,2024-11-23,-43.36368561,-21.78239632,"Avenida Doutor Paulo Japiassu Coelho, 630"
-543,Santa Cordola,17:10,33,0,1,10,2024-11-23,-43.36211063,-21.78121672,"Avenida Presidente Itamar Franco, 3261"
-543,Santa Cordola,17:10,34,0,3,7,2024-11-23,-43.35867795,-21.77810902,"Avenida Presidente Itamar Franco, 3001"
-543,Santa Cordola,17:10,35,0,0,7,2024-11-23,-43.3558315,-21.77566225,"Avenida Presidente Itamar Franco, 2463"
-543,Santa Cordola,17:10,36,0,0,7,2024-11-23,-43.35470581,-21.77436066,"Avenida Presidente Itamar Franco, 2335"
-543,Santa Cordola,17:10,37,0,0,7,2024-11-23,-43.35205078,-21.77130127,"Avenida Presidente Itamar Franco, 1901"
-543,Santa Cordola,17:10,38,0,4,3,2024-11-23,-43.35009754,-21.76843834,"Avenida Presidente Itamar Franco, 1619"
-543,Santa Cordola,17:10,39,0,2,1,2024-11-23,-43.34879673,-21.76672451,"Avenida Presidente Itamar Franco, 1339"
-543,Santa Cordola,17:10,40,0,1,0,2024-11-23,-43.347229,-21.76519012,"Avenida Presidente Itamar Franco, 915"
-543,Santa Cordola,17:10,41,0,0,0,2024-11-23,-43.34470749,-21.76272774,"Avenida Presidente Itamar Franco, 605"
-543,Santa Cordola,17:10,42,0,0,0,2024-11-23,-43.34353638,-21.75967216,"Avenida Francisco Bernardino, 162"
-543,Santa Cordola,17:10,43,0,0,0,2024-11-23,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,19:10,1,0,0,0,2024-11-23,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,19:10,2,0,0,0,2024-11-23,-43.39686608,-21.88139153,AMG-3055 norte
-543,Santa Cordola,19:10,3,0,0,0,2024-11-23,-43.39629722,-21.87513985,AMG-3055 norte
-543,Santa Cordola,19:10,4,0,0,0,2024-11-23,-43.40290677,-21.86979013,AMG-3055 norte
-543,Santa Cordola,19:10,5,0,0,0,2024-11-23,-43.40804267,-21.86567113,AMG-3055 norte
-543,Santa Cordola,19:10,6,0,0,0,2024-11-23,-43.41494524,-21.85330946,AMG-3055 norte - Entrada MG-353
-543,Santa Cordola,19:10,7,0,0,0,2024-11-23,-43.41265333,-21.85095448,MG-353 norte
-543,Santa Cordola,19:10,8,0,0,0,2024-11-23,-43.41152382,-21.8475071,MG-353 norte
-543,Santa Cordola,19:10,9,0,0,0,2024-11-23,-43.41015351,-21.84132135,MG-353 norte
-543,Santa Cordola,19:10,10,0,0,0,2024-11-23,-43.40212034,-21.8379827,MG-353 norte
-543,Santa Cordola,19:10,11,0,0,0,2024-11-23,-43.39338011,-21.84224966,MG-353 norte
-543,Santa Cordola,19:10,12,0,0,0,2024-11-23,-43.38599867,-21.84241398,MG-353 norte
-543,Santa Cordola,19:10,13,0,0,0,2024-11-23,-43.38027203,-21.84699059,MG-353 norte
-543,Santa Cordola,19:10,14,0,0,0,2024-11-23,-43.37364093,-21.83461155,BR-040 norte
-543,Santa Cordola,19:10,15,0,0,0,2024-11-23,-43.37397629,-21.82766967,BR-040 norte
-543,Santa Cordola,19:10,16,1,0,1,2024-11-23,-43.37596023,-21.81589731,"Avenida Deusdedith Salgado, 5405"
-543,Santa Cordola,19:10,17,3,0,4,2024-11-23,-43.37514317,-21.81230216,"Avenida Deusdedith Salgado, 5025"
-543,Santa Cordola,19:10,18,1,0,5,2024-11-23,-43.37564468,-21.8067894,"Avenida Deusdedith Salgado, 4551"
-543,Santa Cordola,19:10,19,0,0,5,2024-11-23,-43.37307882,-21.80512163,"Avenida Deusdedith Salgado, 4451"
-543,Santa Cordola,19:10,20,0,0,5,2024-11-23,-43.37152195,-21.80458631,"Avenida Deusdedith Salgado, 3701"
-543,Santa Cordola,19:10,21,0,1,4,2024-11-23,-43.36966229,-21.80149184,"Avenida Deusdedith Salgado, 2401"
-543,Santa Cordola,19:10,22,0,0,4,2024-11-23,-43.36734369,-21.79908456,"Avenida Deusdedith Salgado, 2395"
-543,Santa Cordola,19:10,23,0,0,4,2024-11-23,-43.3662653,-21.797472,"Avenida Deusdedith Salgado, 2251"
-543,Santa Cordola,19:10,24,0,0,4,2024-11-23,-43.36567592,-21.79576145,"Avenida Deusdedith Salgado, 2227"
-543,Santa Cordola,19:10,25,0,0,4,2024-11-23,-43.36605501,-21.79318175,"Avenida Deusdedith Salgado, 1945"
-543,Santa Cordola,19:10,26,3,1,6,2024-11-23,-43.3649501,-21.79044018,"Avenida Deusdedith Salgado, 1597"
-543,Santa Cordola,19:10,27,0,2,4,2024-11-23,-43.36378348,-21.78877914,"Avenida Deusdedith Salgado, 1351"
-543,Santa Cordola,19:10,28,2,0,6,2024-11-23,-43.36238527,-21.7874579,"Avenida Deusdedith Salgado, 1189"
-543,Santa Cordola,19:10,29,0,0,6,2024-11-23,-43.36330116,-21.78597182,"Avenida Doutor Paulo Japiassu Coelho, 142"
-543,Santa Cordola,19:10,30,0,0,6,2024-11-23,-43.36475218,-21.78470041,"Avenida Doutor Paulo Japiassu Coelho, 320"
-543,Santa Cordola,19:10,31,1,0,7,2024-11-23,-43.36497879,-21.78351021,"Avenida Doutor Paulo Japiassu Coelho, 528"
-543,Santa Cordola,19:10,32,6,1,12,2024-11-23,-43.36368561,-21.78239632,"Avenida Doutor Paulo Japiassu Coelho, 630"
-543,Santa Cordola,19:10,33,0,1,11,2024-11-23,-43.36211063,-21.78121672,"Avenida Presidente Itamar Franco, 3261"
-543,Santa Cordola,19:10,34,2,3,10,2024-11-23,-43.35867795,-21.77810902,"Avenida Presidente Itamar Franco, 3001"
-543,Santa Cordola,19:10,35,0,0,10,2024-11-23,-43.3558315,-21.77566225,"Avenida Presidente Itamar Franco, 2463"
-543,Santa Cordola,19:10,36,0,0,10,2024-11-23,-43.35470581,-21.77436066,"Avenida Presidente Itamar Franco, 2335"
-543,Santa Cordola,19:10,37,0,0,10,2024-11-23,-43.35205078,-21.77130127,"Avenida Presidente Itamar Franco, 1901"
-543,Santa Cordola,19:10,38,0,4,6,2024-11-23,-43.35009754,-21.76843834,"Avenida Presidente Itamar Franco, 1619"
-543,Santa Cordola,19:10,39,0,2,4,2024-11-23,-43.34879673,-21.76672451,"Avenida Presidente Itamar Franco, 1339"
-543,Santa Cordola,19:10,40,0,2,2,2024-11-23,-43.347229,-21.76519012,"Avenida Presidente Itamar Franco, 915"
-543,Santa Cordola,19:10,41,0,2,0,2024-11-23,-43.34470749,-21.76272774,"Avenida Presidente Itamar Franco, 605"
-543,Santa Cordola,19:10,42,0,0,0,2024-11-23,-43.34353638,-21.75967216,"Avenida Francisco Bernardino, 162"
-543,Santa Cordola,19:10,43,0,0,0,2024-11-23,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,06:00,1,1,0,1,2024-11-16,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,06:00,2,3,0,4,2024-11-16,-43.34476793,-21.76163378,"Avenida Getúlio Vargas, 207"
-543,Santa Cordola,06:00,3,4,0,8,2024-11-16,-43.34768295,-21.76537704,"Avenida Presidente Itamar Franco, 986"
-543,Santa Cordola,06:00,4,2,0,10,2024-11-16,-43.35034538,-21.76838477,"Avenida Presidente Itamar Franco, 1622"
-543,Santa Cordola,06:00,5,1,3,8,2024-11-16,-43.35187101,-21.77073128,"Avenida Presidente Itamar Franco, 1840"
-543,Santa Cordola,06:00,6,0,0,8,2024-11-16,-43.35514824,-21.77467451,"Avenida Presidente Itamar Franco, 2360"
-543,Santa Cordola,06:00,7,0,1,7,2024-11-16,-43.35676165,-21.77592644,"Avenida Presidente Itamar Franco, 2520"
-543,Santa Cordola,06:00,8,0,2,5,2024-11-16,-43.3590889,-21.77818298,"Avenida Presidente Itamar Franco, 3050"
-543,Santa Cordola,06:00,9,1,3,3,2024-11-16,-43.3638649,-21.78231812,"Avenida Doutor Paulo Japiassu Coelho, 605"
-543,Santa Cordola,06:00,10,0,0,3,2024-11-16,-43.36533785,-21.78362889,"Avenida Doutor Paulo Japiassu Coelho, 401"
-543,Santa Cordola,06:00,11,0,0,3,2024-11-16,-43.36433411,-21.78536797,"Avenida Doutor Paulo Japiassu Coelho, 213"
-543,Santa Cordola,06:00,12,2,0,5,2024-11-16,-43.36269879,-21.78680992,"Avenida Doutor Paulo Japiassu Coelho, 109"
-543,Santa Cordola,06:00,13,1,1,5,2024-11-16,-43.36355007,-21.78815539,"Avenida Deusdedith Salgado, 1298"
-543,Santa Cordola,06:00,14,1,0,6,2024-11-16,-43.36520698,-21.79056606,"Avenida Deusdedith Salgado, 1600"
-543,Santa Cordola,06:00,15,0,0,6,2024-11-16,-43.36581349,-21.79168844,"Avenida Deusdedith Salgado, 1700"
-543,Santa Cordola,06:00,16,2,0,8,2024-11-16,-43.36662269,-21.79708597,"Avenida Deusdedith Salgado, 2200"
-543,Santa Cordola,06:00,17,2,2,8,2024-11-16,-43.37030696,-21.80254597,"Avenida Deusdedith Salgado, 2800"
-543,Santa Cordola,06:00,18,0,2,6,2024-11-16,-43.37226558,-21.80410544,"Avenida Deusdedith Salgado, 3800"
-543,Santa Cordola,06:00,19,0,1,5,2024-11-16,-43.37626195,-21.80717204,"Avenida Deusdedith Salgado, 4550"
-543,Santa Cordola,06:00,20,0,2,3,2024-11-16,-43.37553072,-21.81243939,"Avenida Deusdedith Salgado, 5050"
-543,Santa Cordola,06:00,21,0,3,0,2024-11-16,-43.37596583,-21.81434748,"Avenida Deusdedith Salgado, 4570"
-543,Santa Cordola,06:00,22,0,0,0,2024-11-16,-43.37654185,-21.81668091,"Avenida Deusdedith Salgado, 5450"
-543,Santa Cordola,06:00,23,0,0,0,2024-11-16,-43.37495864,-21.82508276,BR-040 sul
-543,Santa Cordola,06:00,24,1,0,1,2024-11-16,-43.374897,-21.83651543,BR-040 sul
-543,Santa Cordola,06:00,25,0,0,1,2024-11-16,-43.38006973,-21.84679031,MG-353 sul
-543,Santa Cordola,06:00,26,0,0,1,2024-11-16,-43.38606841,-21.84224468,MG-353 sul
-543,Santa Cordola,06:00,27,0,0,1,2024-11-16,-43.39340157,-21.84213514,MG-353 sul
-543,Santa Cordola,06:00,28,0,0,1,2024-11-16,-43.40201305,-21.83781339,MG-353 sul
-543,Santa Cordola,06:00,29,0,0,1,2024-11-16,-43.4103703,-21.84145694,MG-353 sul
-543,Santa Cordola,06:00,30,0,0,1,2024-11-16,-43.41173303,-21.84740752,MG-353 sul
-543,Santa Cordola,06:00,31,1,0,2,2024-11-16,-43.41294969,-21.85101665,MG-353 sul
-543,Santa Cordola,06:00,32,0,0,2,2024-11-16,-43.41500854,-21.85347366,AMG-3055 sul - Entrada MG-353
-543,Santa Cordola,06:00,33,0,0,2,2024-11-16,-43.40818525,-21.8658401,AMG-3055 sul
-543,Santa Cordola,06:00,34,0,0,2,2024-11-16,-43.40304625,-21.86991956,AMG-3055 sul
-543,Santa Cordola,06:00,35,0,0,2,2024-11-16,-43.39654863,-21.87529801,AMG-3055 sul
-543,Santa Cordola,06:00,36,0,0,2,2024-11-16,-43.3971746,-21.88147187,AMG-3055 sul
-543,Santa Cordola,06:00,37,0,0,2,2024-11-16,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,11:45,1,0,0,0,2024-11-16,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,11:45,2,3,0,3,2024-11-16,-43.34476793,-21.76163378,"Avenida Getúlio Vargas, 207"
-543,Santa Cordola,11:45,3,3,0,6,2024-11-16,-43.34768295,-21.76537704,"Avenida Presidente Itamar Franco, 986"
-543,Santa Cordola,11:45,4,2,0,8,2024-11-16,-43.35034538,-21.76838477,"Avenida Presidente Itamar Franco, 1622"
-543,Santa Cordola,11:45,5,0,3,5,2024-11-16,-43.35187101,-21.77073128,"Avenida Presidente Itamar Franco, 1840"
-543,Santa Cordola,11:45,6,0,0,5,2024-11-16,-43.35514824,-21.77467451,"Avenida Presidente Itamar Franco, 2360"
-543,Santa Cordola,11:45,7,0,1,4,2024-11-16,-43.35676165,-21.77592644,"Avenida Presidente Itamar Franco, 2520"
-543,Santa Cordola,11:45,8,0,2,2,2024-11-16,-43.3590889,-21.77818298,"Avenida Presidente Itamar Franco, 3050"
-543,Santa Cordola,11:45,9,2,2,2,2024-11-16,-43.3638649,-21.78231812,"Avenida Doutor Paulo Japiassu Coelho, 605"
-543,Santa Cordola,11:45,10,0,0,2,2024-11-16,-43.36533785,-21.78362889,"Avenida Doutor Paulo Japiassu Coelho, 401"
-543,Santa Cordola,11:45,11,0,0,2,2024-11-16,-43.36433411,-21.78536797,"Avenida Doutor Paulo Japiassu Coelho, 213"
-543,Santa Cordola,11:45,12,0,0,2,2024-11-16,-43.36269879,-21.78680992,"Avenida Doutor Paulo Japiassu Coelho, 109"
-543,Santa Cordola,11:45,13,5,1,6,2024-11-16,-43.36355007,-21.78815539,"Avenida Deusdedith Salgado, 1298"
-543,Santa Cordola,11:45,14,0,0,6,2024-11-16,-43.36520698,-21.79056606,"Avenida Deusdedith Salgado, 1600"
-543,Santa Cordola,11:45,15,0,0,6,2024-11-16,-43.36581349,-21.79168844,"Avenida Deusdedith Salgado, 1700"
-543,Santa Cordola,11:45,16,6,0,12,2024-11-16,-43.36662269,-21.79708597,"Avenida Deusdedith Salgado, 2200"
-543,Santa Cordola,11:45,17,2,2,12,2024-11-16,-43.37030696,-21.80254597,"Avenida Deusdedith Salgado, 2800"
-543,Santa Cordola,11:45,18,0,2,10,2024-11-16,-43.37226558,-21.80410544,"Avenida Deusdedith Salgado, 3800"
-543,Santa Cordola,11:45,19,0,1,9,2024-11-16,-43.37626195,-21.80717204,"Avenida Deusdedith Salgado, 4550"
-543,Santa Cordola,11:45,20,0,2,7,2024-11-16,-43.37553072,-21.81243939,"Avenida Deusdedith Salgado, 5050"
-543,Santa Cordola,11:45,21,0,3,4,2024-11-16,-43.37596583,-21.81434748,"Avenida Deusdedith Salgado, 4570"
-543,Santa Cordola,11:45,22,0,3,1,2024-11-16,-43.37654185,-21.81668091,"Avenida Deusdedith Salgado, 5450"
-543,Santa Cordola,11:45,23,0,0,1,2024-11-16,-43.37495864,-21.82508276,BR-040 sul
-543,Santa Cordola,11:45,24,0,0,1,2024-11-16,-43.374897,-21.83651543,BR-040 sul
-543,Santa Cordola,11:45,25,0,0,1,2024-11-16,-43.38006973,-21.84679031,MG-353 sul
-543,Santa Cordola,11:45,26,0,0,1,2024-11-16,-43.38606841,-21.84224468,MG-353 sul
-543,Santa Cordola,11:45,27,0,0,1,2024-11-16,-43.39340157,-21.84213514,MG-353 sul
-543,Santa Cordola,11:45,28,0,0,1,2024-11-16,-43.40201305,-21.83781339,MG-353 sul
-543,Santa Cordola,11:45,29,0,0,1,2024-11-16,-43.4103703,-21.84145694,MG-353 sul
-543,Santa Cordola,11:45,30,0,0,1,2024-11-16,-43.41173303,-21.84740752,MG-353 sul
-543,Santa Cordola,11:45,31,0,0,1,2024-11-16,-43.41294969,-21.85101665,MG-353 sul
-543,Santa Cordola,11:45,32,0,0,1,2024-11-16,-43.41500854,-21.85347366,AMG-3055 sul - Entrada MG-353
-543,Santa Cordola,11:45,33,0,0,1,2024-11-16,-43.40818525,-21.8658401,AMG-3055 sul
-543,Santa Cordola,11:45,34,0,0,1,2024-11-16,-43.40304625,-21.86991956,AMG-3055 sul
-543,Santa Cordola,11:45,35,0,0,1,2024-11-16,-43.39654863,-21.87529801,AMG-3055 sul
-543,Santa Cordola,11:45,36,0,0,1,2024-11-16,-43.3971746,-21.88147187,AMG-3055 sul
-543,Santa Cordola,11:45,37,0,0,1,2024-11-16,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,19:10,1,0,0,0,2024-11-16,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,19:10,2,0,0,0,2024-11-16,-43.39686608,-21.88139153,AMG-3055 norte
-543,Santa Cordola,19:10,3,0,0,0,2024-11-16,-43.39629722,-21.87513985,AMG-3055 norte
-543,Santa Cordola,19:10,4,0,0,0,2024-11-16,-43.40290677,-21.86979013,AMG-3055 norte
-543,Santa Cordola,19:10,5,0,0,0,2024-11-16,-43.40804267,-21.86567113,AMG-3055 norte
-543,Santa Cordola,19:10,6,0,0,0,2024-11-16,-43.41494524,-21.85330946,AMG-3055 norte - Entrada MG-353
-543,Santa Cordola,19:10,7,0,0,0,2024-11-16,-43.41265333,-21.85095448,MG-353 norte
-543,Santa Cordola,19:10,8,0,0,0,2024-11-16,-43.41152382,-21.8475071,MG-353 norte
-543,Santa Cordola,19:10,9,0,0,0,2024-11-16,-43.41015351,-21.84132135,MG-353 norte
-543,Santa Cordola,19:10,10,0,0,0,2024-11-16,-43.40212034,-21.8379827,MG-353 norte
-543,Santa Cordola,19:10,11,0,0,0,2024-11-16,-43.39338011,-21.84224966,MG-353 norte
-543,Santa Cordola,19:10,12,0,0,0,2024-11-16,-43.38599867,-21.84241398,MG-353 norte
-543,Santa Cordola,19:10,13,0,0,0,2024-11-16,-43.38027203,-21.84699059,MG-353 norte
-543,Santa Cordola,19:10,14,0,0,0,2024-11-16,-43.37364093,-21.83461155,BR-040 norte
-543,Santa Cordola,19:10,15,0,0,0,2024-11-16,-43.37397629,-21.82766967,BR-040 norte
-543,Santa Cordola,19:10,16,3,0,3,2024-11-16,-43.37596023,-21.81589731,"Avenida Deusdedith Salgado, 5405"
-543,Santa Cordola,19:10,17,2,0,5,2024-11-16,-43.37514317,-21.81230216,"Avenida Deusdedith Salgado, 5025"
-543,Santa Cordola,19:10,18,1,0,6,2024-11-16,-43.37564468,-21.8067894,"Avenida Deusdedith Salgado, 4551"
-543,Santa Cordola,19:10,19,0,0,6,2024-11-16,-43.37307882,-21.80512163,"Avenida Deusdedith Salgado, 4451"
-543,Santa Cordola,19:10,20,2,0,8,2024-11-16,-43.37152195,-21.80458631,"Avenida Deusdedith Salgado, 3701"
-543,Santa Cordola,19:10,21,2,2,8,2024-11-16,-43.36966229,-21.80149184,"Avenida Deusdedith Salgado, 2401"
-543,Santa Cordola,19:10,22,0,2,6,2024-11-16,-43.36734369,-21.79908456,"Avenida Deusdedith Salgado, 2395"
-543,Santa Cordola,19:10,23,0,2,4,2024-11-16,-43.3662653,-21.797472,"Avenida Deusdedith Salgado, 2251"
-543,Santa Cordola,19:10,24,0,2,2,2024-11-16,-43.36567592,-21.79576145,"Avenida Deusdedith Salgado, 2227"
-543,Santa Cordola,19:10,25,0,0,2,2024-11-16,-43.36605501,-21.79318175,"Avenida Deusdedith Salgado, 1945"
-543,Santa Cordola,19:10,26,0,1,1,2024-11-16,-43.3649501,-21.79044018,"Avenida Deusdedith Salgado, 1597"
-543,Santa Cordola,19:10,27,1,1,1,2024-11-16,-43.36378348,-21.78877914,"Avenida Deusdedith Salgado, 1351"
-543,Santa Cordola,19:10,28,0,1,0,2024-11-16,-43.36238527,-21.7874579,"Avenida Deusdedith Salgado, 1189"
-543,Santa Cordola,19:10,29,0,0,0,2024-11-16,-43.36330116,-21.78597182,"Avenida Doutor Paulo Japiassu Coelho, 142"
-543,Santa Cordola,19:10,30,0,0,0,2024-11-16,-43.36475218,-21.78470041,"Avenida Doutor Paulo Japiassu Coelho, 320"
-543,Santa Cordola,19:10,31,0,0,0,2024-11-16,-43.36497879,-21.78351021,"Avenida Doutor Paulo Japiassu Coelho, 528"
-543,Santa Cordola,19:10,32,3,0,3,2024-11-16,-43.36368561,-21.78239632,"Avenida Doutor Paulo Japiassu Coelho, 630"
-543,Santa Cordola,19:10,33,0,1,2,2024-11-16,-43.36211063,-21.78121672,"Avenida Presidente Itamar Franco, 3261"
-543,Santa Cordola,19:10,34,2,0,4,2024-11-16,-43.35867795,-21.77810902,"Avenida Presidente Itamar Franco, 3001"
-543,Santa Cordola,19:10,35,1,0,5,2024-11-16,-43.3558315,-21.77566225,"Avenida Presidente Itamar Franco, 2463"
-543,Santa Cordola,19:10,36,0,0,5,2024-11-16,-43.35470581,-21.77436066,"Avenida Presidente Itamar Franco, 2335"
-543,Santa Cordola,19:10,37,3,1,7,2024-11-16,-43.35205078,-21.77130127,"Avenida Presidente Itamar Franco, 1901"
-543,Santa Cordola,19:10,38,0,2,5,2024-11-16,-43.35009754,-21.76843834,"Avenida Presidente Itamar Franco, 1619"
-543,Santa Cordola,19:10,39,0,4,1,2024-11-16,-43.34879673,-21.76672451,"Avenida Presidente Itamar Franco, 1339"
-543,Santa Cordola,19:10,40,0,1,0,2024-11-16,-43.347229,-21.76519012,"Avenida Presidente Itamar Franco, 915"
-543,Santa Cordola,19:10,41,0,0,0,2024-11-16,-43.34470749,-21.76272774,"Avenida Presidente Itamar Franco, 605"
-543,Santa Cordola,19:10,42,0,0,0,2024-11-16,-43.34353638,-21.75967216,"Avenida Francisco Bernardino, 162"
-543,Santa Cordola,19:10,43,0,0,0,2024-11-16,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,06:00,1,0,0,0,2024-11-30,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,06:00,2,1,0,1,2024-11-30,-43.34476793,-21.76163378,"Avenida Getúlio Vargas, 207"
-543,Santa Cordola,06:00,3,4,0,5,2024-11-30,-43.34768295,-21.76537704,"Avenida Presidente Itamar Franco, 986"
-543,Santa Cordola,06:00,4,1,0,6,2024-11-30,-43.35034538,-21.76838477,"Avenida Presidente Itamar Franco, 1622"
-543,Santa Cordola,06:00,5,0,0,6,2024-11-30,-43.35187101,-21.77073128,"Avenida Presidente Itamar Franco, 1840"
-543,Santa Cordola,06:00,6,0,1,5,2024-11-30,-43.35514824,-21.77467451,"Avenida Presidente Itamar Franco, 2360"
-543,Santa Cordola,06:00,7,1,0,6,2024-11-30,-43.35676165,-21.77592644,"Avenida Presidente Itamar Franco, 2520"
-543,Santa Cordola,06:00,8,0,2,4,2024-11-30,-43.3590889,-21.77818298,"Avenida Presidente Itamar Franco, 3050"
-543,Santa Cordola,06:00,9,0,0,4,2024-11-30,-43.3638649,-21.78231812,"Avenida Doutor Paulo Japiassu Coelho, 605"
-543,Santa Cordola,06:00,10,0,0,4,2024-11-30,-43.36533785,-21.78362889,"Avenida Doutor Paulo Japiassu Coelho, 401"
-543,Santa Cordola,06:00,11,0,0,4,2024-11-30,-43.36433411,-21.78536797,"Avenida Doutor Paulo Japiassu Coelho, 213"
-543,Santa Cordola,06:00,12,3,0,7,2024-11-30,-43.36269879,-21.78680992,"Avenida Doutor Paulo Japiassu Coelho, 109"
-543,Santa Cordola,06:00,13,0,0,7,2024-11-30,-43.36355007,-21.78815539,"Avenida Deusdedith Salgado, 1298"
-543,Santa Cordola,06:00,14,1,0,8,2024-11-30,-43.36520698,-21.79056606,"Avenida Deusdedith Salgado, 1600"
-543,Santa Cordola,06:00,15,0,0,8,2024-11-30,-43.36581349,-21.79168844,"Avenida Deusdedith Salgado, 1700"
-543,Santa Cordola,06:00,16,1,0,9,2024-11-30,-43.36662269,-21.79708597,"Avenida Deusdedith Salgado, 2200"
-543,Santa Cordola,06:00,17,0,0,9,2024-11-30,-43.37030696,-21.80254597,"Avenida Deusdedith Salgado, 2800"
-543,Santa Cordola,06:00,18,0,5,4,2024-11-30,-43.37226558,-21.80410544,"Avenida Deusdedith Salgado, 3800"
-543,Santa Cordola,06:00,19,0,0,4,2024-11-30,-43.37626195,-21.80717204,"Avenida Deusdedith Salgado, 4550"
-543,Santa Cordola,06:00,20,0,4,0,2024-11-30,-43.37553072,-21.81243939,"Avenida Deusdedith Salgado, 5050"
-543,Santa Cordola,06:00,21,1,0,1,2024-11-30,-43.37596583,-21.81434748,"Avenida Deusdedith Salgado, 4570"
-543,Santa Cordola,06:00,22,0,0,1,2024-11-30,-43.37654185,-21.81668091,"Avenida Deusdedith Salgado, 5450"
-543,Santa Cordola,06:00,23,0,0,1,2024-11-30,-43.37495864,-21.82508276,BR-040 sul
-543,Santa Cordola,06:00,24,0,0,1,2024-11-30,-43.374897,-21.83651543,BR-040 sul
-543,Santa Cordola,06:00,25,0,0,1,2024-11-30,-43.38006973,-21.84679031,MG-353 sul
-543,Santa Cordola,06:00,26,0,0,1,2024-11-30,-43.38606841,-21.84224468,MG-353 sul
-543,Santa Cordola,06:00,27,0,0,1,2024-11-30,-43.39340157,-21.84213514,MG-353 sul
-543,Santa Cordola,06:00,28,0,0,1,2024-11-30,-43.40201305,-21.83781339,MG-353 sul
-543,Santa Cordola,06:00,29,0,0,1,2024-11-30,-43.4103703,-21.84145694,MG-353 sul
-543,Santa Cordola,06:00,30,0,0,1,2024-11-30,-43.41173303,-21.84740752,MG-353 sul
-543,Santa Cordola,06:00,31,0,1,0,2024-11-30,-43.41294969,-21.85101665,MG-353 sul
-543,Santa Cordola,06:00,32,0,0,0,2024-11-30,-43.41500854,-21.85347366,AMG-3055 sul - Entrada MG-353
-543,Santa Cordola,06:00,33,0,0,0,2024-11-30,-43.40818525,-21.8658401,AMG-3055 sul
-543,Santa Cordola,06:00,34,0,0,0,2024-11-30,-43.40304625,-21.86991956,AMG-3055 sul
-543,Santa Cordola,06:00,35,0,0,0,2024-11-30,-43.39654863,-21.87529801,AMG-3055 sul
-543,Santa Cordola,06:00,36,0,0,0,2024-11-30,-43.3971746,-21.88147187,AMG-3055 sul
-543,Santa Cordola,06:00,37,0,0,0,2024-11-30,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,11:45,1,0,0,0,2024-11-30,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
-543,Santa Cordola,11:45,2,7,0,7,2024-11-30,-43.34476793,-21.76163378,"Avenida Getúlio Vargas, 207"
-543,Santa Cordola,11:45,3,6,0,13,2024-11-30,-43.34768295,-21.76537704,"Avenida Presidente Itamar Franco, 986"
-543,Santa Cordola,11:45,4,0,0,13,2024-11-30,-43.35034538,-21.76838477,"Avenida Presidente Itamar Franco, 1622"
-543,Santa Cordola,11:45,5,1,0,14,2024-11-30,-43.35187101,-21.77073128,"Avenida Presidente Itamar Franco, 1840"
-543,Santa Cordola,11:45,6,0,1,13,2024-11-30,-43.35514824,-21.77467451,"Avenida Presidente Itamar Franco, 2360"
-543,Santa Cordola,11:45,7,0,0,13,2024-11-30,-43.35676165,-21.77592644,"Avenida Presidente Itamar Franco, 2520"
-543,Santa Cordola,11:45,8,0,2,11,2024-11-30,-43.3590889,-21.77818298,"Avenida Presidente Itamar Franco, 3050"
-543,Santa Cordola,11:45,9,0,0,11,2024-11-30,-43.3638649,-21.78231812,"Avenida Doutor Paulo Japiassu Coelho, 605"
-543,Santa Cordola,11:45,10,0,0,11,2024-11-30,-43.36533785,-21.78362889,"Avenida Doutor Paulo Japiassu Coelho, 401"
-543,Santa Cordola,11:45,11,0,0,11,2024-11-30,-43.36433411,-21.78536797,"Avenida Doutor Paulo Japiassu Coelho, 213"
-543,Santa Cordola,11:45,12,0,0,11,2024-11-30,-43.36269879,-21.78680992,"Avenida Doutor Paulo Japiassu Coelho, 109"
-543,Santa Cordola,11:45,13,0,0,11,2024-11-30,-43.36355007,-21.78815539,"Avenida Deusdedith Salgado, 1298"
-543,Santa Cordola,11:45,14,0,0,11,2024-11-30,-43.36520698,-21.79056606,"Avenida Deusdedith Salgado, 1600"
-543,Santa Cordola,11:45,15,0,0,11,2024-11-30,-43.36581349,-21.79168844,"Avenida Deusdedith Salgado, 1700"
-543,Santa Cordola,11:45,16,1,0,12,2024-11-30,-43.36662269,-21.79708597,"Avenida Deusdedith Salgado, 2200"
-543,Santa Cordola,11:45,17,0,0,12,2024-11-30,-43.37030696,-21.80254597,"Avenida Deusdedith Salgado, 2800"
-543,Santa Cordola,11:45,18,0,5,7,2024-11-30,-43.37226558,-21.80410544,"Avenida Deusdedith Salgado, 3800"
-543,Santa Cordola,11:45,19,0,0,7,2024-11-30,-43.37626195,-21.80717204,"Avenida Deusdedith Salgado, 4550"
-543,Santa Cordola,11:45,20,0,6,1,2024-11-30,-43.37553072,-21.81243939,"Avenida Deusdedith Salgado, 5050"
-543,Santa Cordola,11:45,21,0,0,1,2024-11-30,-43.37596583,-21.81434748,"Avenida Deusdedith Salgado, 4570"
-543,Santa Cordola,11:45,22,1,0,2,2024-11-30,-43.37654185,-21.81668091,"Avenida Deusdedith Salgado, 5450"
-543,Santa Cordola,11:45,23,0,0,2,2024-11-30,-43.37495864,-21.82508276,BR-040 sul
-543,Santa Cordola,11:45,24,0,0,2,2024-11-30,-43.374897,-21.83651543,BR-040 sul
-543,Santa Cordola,11:45,25,0,0,2,2024-11-30,-43.38006973,-21.84679031,MG-353 sul
-543,Santa Cordola,11:45,26,0,0,2,2024-11-30,-43.38606841,-21.84224468,MG-353 sul
-543,Santa Cordola,11:45,27,0,0,2,2024-11-30,-43.39340157,-21.84213514,MG-353 sul
-543,Santa Cordola,11:45,28,0,0,2,2024-11-30,-43.40201305,-21.83781339,MG-353 sul
-543,Santa Cordola,11:45,29,0,0,2,2024-11-30,-43.4103703,-21.84145694,MG-353 sul
-543,Santa Cordola,11:45,30,0,0,2,2024-11-30,-43.41173303,-21.84740752,MG-353 sul
-543,Santa Cordola,11:45,31,1,1,2,2024-11-30,-43.41294969,-21.85101665,MG-353 sul
-543,Santa Cordola,11:45,32,0,0,2,2024-11-30,-43.41500854,-21.85347366,AMG-3055 sul - Entrada MG-353
-543,Santa Cordola,11:45,33,0,0,2,2024-11-30,-43.40818525,-21.8658401,AMG-3055 sul
-543,Santa Cordola,11:45,34,0,0,2,2024-11-30,-43.40304625,-21.86991956,AMG-3055 sul
-543,Santa Cordola,11:45,35,0,0,2,2024-11-30,-43.39654863,-21.87529801,AMG-3055 sul
-543,Santa Cordola,11:45,36,0,0,2,2024-11-30,-43.3971746,-21.88147187,AMG-3055 sul
-543,Santa Cordola,11:45,37,0,0,2,2024-11-30,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,19:10,1,0,0,0,2024-11-30,-43.39450073,-21.88364601,AMG-3055 norte - Ponto Final do Santa Córdula
-543,Santa Cordola,19:10,2,0,0,0,2024-11-30,-43.39686608,-21.88139153,AMG-3055 norte
-543,Santa Cordola,19:10,3,0,0,0,2024-11-30,-43.39629722,-21.87513985,AMG-3055 norte
-543,Santa Cordola,19:10,4,0,0,0,2024-11-30,-43.40290677,-21.86979013,AMG-3055 norte
-543,Santa Cordola,19:10,5,0,0,0,2024-11-30,-43.40804267,-21.86567113,AMG-3055 norte
-543,Santa Cordola,19:10,6,0,0,0,2024-11-30,-43.41494524,-21.85330946,AMG-3055 norte - Entrada MG-353
-543,Santa Cordola,19:10,7,1,0,1,2024-11-30,-43.41265333,-21.85095448,MG-353 norte
-543,Santa Cordola,19:10,8,0,0,1,2024-11-30,-43.41152382,-21.8475071,MG-353 norte
-543,Santa Cordola,19:10,9,0,0,1,2024-11-30,-43.41015351,-21.84132135,MG-353 norte
-543,Santa Cordola,19:10,10,0,0,1,2024-11-30,-43.40212034,-21.8379827,MG-353 norte
-543,Santa Cordola,19:10,11,0,0,1,2024-11-30,-43.39338011,-21.84224966,MG-353 norte
-543,Santa Cordola,19:10,12,0,0,1,2024-11-30,-43.38599867,-21.84241398,MG-353 norte
-543,Santa Cordola,19:10,13,0,0,1,2024-11-30,-43.38027203,-21.84699059,MG-353 norte
-543,Santa Cordola,19:10,14,0,0,1,2024-11-30,-43.37364093,-21.83461155,BR-040 norte
-543,Santa Cordola,19:10,15,0,0,1,2024-11-30,-43.37397629,-21.82766967,BR-040 norte
-543,Santa Cordola,19:10,16,0,1,0,2024-11-30,-43.37596023,-21.81589731,"Avenida Deusdedith Salgado, 5405"
-543,Santa Cordola,19:10,17,6,0,6,2024-11-30,-43.37514317,-21.81230216,"Avenida Deusdedith Salgado, 5025"
-543,Santa Cordola,19:10,18,0,0,6,2024-11-30,-43.37564468,-21.8067894,"Avenida Deusdedith Salgado, 4551"
-543,Santa Cordola,19:10,19,0,0,6,2024-11-30,-43.37307882,-21.80512163,"Avenida Deusdedith Salgado, 4451"
-543,Santa Cordola,19:10,20,5,0,11,2024-11-30,-43.37152195,-21.80458631,"Avenida Deusdedith Salgado, 3701"
-543,Santa Cordola,19:10,21,0,0,11,2024-11-30,-43.36966229,-21.80149184,"Avenida Deusdedith Salgado, 2401"
-543,Santa Cordola,19:10,22,0,1,10,2024-11-30,-43.36734369,-21.79908456,"Avenida Deusdedith Salgado, 2395"
-543,Santa Cordola,19:10,23,0,1,9,2024-11-30,-43.3662653,-21.797472,"Avenida Deusdedith Salgado, 2251"
-543,Santa Cordola,19:10,24,0,1,8,2024-11-30,-43.36567592,-21.79576145,"Avenida Deusdedith Salgado, 2227"
-543,Santa Cordola,19:10,25,0,0,8,2024-11-30,-43.36605501,-21.79318175,"Avenida Deusdedith Salgado, 1945"
-543,Santa Cordola,19:10,26,0,0,8,2024-11-30,-43.3649501,-21.79044018,"Avenida Deusdedith Salgado, 1597"
-543,Santa Cordola,19:10,27,0,0,8,2024-11-30,-43.36378348,-21.78877914,"Avenida Deusdedith Salgado, 1351"
-543,Santa Cordola,19:10,28,0,0,8,2024-11-30,-43.36238527,-21.7874579,"Avenida Deusdedith Salgado, 1189"
-543,Santa Cordola,19:10,29,0,0,8,2024-11-30,-43.36330116,-21.78597182,"Avenida Doutor Paulo Japiassu Coelho, 142"
-543,Santa Cordola,19:10,30,0,0,8,2024-11-30,-43.36475218,-21.78470041,"Avenida Doutor Paulo Japiassu Coelho, 320"
-543,Santa Cordola,19:10,31,0,0,8,2024-11-30,-43.36497879,-21.78351021,"Avenida Doutor Paulo Japiassu Coelho, 528"
-543,Santa Cordola,19:10,32,0,0,8,2024-11-30,-43.36368561,-21.78239632,"Avenida Doutor Paulo Japiassu Coelho, 630"
-543,Santa Cordola,19:10,33,0,0,8,2024-11-30,-43.36211063,-21.78121672,"Avenida Presidente Itamar Franco, 3261"
-543,Santa Cordola,19:10,34,2,0,10,2024-11-30,-43.35867795,-21.77810902,"Avenida Presidente Itamar Franco, 3001"
-543,Santa Cordola,19:10,35,0,0,10,2024-11-30,-43.3558315,-21.77566225,"Avenida Presidente Itamar Franco, 2463"
-543,Santa Cordola,19:10,36,1,0,11,2024-11-30,-43.35470581,-21.77436066,"Avenida Presidente Itamar Franco, 2335"
-543,Santa Cordola,19:10,37,0,1,10,2024-11-30,-43.35205078,-21.77130127,"Avenida Presidente Itamar Franco, 1901"
-543,Santa Cordola,19:10,38,0,0,10,2024-11-30,-43.35009754,-21.76843834,"Avenida Presidente Itamar Franco, 1619"
-543,Santa Cordola,19:10,39,0,6,4,2024-11-30,-43.34879673,-21.76672451,"Avenida Presidente Itamar Franco, 1339"
-543,Santa Cordola,19:10,40,0,4,0,2024-11-30,-43.347229,-21.76519012,"Avenida Presidente Itamar Franco, 915"
-543,Santa Cordola,19:10,41,0,0,0,2024-11-30,-43.34470749,-21.76272774,"Avenida Presidente Itamar Franco, 605"
-543,Santa Cordola,19:10,42,0,0,0,2024-11-30,-43.34353638,-21.75967216,"Avenida Francisco Bernardino, 162"
-543,Santa Cordola,19:10,43,0,0,0,2024-11-30,-43.35002899,-21.75758362,"Avenida Getúlio Vargas, 901"
+routeshortname,routelongname,stopid,departuretime,stopsequence,boarding,landing,occupation,day,stop_lon,stop_lat,horario,stopname
+543,Santa Cordola,10071270,06:00,1,6,0,6,2024-11-09,-43.35002899,-21.75758362,06:00,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10070998,06:00,2,7,0,13,2024-11-09,-43.34476793,-21.76163378,06:02:02,"Avenida Getúlio Vargas, 207"
+543,Santa Cordola,10072763,06:00,3,0,0,13,2024-11-09,-43.34768295,-21.76537704,06:04:42,"Avenida Presidente Itamar Franco, 986"
+543,Santa Cordola,10072757,06:00,4,0,0,13,2024-11-09,-43.35034538,-21.76838477,06:06:02,"Avenida Presidente Itamar Franco, 1622"
+543,Santa Cordola,10073013,06:00,5,1,0,14,2024-11-09,-43.35187101,-21.77073128,06:06:42,"Avenida Presidente Itamar Franco, 1840"
+543,Santa Cordola,10072909,06:00,6,0,0,14,2024-11-09,-43.35514824,-21.77467451,06:08:22,"Avenida Presidente Itamar Franco, 2360"
+543,Santa Cordola,10072961,06:00,7,0,2,12,2024-11-09,-43.35676165,-21.77592644,06:08:42,"Avenida Presidente Itamar Franco, 2520"
+543,Santa Cordola,10072987,06:00,8,0,7,5,2024-11-09,-43.3590889,-21.77818298,06:10:02,"Avenida Presidente Itamar Franco, 3050"
+543,Santa Cordola,10072904,06:00,9,0,3,2,2024-11-09,-43.3638649,-21.78231812,06:11:12,"Avenida Doutor Paulo Japiassu Coelho, 605"
+543,Santa Cordola,10072984,06:00,10,0,0,2,2024-11-09,-43.36533785,-21.78362889,06:12:22,"Avenida Doutor Paulo Japiassu Coelho, 401"
+543,Santa Cordola,10072982,06:00,11,0,0,2,2024-11-09,-43.36433411,-21.78536797,06:13:22,"Avenida Doutor Paulo Japiassu Coelho, 213"
+543,Santa Cordola,10072992,06:00,12,0,2,0,2024-11-09,-43.36269879,-21.78680992,06:14:02,"Avenida Doutor Paulo Japiassu Coelho, 109"
+543,Santa Cordola,10072990,06:00,13,4,0,4,2024-11-09,-43.36355007,-21.78815539,06:14:42,"Avenida Deusdedith Salgado, 1298"
+543,Santa Cordola,10211497,06:00,14,0,0,4,2024-11-09,-43.36520698,-21.79056606,06:16:02,"Avenida Deusdedith Salgado, 1600"
+543,Santa Cordola,10072988,06:00,15,0,0,4,2024-11-09,-43.36581349,-21.79168844,06:16:22,"Avenida Deusdedith Salgado, 1700"
+543,Santa Cordola,10072831,06:00,16,0,0,4,2024-11-09,-43.36662269,-21.79708597,06:17:22,"Avenida Deusdedith Salgado, 2200"
+543,Santa Cordola,10072829,06:00,17,2,0,6,2024-11-09,-43.37030696,-21.80254597,06:18:42,"Avenida Deusdedith Salgado, 2800"
+543,Santa Cordola,10072852,06:00,18,0,4,2,2024-11-09,-43.37226558,-21.80410544,06:19:22,"Avenida Deusdedith Salgado, 3800"
+543,Santa Cordola,10072857,06:00,19,0,1,1,2024-11-09,-43.37626195,-21.80717204,06:21:02,"Avenida Deusdedith Salgado, 4550"
+543,Santa Cordola,10072856,06:00,20,2,1,2,2024-11-09,-43.37553072,-21.81243939,06:22:02,"Avenida Deusdedith Salgado, 5050"
+543,Santa Cordola,10072854,06:00,21,0,1,1,2024-11-09,-43.37596583,-21.81434748,06:23:02,"Avenida Deusdedith Salgado, 4570"
+543,Santa Cordola,10072853,06:00,22,1,1,1,2024-11-09,-43.37654185,-21.81668091,06:23:42,"Avenida Deusdedith Salgado, 5450"
+543,Santa Cordola,10072259,06:00,23,0,0,1,2024-11-09,-43.37495864,-21.82508276,06:25:32,BR-040 sul
+543,Santa Cordola,10074703,06:00,24,0,0,1,2024-11-09,-43.374897,-21.83651543,06:27:22,BR-040 sul
+543,Santa Cordola,10074700,06:00,25,0,0,1,2024-11-09,-43.38006973,-21.84679031,06:29:18,MG-353 sul
+543,Santa Cordola,10366754,06:00,26,0,0,1,2024-11-09,-43.38606841,-21.84224468,06:30:43,MG-353 sul
+543,Santa Cordola,10366752,06:00,27,0,0,1,2024-11-09,-43.39340157,-21.84213514,06:31:23,MG-353 sul
+543,Santa Cordola,10366750,06:00,28,0,0,1,2024-11-09,-43.40201305,-21.83781339,06:32:43,MG-353 sul
+543,Santa Cordola,10074720,06:00,29,0,0,1,2024-11-09,-43.4103703,-21.84145694,06:34:23,MG-353 sul
+543,Santa Cordola,10366748,06:00,30,0,0,1,2024-11-09,-43.41173303,-21.84740752,06:35:03,MG-353 sul
+543,Santa Cordola,10074718,06:00,31,0,0,1,2024-11-09,-43.41294969,-21.85101665,06:35:43,MG-353 sul
+543,Santa Cordola,10069711,06:00,32,0,0,1,2024-11-09,-43.41500854,-21.85347366,06:36:22,AMG-3055 sul - Entrada MG-353
+543,Santa Cordola,10069701,06:00,33,0,0,1,2024-11-09,-43.40818525,-21.8658401,06:39:03,AMG-3055 sul
+543,Santa Cordola,10395514,06:00,34,0,0,1,2024-11-09,-43.40304625,-21.86991956,06:40:43,AMG-3055 sul
+543,Santa Cordola,10069713,06:00,35,0,0,1,2024-11-09,-43.39654863,-21.87529801,06:41:43,AMG-3055 sul
+543,Santa Cordola,10069710,06:00,36,0,0,1,2024-11-09,-43.3971746,-21.88147187,06:42:43,AMG-3055 sul
+543,Santa Cordola,10073015,06:00,37,0,0,1,2024-11-09,-43.39450073,-21.88364601,06:42:43,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10073015,06:50,1,0,0,0,2024-11-09,-43.39450073,-21.88364601,06:52:22,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10069709,06:50,2,0,0,0,2024-11-09,-43.39686608,-21.88139153,06:52:42,AMG-3055 norte
+543,Santa Cordola,10069703,06:50,3,0,0,0,2024-11-09,-43.39629722,-21.87513985,06:53:42,AMG-3055 norte
+543,Santa Cordola,10395513,06:50,4,0,0,0,2024-11-09,-43.40290677,-21.86979013,06:54:42,AMG-3055 norte
+543,Santa Cordola,10069708,06:50,5,0,0,0,2024-11-09,-43.40804267,-21.86567113,06:55:42,AMG-3055 norte
+543,Santa Cordola,10073012,06:50,6,0,0,0,2024-11-09,-43.41494524,-21.85330946,06:58:02,AMG-3055 norte - Entrada MG-353
+543,Santa Cordola,10069712,06:50,7,4,0,4,2024-11-09,-43.41265333,-21.85095448,06:58:42,MG-353 norte
+543,Santa Cordola,10366749,06:50,8,0,0,4,2024-11-09,-43.41152382,-21.8475071,07:00:12,MG-353 norte
+543,Santa Cordola,10069505,06:50,9,0,0,4,2024-11-09,-43.41015351,-21.84132135,07:01:42,MG-353 norte
+543,Santa Cordola,10366751,06:50,10,0,0,4,2024-11-09,-43.40212034,-21.8379827,07:04:02,MG-353 norte
+543,Santa Cordola,10366753,06:50,11,0,0,4,2024-11-09,-43.39338011,-21.84224966,07:05:37,MG-353 norte
+543,Santa Cordola,10366755,06:50,12,0,0,4,2024-11-09,-43.38599867,-21.84241398,07:07:22,MG-353 norte
+543,Santa Cordola,10069506,06:50,13,0,0,4,2024-11-09,-43.38027203,-21.84699059,07:08:38,MG-353 norte
+543,Santa Cordola,10366756,06:50,14,0,0,4,2024-11-09,-43.37364093,-21.83461155,07:10:30,BR-040 norte
+543,Santa Cordola,10074706,06:50,15,2,0,6,2024-11-09,-43.37397629,-21.82766967,07:12:22,BR-040 norte
+543,Santa Cordola,10072861,06:50,16,0,0,6,2024-11-09,-43.37596023,-21.81589731,07:14:42,"Avenida Deusdedith Salgado, 5405"
+543,Santa Cordola,10072859,06:50,17,2,0,8,2024-11-09,-43.37514317,-21.81230216,07:15:22,"Avenida Deusdedith Salgado, 5025"
+543,Santa Cordola,10072858,06:50,18,0,0,8,2024-11-09,-43.37564468,-21.8067894,07:16:42,"Avenida Deusdedith Salgado, 4551"
+543,Santa Cordola,10072805,06:50,19,4,0,12,2024-11-09,-43.37307882,-21.80512163,07:17:02,"Avenida Deusdedith Salgado, 4451"
+543,Santa Cordola,10069614,06:50,20,0,0,12,2024-11-09,-43.37152195,-21.80458631,07:18,"Avenida Deusdedith Salgado, 3701"
+543,Santa Cordola,10072817,06:50,21,0,2,10,2024-11-09,-43.36966229,-21.80149184,07:18:31,"Avenida Deusdedith Salgado, 2401"
+543,Santa Cordola,10072816,06:50,22,0,1,9,2024-11-09,-43.36734369,-21.79908456,07:19:02,"Avenida Deusdedith Salgado, 2395"
+543,Santa Cordola,10072821,06:50,23,0,1,8,2024-11-09,-43.3662653,-21.797472,07:19:18,"Avenida Deusdedith Salgado, 2251"
+543,Santa Cordola,10069620,06:50,24,0,1,7,2024-11-09,-43.36567592,-21.79576145,07:19:42,"Avenida Deusdedith Salgado, 2227"
+543,Santa Cordola,10072820,06:50,25,0,0,7,2024-11-09,-43.36605501,-21.79318175,07:20:02,"Avenida Deusdedith Salgado, 1945"
+543,Santa Cordola,10072819,06:50,26,1,0,8,2024-11-09,-43.3649501,-21.79044018,07:20:22,"Avenida Deusdedith Salgado, 1597"
+543,Santa Cordola,10072818,06:50,27,0,1,7,2024-11-09,-43.36378348,-21.78877914,07:21:22,"Avenida Deusdedith Salgado, 1351"
+543,Santa Cordola,10072825,06:50,28,1,0,8,2024-11-09,-43.36238527,-21.7874579,07:21:42,"Avenida Deusdedith Salgado, 1189"
+543,Santa Cordola,10072824,06:50,29,0,0,8,2024-11-09,-43.36330116,-21.78597182,07:22:22,"Avenida Doutor Paulo Japiassu Coelho, 142"
+543,Santa Cordola,10072823,06:50,30,1,0,9,2024-11-09,-43.36475218,-21.78470041,07:22:42,"Avenida Doutor Paulo Japiassu Coelho, 320"
+543,Santa Cordola,10072822,06:50,31,0,0,9,2024-11-09,-43.36497879,-21.78351021,07:23:22,"Avenida Doutor Paulo Japiassu Coelho, 528"
+543,Santa Cordola,10072986,06:50,32,0,2,7,2024-11-09,-43.36368561,-21.78239632,07:24:22,"Avenida Doutor Paulo Japiassu Coelho, 630"
+543,Santa Cordola,10072905,06:50,33,0,2,5,2024-11-09,-43.36211063,-21.78121672,07:24:42,"Avenida Presidente Itamar Franco, 3261"
+543,Santa Cordola,10072911,06:50,34,2,1,6,2024-11-09,-43.35867795,-21.77810902,07:26:02,"Avenida Presidente Itamar Franco, 3001"
+543,Santa Cordola,10069810,06:50,35,0,0,6,2024-11-09,-43.3558315,-21.77566225,07:26:42,"Avenida Presidente Itamar Franco, 2463"
+543,Santa Cordola,10072963,06:50,36,2,0,8,2024-11-09,-43.35470581,-21.77436066,07:27:02,"Avenida Presidente Itamar Franco, 2335"
+543,Santa Cordola,10069811,06:50,37,0,0,8,2024-11-09,-43.35205078,-21.77130127,07:29:02,"Avenida Presidente Itamar Franco, 1901"
+543,Santa Cordola,10073625,06:50,38,0,1,7,2024-11-09,-43.35009754,-21.76843834,07:30:42,"Avenida Presidente Itamar Franco, 1619"
+543,Santa Cordola,10072756,06:50,39,0,5,2,2024-11-09,-43.34879673,-21.76672451,07:31:02,"Avenida Presidente Itamar Franco, 1339"
+543,Santa Cordola,10073014,06:50,40,0,2,0,2024-11-09,-43.347229,-21.76519012,07:32:42,"Avenida Presidente Itamar Franco, 915"
+543,Santa Cordola,10072762,06:50,41,1,0,1,2024-11-09,-43.34470749,-21.76272774,07:34:22,"Avenida Presidente Itamar Franco, 605"
+543,Santa Cordola,10070903,06:50,42,0,1,0,2024-11-09,-43.34353638,-21.75967216,07:37:01,"Avenida Francisco Bernardino, 162"
+543,Santa Cordola,10071270,06:50,43,0,0,0,2024-11-09,-43.35002899,-21.75758362,07:37:01,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10071270,11:45,1,0,0,0,2024-11-09,-43.35002899,-21.75758362,11:45,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10070998,11:45,2,4,0,4,2024-11-09,-43.34476793,-21.76163378,11:49:39,"Avenida Getúlio Vargas, 207"
+543,Santa Cordola,10072763,11:45,3,5,0,9,2024-11-09,-43.34768295,-21.76537704,11:53:19,"Avenida Presidente Itamar Franco, 986"
+543,Santa Cordola,10072757,11:45,4,1,0,10,2024-11-09,-43.35034538,-21.76838477,11:57:48,"Avenida Presidente Itamar Franco, 1622"
+543,Santa Cordola,10073013,11:45,5,0,0,10,2024-11-09,-43.35187101,-21.77073128,12:02:18,"Avenida Presidente Itamar Franco, 1840"
+543,Santa Cordola,10072909,11:45,6,0,2,8,2024-11-09,-43.35514824,-21.77467451,12:03:58,"Avenida Presidente Itamar Franco, 2360"
+543,Santa Cordola,10072961,11:45,7,0,0,8,2024-11-09,-43.35676165,-21.77592644,12:04:18,"Avenida Presidente Itamar Franco, 2520"
+543,Santa Cordola,10072987,11:45,8,1,2,7,2024-11-09,-43.3590889,-21.77818298,12:05:38,"Avenida Presidente Itamar Franco, 3050"
+543,Santa Cordola,10072904,11:45,9,2,0,9,2024-11-09,-43.3638649,-21.78231812,12:07:38,"Avenida Doutor Paulo Japiassu Coelho, 605"
+543,Santa Cordola,10072984,11:45,10,0,0,9,2024-11-09,-43.36533785,-21.78362889,12:09:18,"Avenida Doutor Paulo Japiassu Coelho, 401"
+543,Santa Cordola,10072982,11:45,11,0,1,8,2024-11-09,-43.36433411,-21.78536797,12:09:33,"Avenida Doutor Paulo Japiassu Coelho, 213"
+543,Santa Cordola,10072992,11:45,12,0,1,7,2024-11-09,-43.36269879,-21.78680992,12:09:58,"Avenida Doutor Paulo Japiassu Coelho, 109"
+543,Santa Cordola,10072990,11:45,13,1,0,8,2024-11-09,-43.36355007,-21.78815539,12:10:58,"Avenida Deusdedith Salgado, 1298"
+543,Santa Cordola,10211497,11:45,14,0,1,7,2024-11-09,-43.36520698,-21.79056606,12:11:58,"Avenida Deusdedith Salgado, 1600"
+543,Santa Cordola,10072988,11:45,15,0,1,6,2024-11-09,-43.36581349,-21.79168844,12:12:18,"Avenida Deusdedith Salgado, 1700"
+543,Santa Cordola,10072831,11:45,16,1,0,7,2024-11-09,-43.36662269,-21.79708597,12:13:18,"Avenida Deusdedith Salgado, 2200"
+543,Santa Cordola,10072829,11:45,17,2,0,9,2024-11-09,-43.37030696,-21.80254597,12:14:37,"Avenida Deusdedith Salgado, 2800"
+543,Santa Cordola,10072852,11:45,18,0,4,5,2024-11-09,-43.37226558,-21.80410544,12:15:17,"Avenida Deusdedith Salgado, 3800"
+543,Santa Cordola,10072857,11:45,19,0,0,5,2024-11-09,-43.37626195,-21.80717204,12:16:37,"Avenida Deusdedith Salgado, 4550"
+543,Santa Cordola,10072856,11:45,20,0,2,3,2024-11-09,-43.37553072,-21.81243939,12:17:37,"Avenida Deusdedith Salgado, 5050"
+543,Santa Cordola,10072854,11:45,21,0,0,3,2024-11-09,-43.37596583,-21.81434748,12:18:37,"Avenida Deusdedith Salgado, 4570"
+543,Santa Cordola,10072853,11:45,22,0,0,3,2024-11-09,-43.37654185,-21.81668091,12:18:57,"Avenida Deusdedith Salgado, 5450"
+543,Santa Cordola,10072259,11:45,23,0,2,1,2024-11-09,-43.37495864,-21.82508276,12:20:27,BR-040 sul
+543,Santa Cordola,10074703,11:45,24,0,0,1,2024-11-09,-43.374897,-21.83651543,12:21:57,BR-040 sul
+543,Santa Cordola,10074700,11:45,25,0,0,1,2024-11-09,-43.38006973,-21.84679031,12:23:17,MG-353 sul
+543,Santa Cordola,10366754,11:45,26,0,0,1,2024-11-09,-43.38606841,-21.84224468,12:24:37,MG-353 sul
+543,Santa Cordola,10366752,11:45,27,0,0,1,2024-11-09,-43.39340157,-21.84213514,12:25:37,MG-353 sul
+543,Santa Cordola,10366750,11:45,28,0,0,1,2024-11-09,-43.40201305,-21.83781339,12:26:57,MG-353 sul
+543,Santa Cordola,10074720,11:45,29,0,0,1,2024-11-09,-43.4103703,-21.84145694,12:28:16,MG-353 sul
+543,Santa Cordola,10366748,11:45,30,0,0,1,2024-11-09,-43.41173303,-21.84740752,12:29:36,MG-353 sul
+543,Santa Cordola,10074718,11:45,31,0,1,0,2024-11-09,-43.41294969,-21.85101665,12:30:16,MG-353 sul
+543,Santa Cordola,10069711,11:45,32,0,0,0,2024-11-09,-43.41500854,-21.85347366,12:30:51,AMG-3055 sul - Entrada MG-353
+543,Santa Cordola,10069701,11:45,33,0,0,0,2024-11-09,-43.40818525,-21.8658401,12:33:36,AMG-3055 sul
+543,Santa Cordola,10395514,11:45,34,1,0,1,2024-11-09,-43.40304625,-21.86991956,12:35:16,AMG-3055 sul
+543,Santa Cordola,10069713,11:45,35,0,0,1,2024-11-09,-43.39654863,-21.87529801,12:36:26,AMG-3055 sul
+543,Santa Cordola,10069710,11:45,36,0,0,1,2024-11-09,-43.3971746,-21.88147187,12:37:36,AMG-3055 sul
+543,Santa Cordola,10073015,11:45,37,0,0,1,2024-11-09,-43.39450073,-21.88364601,12:37:36,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10073015,19:10,1,0,0,0,2024-11-09,-43.39450073,-21.88364601,19:11:09,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10069709,19:10,2,0,0,0,2024-11-09,-43.39686608,-21.88139153,19:11:29,AMG-3055 norte
+543,Santa Cordola,10069703,19:10,3,0,0,0,2024-11-09,-43.39629722,-21.87513985,19:12:49,AMG-3055 norte
+543,Santa Cordola,10395513,19:10,4,0,0,0,2024-11-09,-43.40290677,-21.86979013,19:14:09,AMG-3055 norte
+543,Santa Cordola,10069708,19:10,5,0,0,0,2024-11-09,-43.40804267,-21.86567113,19:15:29,AMG-3055 norte
+543,Santa Cordola,10073012,19:10,6,0,0,0,2024-11-09,-43.41494524,-21.85330946,19:17:48,AMG-3055 norte - Entrada MG-353
+543,Santa Cordola,10069712,19:10,7,0,0,0,2024-11-09,-43.41265333,-21.85095448,19:18:28,MG-353 norte
+543,Santa Cordola,10366749,19:10,8,0,0,0,2024-11-09,-43.41152382,-21.8475071,19:19:27,MG-353 norte
+543,Santa Cordola,10069505,19:10,9,0,0,0,2024-11-09,-43.41015351,-21.84132135,19:20:26,MG-353 norte
+543,Santa Cordola,10366751,19:10,10,0,0,0,2024-11-09,-43.40212034,-21.8379827,19:22:28,MG-353 norte
+543,Santa Cordola,10366753,19:10,11,0,0,0,2024-11-09,-43.39338011,-21.84224966,19:23:56,MG-353 norte
+543,Santa Cordola,10366755,19:10,12,0,0,0,2024-11-09,-43.38599867,-21.84241398,19:25:28,MG-353 norte
+543,Santa Cordola,10069506,19:10,13,0,0,0,2024-11-09,-43.38027203,-21.84699059,19:26:48,MG-353 norte
+543,Santa Cordola,10366756,19:10,14,0,0,0,2024-11-09,-43.37364093,-21.83461155,19:30:08,BR-040 norte
+543,Santa Cordola,10074706,19:10,15,0,0,0,2024-11-09,-43.37397629,-21.82766967,19:31:28,BR-040 norte
+543,Santa Cordola,10072861,19:10,16,1,0,1,2024-11-09,-43.37596023,-21.81589731,19:32:47,"Avenida Deusdedith Salgado, 5405"
+543,Santa Cordola,10072859,19:10,17,4,1,4,2024-11-09,-43.37514317,-21.81230216,19:33:47,"Avenida Deusdedith Salgado, 5025"
+543,Santa Cordola,10072858,19:10,18,1,0,5,2024-11-09,-43.37564468,-21.8067894,19:35:07,"Avenida Deusdedith Salgado, 4551"
+543,Santa Cordola,10072805,19:10,19,0,0,5,2024-11-09,-43.37307882,-21.80512163,19:36:07,"Avenida Deusdedith Salgado, 4451"
+543,Santa Cordola,10069614,19:10,20,4,0,9,2024-11-09,-43.37152195,-21.80458631,19:36:47,"Avenida Deusdedith Salgado, 3701"
+543,Santa Cordola,10072817,19:10,21,0,2,7,2024-11-09,-43.36966229,-21.80149184,19:37:27,"Avenida Deusdedith Salgado, 2401"
+543,Santa Cordola,10072816,19:10,22,0,0,7,2024-11-09,-43.36734369,-21.79908456,19:38:07,"Avenida Deusdedith Salgado, 2395"
+543,Santa Cordola,10072821,19:10,23,0,0,7,2024-11-09,-43.3662653,-21.797472,19:38:27,"Avenida Deusdedith Salgado, 2251"
+543,Santa Cordola,10069620,19:10,24,0,0,7,2024-11-09,-43.36567592,-21.79576145,19:38:47,"Avenida Deusdedith Salgado, 2227"
+543,Santa Cordola,10072820,19:10,25,0,0,7,2024-11-09,-43.36605501,-21.79318175,19:39:07,"Avenida Deusdedith Salgado, 1945"
+543,Santa Cordola,10072819,19:10,26,0,0,7,2024-11-09,-43.3649501,-21.79044018,19:39:47,"Avenida Deusdedith Salgado, 1597"
+543,Santa Cordola,10072818,19:10,27,0,4,3,2024-11-09,-43.36378348,-21.78877914,19:40:07,"Avenida Deusdedith Salgado, 1351"
+543,Santa Cordola,10072825,19:10,28,1,0,4,2024-11-09,-43.36238527,-21.7874579,19:40:47,"Avenida Deusdedith Salgado, 1189"
+543,Santa Cordola,10072824,19:10,29,1,0,5,2024-11-09,-43.36330116,-21.78597182,19:41:47,"Avenida Doutor Paulo Japiassu Coelho, 142"
+543,Santa Cordola,10072823,19:10,30,0,0,5,2024-11-09,-43.36475218,-21.78470041,19:42:27,"Avenida Doutor Paulo Japiassu Coelho, 320"
+543,Santa Cordola,10072822,19:10,31,0,0,5,2024-11-09,-43.36497879,-21.78351021,19:42:41,"Avenida Doutor Paulo Japiassu Coelho, 528"
+543,Santa Cordola,10072986,19:10,32,3,0,8,2024-11-09,-43.36368561,-21.78239632,19:43:07,"Avenida Doutor Paulo Japiassu Coelho, 630"
+543,Santa Cordola,10072905,19:10,33,0,0,8,2024-11-09,-43.36211063,-21.78121672,19:45:47,"Avenida Presidente Itamar Franco, 3261"
+543,Santa Cordola,10072911,19:10,34,7,0,15,2024-11-09,-43.35867795,-21.77810902,19:47:26,"Avenida Presidente Itamar Franco, 3001"
+543,Santa Cordola,10069810,19:10,35,2,0,17,2024-11-09,-43.3558315,-21.77566225,19:49:46,"Avenida Presidente Itamar Franco, 2463"
+543,Santa Cordola,10072963,19:10,36,0,0,17,2024-11-09,-43.35470581,-21.77436066,19:51:26,"Avenida Presidente Itamar Franco, 2335"
+543,Santa Cordola,10069811,19:10,37,0,1,16,2024-11-09,-43.35205078,-21.77130127,19:55:46,"Avenida Presidente Itamar Franco, 1901"
+543,Santa Cordola,10073625,19:10,38,0,0,16,2024-11-09,-43.35009754,-21.76843834,19:57:46,"Avenida Presidente Itamar Franco, 1619"
+543,Santa Cordola,10072756,19:10,39,0,0,16,2024-11-09,-43.34879673,-21.76672451,19:58:26,"Avenida Presidente Itamar Franco, 1339"
+543,Santa Cordola,10073014,19:10,40,0,0,16,2024-11-09,-43.347229,-21.76519012,20:00:26,"Avenida Presidente Itamar Franco, 915"
+543,Santa Cordola,10072762,19:10,41,0,7,9,2024-11-09,-43.34470749,-21.76272774,20:01:26,"Avenida Presidente Itamar Franco, 605"
+543,Santa Cordola,10070903,19:10,42,0,7,2,2024-11-09,-43.34353638,-21.75967216,20:03:25,"Avenida Francisco Bernardino, 162"
+543,Santa Cordola,10071270,19:10,43,0,2,0,2024-11-09,-43.35002899,-21.75758362,20:03:25,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10071270,06:00,1,1,0,1,2024-11-16,-43.35002899,-21.75758362,06:00,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10070998,06:00,2,3,0,4,2024-11-16,-43.34476793,-21.76163378,06:05:33,"Avenida Getúlio Vargas, 207"
+543,Santa Cordola,10072763,06:00,3,4,0,8,2024-11-16,-43.34768295,-21.76537704,06:07:53,"Avenida Presidente Itamar Franco, 986"
+543,Santa Cordola,10072757,06:00,4,2,0,10,2024-11-16,-43.35034538,-21.76838477,06:10:53,"Avenida Presidente Itamar Franco, 1622"
+543,Santa Cordola,10073013,06:00,5,1,3,8,2024-11-16,-43.35187101,-21.77073128,06:11:53,"Avenida Presidente Itamar Franco, 1840"
+543,Santa Cordola,10072909,06:00,6,0,0,8,2024-11-16,-43.35514824,-21.77467451,06:13:13,"Avenida Presidente Itamar Franco, 2360"
+543,Santa Cordola,10072961,06:00,7,0,1,7,2024-11-16,-43.35676165,-21.77592644,06:13:53,"Avenida Presidente Itamar Franco, 2520"
+543,Santa Cordola,10072987,06:00,8,0,2,5,2024-11-16,-43.3590889,-21.77818298,06:15:13,"Avenida Presidente Itamar Franco, 3050"
+543,Santa Cordola,10072904,06:00,9,1,3,3,2024-11-16,-43.3638649,-21.78231812,06:17:53,"Avenida Doutor Paulo Japiassu Coelho, 605"
+543,Santa Cordola,10072984,06:00,10,0,0,3,2024-11-16,-43.36533785,-21.78362889,06:19:13,"Avenida Doutor Paulo Japiassu Coelho, 401"
+543,Santa Cordola,10072982,06:00,11,0,0,3,2024-11-16,-43.36433411,-21.78536797,06:19:43,"Avenida Doutor Paulo Japiassu Coelho, 213"
+543,Santa Cordola,10072992,06:00,12,2,0,5,2024-11-16,-43.36269879,-21.78680992,06:20:13,"Avenida Doutor Paulo Japiassu Coelho, 109"
+543,Santa Cordola,10072990,06:00,13,1,1,5,2024-11-16,-43.36355007,-21.78815539,06:20:53,"Avenida Deusdedith Salgado, 1298"
+543,Santa Cordola,10211497,06:00,14,1,0,6,2024-11-16,-43.36520698,-21.79056606,06:21:53,"Avenida Deusdedith Salgado, 1600"
+543,Santa Cordola,10072988,06:00,15,0,0,6,2024-11-16,-43.36581349,-21.79168844,06:22:53,"Avenida Deusdedith Salgado, 1700"
+543,Santa Cordola,10072831,06:00,16,2,0,8,2024-11-16,-43.36662269,-21.79708597,06:24:13,"Avenida Deusdedith Salgado, 2200"
+543,Santa Cordola,10072829,06:00,17,2,2,8,2024-11-16,-43.37030696,-21.80254597,06:25:33,"Avenida Deusdedith Salgado, 2800"
+543,Santa Cordola,10072852,06:00,18,0,2,6,2024-11-16,-43.37226558,-21.80410544,06:26:54,"Avenida Deusdedith Salgado, 3800"
+543,Santa Cordola,10072857,06:00,19,0,1,5,2024-11-16,-43.37626195,-21.80717204,06:28:33,"Avenida Deusdedith Salgado, 4550"
+543,Santa Cordola,10072856,06:00,20,0,2,3,2024-11-16,-43.37553072,-21.81243939,06:29:53,"Avenida Deusdedith Salgado, 5050"
+543,Santa Cordola,10072854,06:00,21,0,3,0,2024-11-16,-43.37596583,-21.81434748,06:30:54,"Avenida Deusdedith Salgado, 4570"
+543,Santa Cordola,10072853,06:00,22,0,0,0,2024-11-16,-43.37654185,-21.81668091,06:31:53,"Avenida Deusdedith Salgado, 5450"
+543,Santa Cordola,10072259,06:00,23,0,0,0,2024-11-16,-43.37495864,-21.82508276,06:33:33,BR-040 sul
+543,Santa Cordola,10074703,06:00,24,1,0,1,2024-11-16,-43.374897,-21.83651543,06:35:13,BR-040 sul
+543,Santa Cordola,10074700,06:00,25,0,0,1,2024-11-16,-43.38006973,-21.84679031,06:38:33,MG-353 sul
+543,Santa Cordola,10366754,06:00,26,0,0,1,2024-11-16,-43.38606841,-21.84224468,06:39:54,MG-353 sul
+543,Santa Cordola,10366752,06:00,27,0,0,1,2024-11-16,-43.39340157,-21.84213514,06:41,MG-353 sul
+543,Santa Cordola,10366750,06:00,28,0,0,1,2024-11-16,-43.40201305,-21.83781339,06:42:06,MG-353 sul
+543,Santa Cordola,10074720,06:00,29,0,0,1,2024-11-16,-43.4103703,-21.84145694,06:43:20,MG-353 sul
+543,Santa Cordola,10366748,06:00,30,0,0,1,2024-11-16,-43.41173303,-21.84740752,06:44:34,MG-353 sul
+543,Santa Cordola,10074718,06:00,31,1,0,2,2024-11-16,-43.41294969,-21.85101665,06:45:14,MG-353 sul
+543,Santa Cordola,10069711,06:00,32,0,0,2,2024-11-16,-43.41500854,-21.85347366,06:46:34,AMG-3055 sul - Entrada MG-353
+543,Santa Cordola,10069701,06:00,33,0,0,2,2024-11-16,-43.40818525,-21.8658401,06:48:54,AMG-3055 sul
+543,Santa Cordola,10395514,06:00,34,0,0,2,2024-11-16,-43.40304625,-21.86991956,06:50:08,AMG-3055 sul
+543,Santa Cordola,10069713,06:00,35,0,0,2,2024-11-16,-43.39654863,-21.87529801,06:51:14,AMG-3055 sul
+543,Santa Cordola,10069710,06:00,36,0,0,2,2024-11-16,-43.3971746,-21.88147187,06:52:14,AMG-3055 sul
+543,Santa Cordola,10073015,06:00,37,0,0,2,2024-11-16,-43.39450073,-21.88364601,06:52:14,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10071270,11:45,1,0,0,0,2024-11-16,-43.35002899,-21.75758362,11:45,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10070998,11:45,2,3,0,3,2024-11-16,-43.34476793,-21.76163378,11:48:56,"Avenida Getúlio Vargas, 207"
+543,Santa Cordola,10072763,11:45,3,3,0,6,2024-11-16,-43.34768295,-21.76537704,11:52:36,"Avenida Presidente Itamar Franco, 986"
+543,Santa Cordola,10072757,11:45,4,2,0,8,2024-11-16,-43.35034538,-21.76838477,11:55:35,"Avenida Presidente Itamar Franco, 1622"
+543,Santa Cordola,10073013,11:45,5,0,3,5,2024-11-16,-43.35187101,-21.77073128,11:56:55,"Avenida Presidente Itamar Franco, 1840"
+543,Santa Cordola,10072909,11:45,6,0,0,5,2024-11-16,-43.35514824,-21.77467451,11:58:15,"Avenida Presidente Itamar Franco, 2360"
+543,Santa Cordola,10072961,11:45,7,0,1,4,2024-11-16,-43.35676165,-21.77592644,11:59:15,"Avenida Presidente Itamar Franco, 2520"
+543,Santa Cordola,10072987,11:45,8,0,2,2,2024-11-16,-43.3590889,-21.77818298,11:59:55,"Avenida Presidente Itamar Franco, 3050"
+543,Santa Cordola,10072904,11:45,9,2,2,2,2024-11-16,-43.3638649,-21.78231812,12:02:15,"Avenida Doutor Paulo Japiassu Coelho, 605"
+543,Santa Cordola,10072984,11:45,10,0,0,2,2024-11-16,-43.36533785,-21.78362889,12:04:15,"Avenida Doutor Paulo Japiassu Coelho, 401"
+543,Santa Cordola,10072982,11:45,11,0,0,2,2024-11-16,-43.36433411,-21.78536797,12:04:44,"Avenida Doutor Paulo Japiassu Coelho, 213"
+543,Santa Cordola,10072992,11:45,12,0,0,2,2024-11-16,-43.36269879,-21.78680992,12:05:14,"Avenida Doutor Paulo Japiassu Coelho, 109"
+543,Santa Cordola,10072990,11:45,13,5,1,6,2024-11-16,-43.36355007,-21.78815539,12:05:54,"Avenida Deusdedith Salgado, 1298"
+543,Santa Cordola,10211497,11:45,14,0,0,6,2024-11-16,-43.36520698,-21.79056606,12:07:14,"Avenida Deusdedith Salgado, 1600"
+543,Santa Cordola,10072988,11:45,15,0,0,6,2024-11-16,-43.36581349,-21.79168844,12:07:34,"Avenida Deusdedith Salgado, 1700"
+543,Santa Cordola,10072831,11:45,16,6,0,12,2024-11-16,-43.36662269,-21.79708597,12:08:34,"Avenida Deusdedith Salgado, 2200"
+543,Santa Cordola,10072829,11:45,17,2,2,12,2024-11-16,-43.37030696,-21.80254597,12:10:14,"Avenida Deusdedith Salgado, 2800"
+543,Santa Cordola,10072852,11:45,18,0,2,10,2024-11-16,-43.37226558,-21.80410544,12:11:24,"Avenida Deusdedith Salgado, 3800"
+543,Santa Cordola,10072857,11:45,19,0,1,9,2024-11-16,-43.37626195,-21.80717204,12:12:34,"Avenida Deusdedith Salgado, 4550"
+543,Santa Cordola,10072856,11:45,20,0,2,7,2024-11-16,-43.37553072,-21.81243939,12:13:54,"Avenida Deusdedith Salgado, 5050"
+543,Santa Cordola,10072854,11:45,21,0,3,4,2024-11-16,-43.37596583,-21.81434748,12:14:54,"Avenida Deusdedith Salgado, 4570"
+543,Santa Cordola,10072853,11:45,22,0,3,1,2024-11-16,-43.37654185,-21.81668091,12:15:53,"Avenida Deusdedith Salgado, 5450"
+543,Santa Cordola,10072259,11:45,23,0,0,1,2024-11-16,-43.37495864,-21.82508276,12:17:13,BR-040 sul
+543,Santa Cordola,10074703,11:45,24,0,0,1,2024-11-16,-43.374897,-21.83651543,12:18:33,BR-040 sul
+543,Santa Cordola,10074700,11:45,25,0,0,1,2024-11-16,-43.38006973,-21.84679031,12:19:53,MG-353 sul
+543,Santa Cordola,10366754,11:45,26,0,0,1,2024-11-16,-43.38606841,-21.84224468,12:21:13,MG-353 sul
+543,Santa Cordola,10366752,11:45,27,0,0,1,2024-11-16,-43.39340157,-21.84213514,12:22:13,MG-353 sul
+543,Santa Cordola,10366750,11:45,28,0,0,1,2024-11-16,-43.40201305,-21.83781339,12:23:58,MG-353 sul
+543,Santa Cordola,10074720,11:45,29,0,0,1,2024-11-16,-43.4103703,-21.84145694,12:25:33,MG-353 sul
+543,Santa Cordola,10366748,11:45,30,0,0,1,2024-11-16,-43.41173303,-21.84740752,12:26:13,MG-353 sul
+543,Santa Cordola,10074718,11:45,31,0,0,1,2024-11-16,-43.41294969,-21.85101665,12:26:53,MG-353 sul
+543,Santa Cordola,10069711,11:45,32,0,0,1,2024-11-16,-43.41500854,-21.85347366,12:28:03,AMG-3055 sul - Entrada MG-353
+543,Santa Cordola,10069701,11:45,33,0,0,1,2024-11-16,-43.40818525,-21.8658401,12:29:58,AMG-3055 sul
+543,Santa Cordola,10395514,11:45,34,0,0,1,2024-11-16,-43.40304625,-21.86991956,12:31:52,AMG-3055 sul
+543,Santa Cordola,10069713,11:45,35,0,0,1,2024-11-16,-43.39654863,-21.87529801,12:33:12,AMG-3055 sul
+543,Santa Cordola,10069710,11:45,36,0,0,1,2024-11-16,-43.3971746,-21.88147187,12:34:07,AMG-3055 sul
+543,Santa Cordola,10073015,11:45,37,0,0,1,2024-11-16,-43.39450073,-21.88364601,12:34:07,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10073015,19:10,1,0,0,0,2024-11-16,-43.39450073,-21.88364601,19:10,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10069709,19:10,2,0,0,0,2024-11-16,-43.39686608,-21.88139153,19:11:07,AMG-3055 norte
+543,Santa Cordola,10069703,19:10,3,0,0,0,2024-11-16,-43.39629722,-21.87513985,19:12:07,AMG-3055 norte
+543,Santa Cordola,10395513,19:10,4,0,0,0,2024-11-16,-43.40290677,-21.86979013,19:13:27,AMG-3055 norte
+543,Santa Cordola,10069708,19:10,5,0,0,0,2024-11-16,-43.40804267,-21.86567113,19:14:47,AMG-3055 norte
+543,Santa Cordola,10073012,19:10,6,0,0,0,2024-11-16,-43.41494524,-21.85330946,19:17:04,AMG-3055 norte - Entrada MG-353
+543,Santa Cordola,10069712,19:10,7,0,0,0,2024-11-16,-43.41265333,-21.85095448,19:17:56,MG-353 norte
+543,Santa Cordola,10366749,19:10,8,0,0,0,2024-11-16,-43.41152382,-21.8475071,19:18:47,MG-353 norte
+543,Santa Cordola,10069505,19:10,9,0,0,0,2024-11-16,-43.41015351,-21.84132135,19:19:46,MG-353 norte
+543,Santa Cordola,10366751,19:10,10,0,0,0,2024-11-16,-43.40212034,-21.8379827,19:21:46,MG-353 norte
+543,Santa Cordola,10366753,19:10,11,0,0,0,2024-11-16,-43.39338011,-21.84224966,19:23:24,MG-353 norte
+543,Santa Cordola,10366755,19:10,12,0,0,0,2024-11-16,-43.38599867,-21.84241398,19:24:46,MG-353 norte
+543,Santa Cordola,10069506,19:10,13,0,0,0,2024-11-16,-43.38027203,-21.84699059,19:26:06,MG-353 norte
+543,Santa Cordola,10366756,19:10,14,0,0,0,2024-11-16,-43.37364093,-21.83461155,19:29:46,BR-040 norte
+543,Santa Cordola,10074706,19:10,15,0,0,0,2024-11-16,-43.37397629,-21.82766967,19:31:06,BR-040 norte
+543,Santa Cordola,10072861,19:10,16,3,0,3,2024-11-16,-43.37596023,-21.81589731,19:32:25,"Avenida Deusdedith Salgado, 5405"
+543,Santa Cordola,10072859,19:10,17,2,0,5,2024-11-16,-43.37514317,-21.81230216,19:33:45,"Avenida Deusdedith Salgado, 5025"
+543,Santa Cordola,10072858,19:10,18,1,0,6,2024-11-16,-43.37564468,-21.8067894,19:34:45,"Avenida Deusdedith Salgado, 4551"
+543,Santa Cordola,10072805,19:10,19,0,0,6,2024-11-16,-43.37307882,-21.80512163,19:35:45,"Avenida Deusdedith Salgado, 4451"
+543,Santa Cordola,10069614,19:10,20,2,0,8,2024-11-16,-43.37152195,-21.80458631,19:36:25,"Avenida Deusdedith Salgado, 3701"
+543,Santa Cordola,10072817,19:10,21,2,2,8,2024-11-16,-43.36966229,-21.80149184,19:37:25,"Avenida Deusdedith Salgado, 2401"
+543,Santa Cordola,10072816,19:10,22,0,2,6,2024-11-16,-43.36734369,-21.79908456,19:38:05,"Avenida Deusdedith Salgado, 2395"
+543,Santa Cordola,10072821,19:10,23,0,2,4,2024-11-16,-43.3662653,-21.797472,19:38:18,"Avenida Deusdedith Salgado, 2251"
+543,Santa Cordola,10069620,19:10,24,0,2,2,2024-11-16,-43.36567592,-21.79576145,19:38:42,"Avenida Deusdedith Salgado, 2227"
+543,Santa Cordola,10072820,19:10,25,0,0,2,2024-11-16,-43.36605501,-21.79318175,19:39:05,"Avenida Deusdedith Salgado, 1945"
+543,Santa Cordola,10072819,19:10,26,0,1,1,2024-11-16,-43.3649501,-21.79044018,19:39:25,"Avenida Deusdedith Salgado, 1597"
+543,Santa Cordola,10072818,19:10,27,1,1,1,2024-11-16,-43.36378348,-21.78877914,19:40:24,"Avenida Deusdedith Salgado, 1351"
+543,Santa Cordola,10072825,19:10,28,0,1,0,2024-11-16,-43.36238527,-21.7874579,19:40:44,"Avenida Deusdedith Salgado, 1189"
+543,Santa Cordola,10072824,19:10,29,0,0,0,2024-11-16,-43.36330116,-21.78597182,19:41:24,"Avenida Doutor Paulo Japiassu Coelho, 142"
+543,Santa Cordola,10072823,19:10,30,0,0,0,2024-11-16,-43.36475218,-21.78470041,19:41:44,"Avenida Doutor Paulo Japiassu Coelho, 320"
+543,Santa Cordola,10072822,19:10,31,0,0,0,2024-11-16,-43.36497879,-21.78351021,19:42:04,"Avenida Doutor Paulo Japiassu Coelho, 528"
+543,Santa Cordola,10072986,19:10,32,3,0,3,2024-11-16,-43.36368561,-21.78239632,19:42:24,"Avenida Doutor Paulo Japiassu Coelho, 630"
+543,Santa Cordola,10072905,19:10,33,0,1,2,2024-11-16,-43.36211063,-21.78121672,19:43:24,"Avenida Presidente Itamar Franco, 3261"
+543,Santa Cordola,10072911,19:10,34,2,0,4,2024-11-16,-43.35867795,-21.77810902,19:44:44,"Avenida Presidente Itamar Franco, 3001"
+543,Santa Cordola,10069810,19:10,35,1,0,5,2024-11-16,-43.3558315,-21.77566225,19:46:04,"Avenida Presidente Itamar Franco, 2463"
+543,Santa Cordola,10072963,19:10,36,0,0,5,2024-11-16,-43.35470581,-21.77436066,19:47:44,"Avenida Presidente Itamar Franco, 2335"
+543,Santa Cordola,10069811,19:10,37,3,1,7,2024-11-16,-43.35205078,-21.77130127,19:49:43,"Avenida Presidente Itamar Franco, 1901"
+543,Santa Cordola,10073625,19:10,38,0,2,5,2024-11-16,-43.35009754,-21.76843834,19:51:43,"Avenida Presidente Itamar Franco, 1619"
+543,Santa Cordola,10072756,19:10,39,0,4,1,2024-11-16,-43.34879673,-21.76672451,19:52:03,"Avenida Presidente Itamar Franco, 1339"
+543,Santa Cordola,10073014,19:10,40,0,1,0,2024-11-16,-43.347229,-21.76519012,19:53:33,"Avenida Presidente Itamar Franco, 915"
+543,Santa Cordola,10072762,19:10,41,0,0,0,2024-11-16,-43.34470749,-21.76272774,19:55:03,"Avenida Presidente Itamar Franco, 605"
+543,Santa Cordola,10070903,19:10,42,0,0,0,2024-11-16,-43.34353638,-21.75967216,19:55:23,"Avenida Francisco Bernardino, 162"
+543,Santa Cordola,10071270,19:10,43,0,0,0,2024-11-16,-43.35002899,-21.75758362,19:55:43,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10071270,06:00,1,0,0,0,2024-11-23,-43.35002899,-21.75758362,06:00,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10070998,06:00,2,6,0,6,2024-11-23,-43.34476793,-21.76163378,06:01:32,"Avenida Getúlio Vargas, 207"
+543,Santa Cordola,10072763,06:00,3,0,0,6,2024-11-23,-43.34768295,-21.76537704,06:03:52,"Avenida Presidente Itamar Franco, 986"
+543,Santa Cordola,10072757,06:00,4,1,0,7,2024-11-23,-43.35034538,-21.76838477,06:05:12,"Avenida Presidente Itamar Franco, 1622"
+543,Santa Cordola,10073013,06:00,5,1,0,8,2024-11-23,-43.35187101,-21.77073128,06:06:12,"Avenida Presidente Itamar Franco, 1840"
+543,Santa Cordola,10072909,06:00,6,0,0,8,2024-11-23,-43.35514824,-21.77467451,06:07:32,"Avenida Presidente Itamar Franco, 2360"
+543,Santa Cordola,10072961,06:00,7,0,0,8,2024-11-23,-43.35676165,-21.77592644,06:07:52,"Avenida Presidente Itamar Franco, 2520"
+543,Santa Cordola,10072987,06:00,8,0,0,8,2024-11-23,-43.3590889,-21.77818298,06:09:32,"Avenida Presidente Itamar Franco, 3050"
+543,Santa Cordola,10072904,06:00,9,0,0,8,2024-11-23,-43.3638649,-21.78231812,06:11:52,"Avenida Doutor Paulo Japiassu Coelho, 605"
+543,Santa Cordola,10072984,06:00,10,0,1,7,2024-11-23,-43.36533785,-21.78362889,06:12:08,"Avenida Doutor Paulo Japiassu Coelho, 401"
+543,Santa Cordola,10072982,06:00,11,0,0,7,2024-11-23,-43.36433411,-21.78536797,06:12:32,"Avenida Doutor Paulo Japiassu Coelho, 213"
+543,Santa Cordola,10072992,06:00,12,0,3,4,2024-11-23,-43.36269879,-21.78680992,06:13:32,"Avenida Doutor Paulo Japiassu Coelho, 109"
+543,Santa Cordola,10072990,06:00,13,0,0,4,2024-11-23,-43.36355007,-21.78815539,06:13:52,"Avenida Deusdedith Salgado, 1298"
+543,Santa Cordola,10211497,06:00,14,0,0,4,2024-11-23,-43.36520698,-21.79056606,06:14:52,"Avenida Deusdedith Salgado, 1600"
+543,Santa Cordola,10072988,06:00,15,1,0,5,2024-11-23,-43.36581349,-21.79168844,06:15:32,"Avenida Deusdedith Salgado, 1700"
+543,Santa Cordola,10072831,06:00,16,4,1,8,2024-11-23,-43.36662269,-21.79708597,06:16:32,"Avenida Deusdedith Salgado, 2200"
+543,Santa Cordola,10072829,06:00,17,0,0,8,2024-11-23,-43.37030696,-21.80254597,06:18:32,"Avenida Deusdedith Salgado, 2800"
+543,Santa Cordola,10072852,06:00,18,0,1,7,2024-11-23,-43.37226558,-21.80410544,06:18:52,"Avenida Deusdedith Salgado, 3800"
+543,Santa Cordola,10072857,06:00,19,1,0,8,2024-11-23,-43.37626195,-21.80717204,06:20:32,"Avenida Deusdedith Salgado, 4550"
+543,Santa Cordola,10072856,06:00,20,0,5,3,2024-11-23,-43.37553072,-21.81243939,06:21:32,"Avenida Deusdedith Salgado, 5050"
+543,Santa Cordola,10072854,06:00,21,0,3,0,2024-11-23,-43.37596583,-21.81434748,06:22:32,"Avenida Deusdedith Salgado, 4570"
+543,Santa Cordola,10072853,06:00,22,0,0,0,2024-11-23,-43.37654185,-21.81668091,06:23:12,"Avenida Deusdedith Salgado, 5450"
+543,Santa Cordola,10072259,06:00,23,0,0,0,2024-11-23,-43.37495864,-21.82508276,06:24:52,BR-040 sul
+543,Santa Cordola,10074703,06:00,24,0,0,0,2024-11-23,-43.374897,-21.83651543,06:26:32,BR-040 sul
+543,Santa Cordola,10074700,06:00,25,0,0,0,2024-11-23,-43.38006973,-21.84679031,06:28:12,MG-353 sul
+543,Santa Cordola,10366754,06:00,26,0,0,0,2024-11-23,-43.38606841,-21.84224468,06:29:22,MG-353 sul
+543,Santa Cordola,10366752,06:00,27,0,0,0,2024-11-23,-43.39340157,-21.84213514,06:30:32,MG-353 sul
+543,Santa Cordola,10366750,06:00,28,0,0,0,2024-11-23,-43.40201305,-21.83781339,06:31:49,MG-353 sul
+543,Santa Cordola,10074720,06:00,29,0,0,0,2024-11-23,-43.4103703,-21.84145694,06:33:32,MG-353 sul
+543,Santa Cordola,10366748,06:00,30,0,0,0,2024-11-23,-43.41173303,-21.84740752,06:34:12,MG-353 sul
+543,Santa Cordola,10074718,06:00,31,0,0,0,2024-11-23,-43.41294969,-21.85101665,06:34:52,MG-353 sul
+543,Santa Cordola,10069711,06:00,32,0,0,0,2024-11-23,-43.41500854,-21.85347366,06:35:30,AMG-3055 sul - Entrada MG-353
+543,Santa Cordola,10069701,06:00,33,0,0,0,2024-11-23,-43.40818525,-21.8658401,06:38:32,AMG-3055 sul
+543,Santa Cordola,10395514,06:00,34,0,0,0,2024-11-23,-43.40304625,-21.86991956,06:39:48,AMG-3055 sul
+543,Santa Cordola,10069713,06:00,35,0,0,0,2024-11-23,-43.39654863,-21.87529801,06:40:52,AMG-3055 sul
+543,Santa Cordola,10069710,06:00,36,1,0,1,2024-11-23,-43.3971746,-21.88147187,06:41:50,AMG-3055 sul
+543,Santa Cordola,10073015,06:00,37,0,0,1,2024-11-23,-43.39450073,-21.88364601,06:41:50,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10073015,06:50,1,0,0,0,2024-11-23,-43.39450073,-21.88364601,06:50,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10069709,06:50,2,0,0,0,2024-11-23,-43.39686608,-21.88139153,06:51:47,AMG-3055 norte
+543,Santa Cordola,10069703,06:50,3,0,0,0,2024-11-23,-43.39629722,-21.87513985,06:52:36,AMG-3055 norte
+543,Santa Cordola,10395513,06:50,4,0,0,0,2024-11-23,-43.40290677,-21.86979013,06:53:56,AMG-3055 norte
+543,Santa Cordola,10069708,06:50,5,0,0,0,2024-11-23,-43.40804267,-21.86567113,06:54:56,AMG-3055 norte
+543,Santa Cordola,10073012,06:50,6,0,0,0,2024-11-23,-43.41494524,-21.85330946,06:58:16,AMG-3055 norte - Entrada MG-353
+543,Santa Cordola,10069712,06:50,7,3,0,3,2024-11-23,-43.41265333,-21.85095448,06:59:16,MG-353 norte
+543,Santa Cordola,10366749,06:50,8,0,0,3,2024-11-23,-43.41152382,-21.8475071,07:00:36,MG-353 norte
+543,Santa Cordola,10069505,06:50,9,0,0,3,2024-11-23,-43.41015351,-21.84132135,07:01:35,MG-353 norte
+543,Santa Cordola,10366751,06:50,10,0,0,3,2024-11-23,-43.40212034,-21.8379827,07:03:31,MG-353 norte
+543,Santa Cordola,10366753,06:50,11,0,0,3,2024-11-23,-43.39338011,-21.84224966,07:05:05,MG-353 norte
+543,Santa Cordola,10366755,06:50,12,0,0,3,2024-11-23,-43.38599867,-21.84241398,07:06:36,MG-353 norte
+543,Santa Cordola,10069506,06:50,13,0,0,3,2024-11-23,-43.38027203,-21.84699059,07:07:56,MG-353 norte
+543,Santa Cordola,10366756,06:50,14,2,0,5,2024-11-23,-43.37364093,-21.83461155,07:10:56,BR-040 norte
+543,Santa Cordola,10074706,06:50,15,2,0,7,2024-11-23,-43.37397629,-21.82766967,07:12:16,BR-040 norte
+543,Santa Cordola,10072861,06:50,16,0,0,7,2024-11-23,-43.37596023,-21.81589731,07:14:36,"Avenida Deusdedith Salgado, 5405"
+543,Santa Cordola,10072859,06:50,17,3,0,10,2024-11-23,-43.37514317,-21.81230216,07:15:16,"Avenida Deusdedith Salgado, 5025"
+543,Santa Cordola,10072858,06:50,18,1,0,11,2024-11-23,-43.37564468,-21.8067894,07:16:16,"Avenida Deusdedith Salgado, 4551"
+543,Santa Cordola,10072805,06:50,19,0,0,11,2024-11-23,-43.37307882,-21.80512163,07:17:16,"Avenida Deusdedith Salgado, 4451"
+543,Santa Cordola,10069614,06:50,20,10,0,21,2024-11-23,-43.37152195,-21.80458631,07:17:36,"Avenida Deusdedith Salgado, 3701"
+543,Santa Cordola,10072817,06:50,21,0,2,19,2024-11-23,-43.36966229,-21.80149184,07:18:36,"Avenida Deusdedith Salgado, 2401"
+543,Santa Cordola,10072816,06:50,22,0,6,13,2024-11-23,-43.36734369,-21.79908456,07:19:36,"Avenida Deusdedith Salgado, 2395"
+543,Santa Cordola,10072821,06:50,23,0,6,7,2024-11-23,-43.3662653,-21.797472,07:19:56,"Avenida Deusdedith Salgado, 2251"
+543,Santa Cordola,10069620,06:50,24,0,6,1,2024-11-23,-43.36567592,-21.79576145,07:20:16,"Avenida Deusdedith Salgado, 2227"
+543,Santa Cordola,10072820,06:50,25,0,0,1,2024-11-23,-43.36605501,-21.79318175,07:20:36,"Avenida Deusdedith Salgado, 1945"
+543,Santa Cordola,10072819,06:50,26,0,0,1,2024-11-23,-43.3649501,-21.79044018,07:21:16,"Avenida Deusdedith Salgado, 1597"
+543,Santa Cordola,10072818,06:50,27,0,1,0,2024-11-23,-43.36378348,-21.78877914,07:21:56,"Avenida Deusdedith Salgado, 1351"
+543,Santa Cordola,10072825,06:50,28,0,0,0,2024-11-23,-43.36238527,-21.7874579,07:22:36,"Avenida Deusdedith Salgado, 1189"
+543,Santa Cordola,10072824,06:50,29,1,0,1,2024-11-23,-43.36330116,-21.78597182,07:23:16,"Avenida Doutor Paulo Japiassu Coelho, 142"
+543,Santa Cordola,10072823,06:50,30,0,0,1,2024-11-23,-43.36475218,-21.78470041,07:23:56,"Avenida Doutor Paulo Japiassu Coelho, 320"
+543,Santa Cordola,10072822,06:50,31,1,0,2,2024-11-23,-43.36497879,-21.78351021,07:24:16,"Avenida Doutor Paulo Japiassu Coelho, 528"
+543,Santa Cordola,10072986,06:50,32,1,2,1,2024-11-23,-43.36368561,-21.78239632,07:25:16,"Avenida Doutor Paulo Japiassu Coelho, 630"
+543,Santa Cordola,10072905,06:50,33,0,1,0,2024-11-23,-43.36211063,-21.78121672,07:25:56,"Avenida Presidente Itamar Franco, 3261"
+543,Santa Cordola,10072911,06:50,34,0,0,0,2024-11-23,-43.35867795,-21.77810902,07:26:56,"Avenida Presidente Itamar Franco, 3001"
+543,Santa Cordola,10069810,06:50,35,0,0,0,2024-11-23,-43.3558315,-21.77566225,07:27:56,"Avenida Presidente Itamar Franco, 2463"
+543,Santa Cordola,10072963,06:50,36,0,0,0,2024-11-23,-43.35470581,-21.77436066,07:28:16,"Avenida Presidente Itamar Franco, 2335"
+543,Santa Cordola,10069811,06:50,37,1,0,1,2024-11-23,-43.35205078,-21.77130127,07:30:16,"Avenida Presidente Itamar Franco, 1901"
+543,Santa Cordola,10073625,06:50,38,0,1,0,2024-11-23,-43.35009754,-21.76843834,07:31:56,"Avenida Presidente Itamar Franco, 1619"
+543,Santa Cordola,10072756,06:50,39,0,0,0,2024-11-23,-43.34879673,-21.76672451,07:32:56,"Avenida Presidente Itamar Franco, 1339"
+543,Santa Cordola,10073014,06:50,40,0,0,0,2024-11-23,-43.347229,-21.76519012,07:33:36,"Avenida Presidente Itamar Franco, 915"
+543,Santa Cordola,10072762,06:50,41,0,0,0,2024-11-23,-43.34470749,-21.76272774,07:35:36,"Avenida Presidente Itamar Franco, 605"
+543,Santa Cordola,10070903,06:50,42,0,0,0,2024-11-23,-43.34353638,-21.75967216,07:38:16,"Avenida Francisco Bernardino, 162"
+543,Santa Cordola,10071270,06:50,43,0,0,0,2024-11-23,-43.35002899,-21.75758362,07:38:16,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10071270,11:45,1,1,0,1,2024-11-23,-43.35002899,-21.75758362,11:45,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10070998,11:45,2,3,0,4,2024-11-23,-43.34476793,-21.76163378,11:48:02,"Avenida Getúlio Vargas, 207"
+543,Santa Cordola,10072763,11:45,3,2,0,6,2024-11-23,-43.34768295,-21.76537704,11:50:42,"Avenida Presidente Itamar Franco, 986"
+543,Santa Cordola,10072757,11:45,4,4,0,10,2024-11-23,-43.35034538,-21.76838477,11:53:41,"Avenida Presidente Itamar Franco, 1622"
+543,Santa Cordola,10073013,11:45,5,0,0,10,2024-11-23,-43.35187101,-21.77073128,11:55:41,"Avenida Presidente Itamar Franco, 1840"
+543,Santa Cordola,10072909,11:45,6,0,0,10,2024-11-23,-43.35514824,-21.77467451,11:57:41,"Avenida Presidente Itamar Franco, 2360"
+543,Santa Cordola,10072961,11:45,7,0,0,10,2024-11-23,-43.35676165,-21.77592644,11:58:01,"Avenida Presidente Itamar Franco, 2520"
+543,Santa Cordola,10072987,11:45,8,3,2,11,2024-11-23,-43.3590889,-21.77818298,11:59:21,"Avenida Presidente Itamar Franco, 3050"
+543,Santa Cordola,10072904,11:45,9,1,6,6,2024-11-23,-43.3638649,-21.78231812,12:01:40,"Avenida Doutor Paulo Japiassu Coelho, 605"
+543,Santa Cordola,10072984,11:45,10,0,1,5,2024-11-23,-43.36533785,-21.78362889,12:03,"Avenida Doutor Paulo Japiassu Coelho, 401"
+543,Santa Cordola,10072982,11:45,11,0,0,5,2024-11-23,-43.36433411,-21.78536797,12:03:20,"Avenida Doutor Paulo Japiassu Coelho, 213"
+543,Santa Cordola,10072992,11:45,12,0,2,3,2024-11-23,-43.36269879,-21.78680992,12:04:20,"Avenida Doutor Paulo Japiassu Coelho, 109"
+543,Santa Cordola,10072990,11:45,13,2,0,5,2024-11-23,-43.36355007,-21.78815539,12:05,"Avenida Deusdedith Salgado, 1298"
+543,Santa Cordola,10211497,11:45,14,1,3,3,2024-11-23,-43.36520698,-21.79056606,12:05:40,"Avenida Deusdedith Salgado, 1600"
+543,Santa Cordola,10072988,11:45,15,0,3,0,2024-11-23,-43.36581349,-21.79168844,12:06:40,"Avenida Deusdedith Salgado, 1700"
+543,Santa Cordola,10072831,11:45,16,0,0,0,2024-11-23,-43.36662269,-21.79708597,12:07:20,"Avenida Deusdedith Salgado, 2200"
+543,Santa Cordola,10072829,11:45,17,1,0,1,2024-11-23,-43.37030696,-21.80254597,12:08:20,"Avenida Deusdedith Salgado, 2800"
+543,Santa Cordola,10072852,11:45,18,0,0,1,2024-11-23,-43.37226558,-21.80410544,12:09,"Avenida Deusdedith Salgado, 3800"
+543,Santa Cordola,10072857,11:45,19,0,1,0,2024-11-23,-43.37626195,-21.80717204,12:11:19,"Avenida Deusdedith Salgado, 4550"
+543,Santa Cordola,10072856,11:45,20,0,0,0,2024-11-23,-43.37553072,-21.81243939,12:12:19,"Avenida Deusdedith Salgado, 5050"
+543,Santa Cordola,10072854,11:45,21,0,0,0,2024-11-23,-43.37596583,-21.81434748,12:12:59,"Avenida Deusdedith Salgado, 4570"
+543,Santa Cordola,10072853,11:45,22,1,0,1,2024-11-23,-43.37654185,-21.81668091,12:14:19,"Avenida Deusdedith Salgado, 5450"
+543,Santa Cordola,10072259,11:45,23,0,0,1,2024-11-23,-43.37495864,-21.82508276,12:15:56,BR-040 sul
+543,Santa Cordola,10074703,11:45,24,0,0,1,2024-11-23,-43.374897,-21.83651543,12:17:39,BR-040 sul
+543,Santa Cordola,10074700,11:45,25,0,0,1,2024-11-23,-43.38006973,-21.84679031,12:19:18,MG-353 sul
+543,Santa Cordola,10366754,11:45,26,0,0,1,2024-11-23,-43.38606841,-21.84224468,12:20:38,MG-353 sul
+543,Santa Cordola,10366752,11:45,27,0,0,1,2024-11-23,-43.39340157,-21.84213514,12:21:40,MG-353 sul
+543,Santa Cordola,10366750,11:45,28,0,0,1,2024-11-23,-43.40201305,-21.83781339,12:22:41,MG-353 sul
+543,Santa Cordola,10074720,11:45,29,0,0,1,2024-11-23,-43.4103703,-21.84145694,12:24:18,MG-353 sul
+543,Santa Cordola,10366748,11:45,30,0,0,1,2024-11-23,-43.41173303,-21.84740752,12:24:58,MG-353 sul
+543,Santa Cordola,10074718,11:45,31,0,0,1,2024-11-23,-43.41294969,-21.85101665,12:25:38,MG-353 sul
+543,Santa Cordola,10069711,11:45,32,0,0,1,2024-11-23,-43.41500854,-21.85347366,12:26:38,AMG-3055 sul - Entrada MG-353
+543,Santa Cordola,10069701,11:45,33,0,0,1,2024-11-23,-43.40818525,-21.8658401,12:28:26,AMG-3055 sul
+543,Santa Cordola,10395514,11:45,34,0,0,1,2024-11-23,-43.40304625,-21.86991956,12:30:13,AMG-3055 sul
+543,Santa Cordola,10069713,11:45,35,0,0,1,2024-11-23,-43.39654863,-21.87529801,12:31:05,AMG-3055 sul
+543,Santa Cordola,10069710,11:45,36,0,0,1,2024-11-23,-43.3971746,-21.88147187,12:31:57,AMG-3055 sul
+543,Santa Cordola,10073015,11:45,37,0,0,1,2024-11-23,-43.39450073,-21.88364601,12:31:57,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10073015,17:10,1,0,0,0,2024-11-23,-43.39450073,-21.88364601,17:12:05,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10069709,17:10,2,0,0,0,2024-11-23,-43.39686608,-21.88139153,17:12:39,AMG-3055 norte
+543,Santa Cordola,10069703,17:10,3,0,0,0,2024-11-23,-43.39629722,-21.87513985,17:13:42,AMG-3055 norte
+543,Santa Cordola,10395513,17:10,4,0,0,0,2024-11-23,-43.40290677,-21.86979013,17:14:45,AMG-3055 norte
+543,Santa Cordola,10069708,17:10,5,0,0,0,2024-11-23,-43.40804267,-21.86567113,17:15:45,AMG-3055 norte
+543,Santa Cordola,10073012,17:10,6,0,0,0,2024-11-23,-43.41494524,-21.85330946,17:18:04,AMG-3055 norte - Entrada MG-353
+543,Santa Cordola,10069712,17:10,7,2,0,2,2024-11-23,-43.41265333,-21.85095448,17:18:44,MG-353 norte
+543,Santa Cordola,10366749,17:10,8,0,0,2,2024-11-23,-43.41152382,-21.8475071,17:20:04,MG-353 norte
+543,Santa Cordola,10069505,17:10,9,0,0,2,2024-11-23,-43.41015351,-21.84132135,17:21:04,MG-353 norte
+543,Santa Cordola,10366751,17:10,10,0,0,2,2024-11-23,-43.40212034,-21.8379827,17:22:59,MG-353 norte
+543,Santa Cordola,10366753,17:10,11,0,0,2,2024-11-23,-43.39338011,-21.84224966,17:24:22,MG-353 norte
+543,Santa Cordola,10366755,17:10,12,0,0,2,2024-11-23,-43.38599867,-21.84241398,17:25:43,MG-353 norte
+543,Santa Cordola,10069506,17:10,13,0,0,2,2024-11-23,-43.38027203,-21.84699059,17:26:43,MG-353 norte
+543,Santa Cordola,10366756,17:10,14,0,0,2,2024-11-23,-43.37364093,-21.83461155,17:28:43,BR-040 norte
+543,Santa Cordola,10074706,17:10,15,0,0,2,2024-11-23,-43.37397629,-21.82766967,17:30:43,BR-040 norte
+543,Santa Cordola,10072861,17:10,16,4,1,5,2024-11-23,-43.37596023,-21.81589731,17:32:22,"Avenida Deusdedith Salgado, 5405"
+543,Santa Cordola,10072859,17:10,17,5,0,10,2024-11-23,-43.37514317,-21.81230216,17:33:42,"Avenida Deusdedith Salgado, 5025"
+543,Santa Cordola,10072858,17:10,18,0,0,10,2024-11-23,-43.37564468,-21.8067894,17:35:22,"Avenida Deusdedith Salgado, 4551"
+543,Santa Cordola,10072805,17:10,19,0,0,10,2024-11-23,-43.37307882,-21.80512163,17:36:02,"Avenida Deusdedith Salgado, 4451"
+543,Santa Cordola,10069614,17:10,20,1,0,11,2024-11-23,-43.37152195,-21.80458631,17:36:22,"Avenida Deusdedith Salgado, 3701"
+543,Santa Cordola,10072817,17:10,21,0,1,10,2024-11-23,-43.36966229,-21.80149184,17:37:22,"Avenida Deusdedith Salgado, 2401"
+543,Santa Cordola,10072816,17:10,22,0,0,10,2024-11-23,-43.36734369,-21.79908456,17:38:02,"Avenida Deusdedith Salgado, 2395"
+543,Santa Cordola,10072821,17:10,23,0,0,10,2024-11-23,-43.3662653,-21.797472,17:38:22,"Avenida Deusdedith Salgado, 2251"
+543,Santa Cordola,10069620,17:10,24,1,0,11,2024-11-23,-43.36567592,-21.79576145,17:39:01,"Avenida Deusdedith Salgado, 2227"
+543,Santa Cordola,10072820,17:10,25,0,0,11,2024-11-23,-43.36605501,-21.79318175,17:39:31,"Avenida Deusdedith Salgado, 1945"
+543,Santa Cordola,10072819,17:10,26,0,1,10,2024-11-23,-43.3649501,-21.79044018,17:40:01,"Avenida Deusdedith Salgado, 1597"
+543,Santa Cordola,10072818,17:10,27,0,2,8,2024-11-23,-43.36378348,-21.78877914,17:40:41,"Avenida Deusdedith Salgado, 1351"
+543,Santa Cordola,10072825,17:10,28,3,0,11,2024-11-23,-43.36238527,-21.7874579,17:41:21,"Avenida Deusdedith Salgado, 1189"
+543,Santa Cordola,10072824,17:10,29,0,0,11,2024-11-23,-43.36330116,-21.78597182,17:42:21,"Avenida Doutor Paulo Japiassu Coelho, 142"
+543,Santa Cordola,10072823,17:10,30,0,0,11,2024-11-23,-43.36475218,-21.78470041,17:43:21,"Avenida Doutor Paulo Japiassu Coelho, 320"
+543,Santa Cordola,10072822,17:10,31,1,0,12,2024-11-23,-43.36497879,-21.78351021,17:43:41,"Avenida Doutor Paulo Japiassu Coelho, 528"
+543,Santa Cordola,10072986,17:10,32,0,1,11,2024-11-23,-43.36368561,-21.78239632,17:44:41,"Avenida Doutor Paulo Japiassu Coelho, 630"
+543,Santa Cordola,10072905,17:10,33,0,1,10,2024-11-23,-43.36211063,-21.78121672,17:46:01,"Avenida Presidente Itamar Franco, 3261"
+543,Santa Cordola,10072911,17:10,34,0,3,7,2024-11-23,-43.35867795,-21.77810902,17:47,"Avenida Presidente Itamar Franco, 3001"
+543,Santa Cordola,10069810,17:10,35,0,0,7,2024-11-23,-43.3558315,-21.77566225,17:48:20,"Avenida Presidente Itamar Franco, 2463"
+543,Santa Cordola,10072963,17:10,36,0,0,7,2024-11-23,-43.35470581,-21.77436066,17:51:26,"Avenida Presidente Itamar Franco, 2335"
+543,Santa Cordola,10069811,17:10,37,0,0,7,2024-11-23,-43.35205078,-21.77130127,17:54:33,"Avenida Presidente Itamar Franco, 1901"
+543,Santa Cordola,10073625,17:10,38,0,4,3,2024-11-23,-43.35009754,-21.76843834,17:57:39,"Avenida Presidente Itamar Franco, 1619"
+543,Santa Cordola,10072756,17:10,39,0,2,1,2024-11-23,-43.34879673,-21.76672451,17:58:19,"Avenida Presidente Itamar Franco, 1339"
+543,Santa Cordola,10073014,17:10,40,0,1,0,2024-11-23,-43.347229,-21.76519012,17:59:18,"Avenida Presidente Itamar Franco, 915"
+543,Santa Cordola,10072762,17:10,41,0,0,0,2024-11-23,-43.34470749,-21.76272774,18:01:18,"Avenida Presidente Itamar Franco, 605"
+543,Santa Cordola,10070903,17:10,42,0,0,0,2024-11-23,-43.34353638,-21.75967216,18:03:18,"Avenida Francisco Bernardino, 162"
+543,Santa Cordola,10071270,17:10,43,0,0,0,2024-11-23,-43.35002899,-21.75758362,18:03:18,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10073015,19:10,1,0,0,0,2024-11-23,-43.39450073,-21.88364601,19:10,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10069709,19:10,2,0,0,0,2024-11-23,-43.39686608,-21.88139153,19:11:41,AMG-3055 norte
+543,Santa Cordola,10069703,19:10,3,0,0,0,2024-11-23,-43.39629722,-21.87513985,19:12:41,AMG-3055 norte
+543,Santa Cordola,10395513,19:10,4,0,0,0,2024-11-23,-43.40290677,-21.86979013,19:14:07,AMG-3055 norte
+543,Santa Cordola,10069708,19:10,5,0,0,0,2024-11-23,-43.40804267,-21.86567113,19:15:07,AMG-3055 norte
+543,Santa Cordola,10073012,19:10,6,0,0,0,2024-11-23,-43.41494524,-21.85330946,19:17:46,AMG-3055 norte - Entrada MG-353
+543,Santa Cordola,10069712,19:10,7,0,0,0,2024-11-23,-43.41265333,-21.85095448,19:18:26,MG-353 norte
+543,Santa Cordola,10366749,19:10,8,0,0,0,2024-11-23,-43.41152382,-21.8475071,19:19:26,MG-353 norte
+543,Santa Cordola,10069505,19:10,9,0,0,0,2024-11-23,-43.41015351,-21.84132135,19:20:26,MG-353 norte
+543,Santa Cordola,10366751,19:10,10,0,0,0,2024-11-23,-43.40212034,-21.8379827,19:22:19,MG-353 norte
+543,Santa Cordola,10366753,19:10,11,0,0,0,2024-11-23,-43.39338011,-21.84224966,19:23:42,MG-353 norte
+543,Santa Cordola,10366755,19:10,12,0,0,0,2024-11-23,-43.38599867,-21.84241398,19:25:05,MG-353 norte
+543,Santa Cordola,10069506,19:10,13,0,0,0,2024-11-23,-43.38027203,-21.84699059,19:26:24,MG-353 norte
+543,Santa Cordola,10366756,19:10,14,0,0,0,2024-11-23,-43.37364093,-21.83461155,19:29:44,BR-040 norte
+543,Santa Cordola,10074706,19:10,15,0,0,0,2024-11-23,-43.37397629,-21.82766967,19:34:14,BR-040 norte
+543,Santa Cordola,10072861,19:10,16,1,0,1,2024-11-23,-43.37596023,-21.81589731,19:38:43,"Avenida Deusdedith Salgado, 5405"
+543,Santa Cordola,10072859,19:10,17,3,0,4,2024-11-23,-43.37514317,-21.81230216,19:40:03,"Avenida Deusdedith Salgado, 5025"
+543,Santa Cordola,10072858,19:10,18,1,0,5,2024-11-23,-43.37564468,-21.8067894,19:41:43,"Avenida Deusdedith Salgado, 4551"
+543,Santa Cordola,10072805,19:10,19,0,0,5,2024-11-23,-43.37307882,-21.80512163,19:43:02,"Avenida Deusdedith Salgado, 4451"
+543,Santa Cordola,10069614,19:10,20,0,0,5,2024-11-23,-43.37152195,-21.80458631,19:43:22,"Avenida Deusdedith Salgado, 3701"
+543,Santa Cordola,10072817,19:10,21,0,1,4,2024-11-23,-43.36966229,-21.80149184,19:44:42,"Avenida Deusdedith Salgado, 2401"
+543,Santa Cordola,10072816,19:10,22,0,0,4,2024-11-23,-43.36734369,-21.79908456,19:47:02,"Avenida Deusdedith Salgado, 2395"
+543,Santa Cordola,10072821,19:10,23,0,0,4,2024-11-23,-43.3662653,-21.797472,19:48:02,"Avenida Deusdedith Salgado, 2251"
+543,Santa Cordola,10069620,19:10,24,0,0,4,2024-11-23,-43.36567592,-21.79576145,19:49:01,"Avenida Deusdedith Salgado, 2227"
+543,Santa Cordola,10072820,19:10,25,0,0,4,2024-11-23,-43.36605501,-21.79318175,19:49:15,"Avenida Deusdedith Salgado, 1945"
+543,Santa Cordola,10072819,19:10,26,3,1,6,2024-11-23,-43.3649501,-21.79044018,19:49:41,"Avenida Deusdedith Salgado, 1597"
+543,Santa Cordola,10072818,19:10,27,0,2,4,2024-11-23,-43.36378348,-21.78877914,19:51:01,"Avenida Deusdedith Salgado, 1351"
+543,Santa Cordola,10072825,19:10,28,2,0,6,2024-11-23,-43.36238527,-21.7874579,19:51:21,"Avenida Deusdedith Salgado, 1189"
+543,Santa Cordola,10072824,19:10,29,0,0,6,2024-11-23,-43.36330116,-21.78597182,19:51:48,"Avenida Doutor Paulo Japiassu Coelho, 142"
+543,Santa Cordola,10072823,19:10,30,0,0,6,2024-11-23,-43.36475218,-21.78470041,19:52:14,"Avenida Doutor Paulo Japiassu Coelho, 320"
+543,Santa Cordola,10072822,19:10,31,1,0,7,2024-11-23,-43.36497879,-21.78351021,19:52:41,"Avenida Doutor Paulo Japiassu Coelho, 528"
+543,Santa Cordola,10072986,19:10,32,6,1,12,2024-11-23,-43.36368561,-21.78239632,19:54:01,"Avenida Doutor Paulo Japiassu Coelho, 630"
+543,Santa Cordola,10072905,19:10,33,0,1,11,2024-11-23,-43.36211063,-21.78121672,19:55:20,"Avenida Presidente Itamar Franco, 3261"
+543,Santa Cordola,10072911,19:10,34,2,3,10,2024-11-23,-43.35867795,-21.77810902,19:56:40,"Avenida Presidente Itamar Franco, 3001"
+543,Santa Cordola,10069810,19:10,35,0,0,10,2024-11-23,-43.3558315,-21.77566225,19:57:20,"Avenida Presidente Itamar Franco, 2463"
+543,Santa Cordola,10072963,19:10,36,0,0,10,2024-11-23,-43.35470581,-21.77436066,19:58:20,"Avenida Presidente Itamar Franco, 2335"
+543,Santa Cordola,10069811,19:10,37,0,0,10,2024-11-23,-43.35205078,-21.77130127,20:00:39,"Avenida Presidente Itamar Franco, 1901"
+543,Santa Cordola,10073625,19:10,38,0,4,6,2024-11-23,-43.35009754,-21.76843834,20:02:39,"Avenida Presidente Itamar Franco, 1619"
+543,Santa Cordola,10072756,19:10,39,0,2,4,2024-11-23,-43.34879673,-21.76672451,20:02:59,"Avenida Presidente Itamar Franco, 1339"
+543,Santa Cordola,10073014,19:10,40,0,2,2,2024-11-23,-43.347229,-21.76519012,20:04:29,"Avenida Presidente Itamar Franco, 915"
+543,Santa Cordola,10072762,19:10,41,0,2,0,2024-11-23,-43.34470749,-21.76272774,20:05:59,"Avenida Presidente Itamar Franco, 605"
+543,Santa Cordola,10070903,19:10,42,0,0,0,2024-11-23,-43.34353638,-21.75967216,20:06:19,"Avenida Francisco Bernardino, 162"
+543,Santa Cordola,10071270,19:10,43,0,0,0,2024-11-23,-43.35002899,-21.75758362,20:06:39,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10071270,06:00,1,0,0,0,2024-11-30,-43.35002899,-21.75758362,06:00:50,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10070998,06:00,2,1,0,1,2024-11-30,-43.34476793,-21.76163378,06:02:16,"Avenida Getúlio Vargas, 207"
+543,Santa Cordola,10072763,06:00,3,4,0,5,2024-11-30,-43.34768295,-21.76537704,06:03:56,"Avenida Presidente Itamar Franco, 986"
+543,Santa Cordola,10072757,06:00,4,1,0,6,2024-11-30,-43.35034538,-21.76838477,06:06:35,"Avenida Presidente Itamar Franco, 1622"
+543,Santa Cordola,10073013,06:00,5,0,0,6,2024-11-30,-43.35187101,-21.77073128,06:07:35,"Avenida Presidente Itamar Franco, 1840"
+543,Santa Cordola,10072909,06:00,6,0,1,5,2024-11-30,-43.35514824,-21.77467451,06:09:15,"Avenida Presidente Itamar Franco, 2360"
+543,Santa Cordola,10072961,06:00,7,1,0,6,2024-11-30,-43.35676165,-21.77592644,06:09:55,"Avenida Presidente Itamar Franco, 2520"
+543,Santa Cordola,10072987,06:00,8,0,2,4,2024-11-30,-43.3590889,-21.77818298,06:11:15,"Avenida Presidente Itamar Franco, 3050"
+543,Santa Cordola,10072904,06:00,9,0,0,4,2024-11-30,-43.3638649,-21.78231812,06:14:36,"Avenida Doutor Paulo Japiassu Coelho, 605"
+543,Santa Cordola,10072984,06:00,10,0,0,4,2024-11-30,-43.36533785,-21.78362889,06:15:56,"Avenida Doutor Paulo Japiassu Coelho, 401"
+543,Santa Cordola,10072982,06:00,11,0,0,4,2024-11-30,-43.36433411,-21.78536797,06:16:16,"Avenida Doutor Paulo Japiassu Coelho, 213"
+543,Santa Cordola,10072992,06:00,12,3,0,7,2024-11-30,-43.36269879,-21.78680992,06:16:36,"Avenida Doutor Paulo Japiassu Coelho, 109"
+543,Santa Cordola,10072990,06:00,13,0,0,7,2024-11-30,-43.36355007,-21.78815539,06:17:36,"Avenida Deusdedith Salgado, 1298"
+543,Santa Cordola,10211497,06:00,14,1,0,8,2024-11-30,-43.36520698,-21.79056606,06:18:36,"Avenida Deusdedith Salgado, 1600"
+543,Santa Cordola,10072988,06:00,15,0,0,8,2024-11-30,-43.36581349,-21.79168844,06:19:36,"Avenida Deusdedith Salgado, 1700"
+543,Santa Cordola,10072831,06:00,16,1,0,9,2024-11-30,-43.36662269,-21.79708597,06:20:36,"Avenida Deusdedith Salgado, 2200"
+543,Santa Cordola,10072829,06:00,17,0,0,9,2024-11-30,-43.37030696,-21.80254597,06:21:56,"Avenida Deusdedith Salgado, 2800"
+543,Santa Cordola,10072852,06:00,18,0,5,4,2024-11-30,-43.37226558,-21.80410544,06:22:15,"Avenida Deusdedith Salgado, 3800"
+543,Santa Cordola,10072857,06:00,19,0,0,4,2024-11-30,-43.37626195,-21.80717204,06:23:36,"Avenida Deusdedith Salgado, 4550"
+543,Santa Cordola,10072856,06:00,20,0,4,0,2024-11-30,-43.37553072,-21.81243939,06:24:56,"Avenida Deusdedith Salgado, 5050"
+543,Santa Cordola,10072854,06:00,21,1,0,1,2024-11-30,-43.37596583,-21.81434748,06:25:35,"Avenida Deusdedith Salgado, 4570"
+543,Santa Cordola,10072853,06:00,22,0,0,1,2024-11-30,-43.37654185,-21.81668091,06:26:35,"Avenida Deusdedith Salgado, 5450"
+543,Santa Cordola,10072259,06:00,23,0,0,1,2024-11-30,-43.37495864,-21.82508276,06:28:16,BR-040 sul
+543,Santa Cordola,10074703,06:00,24,0,0,1,2024-11-30,-43.374897,-21.83651543,06:29:56,BR-040 sul
+543,Santa Cordola,10074700,06:00,25,0,0,1,2024-11-30,-43.38006973,-21.84679031,06:31:56,MG-353 sul
+543,Santa Cordola,10366754,06:00,26,0,0,1,2024-11-30,-43.38606841,-21.84224468,06:33:16,MG-353 sul
+543,Santa Cordola,10366752,06:00,27,0,0,1,2024-11-30,-43.39340157,-21.84213514,06:34:16,MG-353 sul
+543,Santa Cordola,10366750,06:00,28,0,0,1,2024-11-30,-43.40201305,-21.83781339,06:35:31,MG-353 sul
+543,Santa Cordola,10074720,06:00,29,0,0,1,2024-11-30,-43.4103703,-21.84145694,06:37:15,MG-353 sul
+543,Santa Cordola,10366748,06:00,30,0,0,1,2024-11-30,-43.41173303,-21.84740752,06:37:56,MG-353 sul
+543,Santa Cordola,10074718,06:00,31,0,1,0,2024-11-30,-43.41294969,-21.85101665,06:38:36,MG-353 sul
+543,Santa Cordola,10069711,06:00,32,0,0,0,2024-11-30,-43.41500854,-21.85347366,06:39:33,AMG-3055 sul - Entrada MG-353
+543,Santa Cordola,10069701,06:00,33,0,0,0,2024-11-30,-43.40818525,-21.8658401,06:42:16,AMG-3055 sul
+543,Santa Cordola,10395514,06:00,34,0,0,0,2024-11-30,-43.40304625,-21.86991956,06:43:16,AMG-3055 sul
+543,Santa Cordola,10069713,06:00,35,0,0,0,2024-11-30,-43.39654863,-21.87529801,06:44:13,AMG-3055 sul
+543,Santa Cordola,10069710,06:00,36,0,0,0,2024-11-30,-43.3971746,-21.88147187,06:45:10,AMG-3055 sul
+543,Santa Cordola,10073015,06:00,37,0,0,0,2024-11-30,-43.39450073,-21.88364601,06:45:10,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10071270,11:45,1,0,0,0,2024-11-30,-43.35002899,-21.75758362,11:45,"Avenida Getúlio Vargas, 901"
+543,Santa Cordola,10070998,11:45,2,7,0,7,2024-11-30,-43.34476793,-21.76163378,11:47:21,"Avenida Getúlio Vargas, 207"
+543,Santa Cordola,10072763,11:45,3,6,0,13,2024-11-30,-43.34768295,-21.76537704,11:53:41,"Avenida Presidente Itamar Franco, 986"
+543,Santa Cordola,10072757,11:45,4,0,0,13,2024-11-30,-43.35034538,-21.76838477,11:57:21,"Avenida Presidente Itamar Franco, 1622"
+543,Santa Cordola,10073013,11:45,5,1,0,14,2024-11-30,-43.35187101,-21.77073128,12:01:01,"Avenida Presidente Itamar Franco, 1840"
+543,Santa Cordola,10072909,11:45,6,0,1,13,2024-11-30,-43.35514824,-21.77467451,12:03:01,"Avenida Presidente Itamar Franco, 2360"
+543,Santa Cordola,10072961,11:45,7,0,0,13,2024-11-30,-43.35676165,-21.77592644,12:03:21,"Avenida Presidente Itamar Franco, 2520"
+543,Santa Cordola,10072987,11:45,8,0,2,11,2024-11-30,-43.3590889,-21.77818298,12:04:41,"Avenida Presidente Itamar Franco, 3050"
+543,Santa Cordola,10072904,11:45,9,0,0,11,2024-11-30,-43.3638649,-21.78231812,12:06:21,"Avenida Doutor Paulo Japiassu Coelho, 605"
+543,Santa Cordola,10072984,11:45,10,0,0,11,2024-11-30,-43.36533785,-21.78362889,12:07:01,"Avenida Doutor Paulo Japiassu Coelho, 401"
+543,Santa Cordola,10072982,11:45,11,0,0,11,2024-11-30,-43.36433411,-21.78536797,12:07:21,"Avenida Doutor Paulo Japiassu Coelho, 213"
+543,Santa Cordola,10072992,11:45,12,0,0,11,2024-11-30,-43.36269879,-21.78680992,12:08:41,"Avenida Doutor Paulo Japiassu Coelho, 109"
+543,Santa Cordola,10072990,11:45,13,0,0,11,2024-11-30,-43.36355007,-21.78815539,12:09:21,"Avenida Deusdedith Salgado, 1298"
+543,Santa Cordola,10211497,11:45,14,0,0,11,2024-11-30,-43.36520698,-21.79056606,12:10:01,"Avenida Deusdedith Salgado, 1600"
+543,Santa Cordola,10072988,11:45,15,0,0,11,2024-11-30,-43.36581349,-21.79168844,12:10:41,"Avenida Deusdedith Salgado, 1700"
+543,Santa Cordola,10072831,11:45,16,1,0,12,2024-11-30,-43.36662269,-21.79708597,12:11:41,"Avenida Deusdedith Salgado, 2200"
+543,Santa Cordola,10072829,11:45,17,0,0,12,2024-11-30,-43.37030696,-21.80254597,12:13:01,"Avenida Deusdedith Salgado, 2800"
+543,Santa Cordola,10072852,11:45,18,0,5,7,2024-11-30,-43.37226558,-21.80410544,12:13:21,"Avenida Deusdedith Salgado, 3800"
+543,Santa Cordola,10072857,11:45,19,0,0,7,2024-11-30,-43.37626195,-21.80717204,12:14:21,"Avenida Deusdedith Salgado, 4550"
+543,Santa Cordola,10072856,11:45,20,0,6,1,2024-11-30,-43.37553072,-21.81243939,12:16:01,"Avenida Deusdedith Salgado, 5050"
+543,Santa Cordola,10072854,11:45,21,0,0,1,2024-11-30,-43.37596583,-21.81434748,12:16:41,"Avenida Deusdedith Salgado, 4570"
+543,Santa Cordola,10072853,11:45,22,1,0,2,2024-11-30,-43.37654185,-21.81668091,12:17:21,"Avenida Deusdedith Salgado, 5450"
+543,Santa Cordola,10072259,11:45,23,0,0,2,2024-11-30,-43.37495864,-21.82508276,12:19:01,BR-040 sul
+543,Santa Cordola,10074703,11:45,24,0,0,2,2024-11-30,-43.374897,-21.83651543,12:20:41,BR-040 sul
+543,Santa Cordola,10074700,11:45,25,0,0,2,2024-11-30,-43.38006973,-21.84679031,12:22:01,MG-353 sul
+543,Santa Cordola,10366754,11:45,26,0,0,2,2024-11-30,-43.38606841,-21.84224468,12:23:01,MG-353 sul
+543,Santa Cordola,10366752,11:45,27,0,0,2,2024-11-30,-43.39340157,-21.84213514,12:24:01,MG-353 sul
+543,Santa Cordola,10366750,11:45,28,0,0,2,2024-11-30,-43.40201305,-21.83781339,12:25:13,MG-353 sul
+543,Santa Cordola,10074720,11:45,29,0,0,2,2024-11-30,-43.4103703,-21.84145694,12:26:27,MG-353 sul
+543,Santa Cordola,10366748,11:45,30,0,0,2,2024-11-30,-43.41173303,-21.84740752,12:27:41,MG-353 sul
+543,Santa Cordola,10074718,11:45,31,1,1,2,2024-11-30,-43.41294969,-21.85101665,12:28:21,MG-353 sul
+543,Santa Cordola,10069711,11:45,32,0,0,2,2024-11-30,-43.41500854,-21.85347366,12:29:21,AMG-3055 sul - Entrada MG-353
+543,Santa Cordola,10069701,11:45,33,0,0,2,2024-11-30,-43.40818525,-21.8658401,12:31:41,AMG-3055 sul
+543,Santa Cordola,10395514,11:45,34,0,0,2,2024-11-30,-43.40304625,-21.86991956,12:32:41,AMG-3055 sul
+543,Santa Cordola,10069713,11:45,35,0,0,2,2024-11-30,-43.39654863,-21.87529801,12:33:41,AMG-3055 sul
+543,Santa Cordola,10069710,11:45,36,0,0,2,2024-11-30,-43.3971746,-21.88147187,12:34:57,AMG-3055 sul
+543,Santa Cordola,10073015,11:45,37,0,0,2,2024-11-30,-43.39450073,-21.88364601,12:34:57,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10073015,19:10,1,0,0,0,2024-11-30,-43.39450073,-21.88364601,19:10,AMG-3055 norte - Ponto Final do Santa Córdula
+543,Santa Cordola,10069709,19:10,2,0,0,0,2024-11-30,-43.39686608,-21.88139153,19:10:45,AMG-3055 norte
+543,Santa Cordola,10069703,19:10,3,0,0,0,2024-11-30,-43.39629722,-21.87513985,19:11:52,AMG-3055 norte
+543,Santa Cordola,10395513,19:10,4,0,0,0,2024-11-30,-43.40290677,-21.86979013,19:12:52,AMG-3055 norte
+543,Santa Cordola,10069708,19:10,5,0,0,0,2024-11-30,-43.40804267,-21.86567113,19:14:32,AMG-3055 norte
+543,Santa Cordola,10073012,19:10,6,0,0,0,2024-11-30,-43.41494524,-21.85330946,19:16:12,AMG-3055 norte - Entrada MG-353
+543,Santa Cordola,10069712,19:10,7,1,0,1,2024-11-30,-43.41265333,-21.85095448,19:16:53,MG-353 norte
+543,Santa Cordola,10366749,19:10,8,0,0,1,2024-11-30,-43.41152382,-21.8475071,19:17:52,MG-353 norte
+543,Santa Cordola,10069505,19:10,9,0,0,1,2024-11-30,-43.41015351,-21.84132135,19:18:52,MG-353 norte
+543,Santa Cordola,10366751,19:10,10,0,0,1,2024-11-30,-43.40212034,-21.8379827,19:20:44,MG-353 norte
+543,Santa Cordola,10366753,19:10,11,0,0,1,2024-11-30,-43.39338011,-21.84224966,19:22:12,MG-353 norte
+543,Santa Cordola,10366755,19:10,12,0,0,1,2024-11-30,-43.38599867,-21.84241398,19:23:13,MG-353 norte
+543,Santa Cordola,10069506,19:10,13,0,0,1,2024-11-30,-43.38027203,-21.84699059,19:24:12,MG-353 norte
+543,Santa Cordola,10366756,19:10,14,0,0,1,2024-11-30,-43.37364093,-21.83461155,19:25:42,BR-040 norte
+543,Santa Cordola,10074706,19:10,15,0,0,1,2024-11-30,-43.37397629,-21.82766967,19:27:12,BR-040 norte
+543,Santa Cordola,10072861,19:10,16,0,1,0,2024-11-30,-43.37596023,-21.81589731,19:28:43,"Avenida Deusdedith Salgado, 5405"
+543,Santa Cordola,10072859,19:10,17,6,0,6,2024-11-30,-43.37514317,-21.81230216,19:30:13,"Avenida Deusdedith Salgado, 5025"
+543,Santa Cordola,10072858,19:10,18,0,0,6,2024-11-30,-43.37564468,-21.8067894,19:32:13,"Avenida Deusdedith Salgado, 4551"
+543,Santa Cordola,10072805,19:10,19,0,0,6,2024-11-30,-43.37307882,-21.80512163,19:32:53,"Avenida Deusdedith Salgado, 4451"
+543,Santa Cordola,10069614,19:10,20,5,0,11,2024-11-30,-43.37152195,-21.80458631,19:33:13,"Avenida Deusdedith Salgado, 3701"
+543,Santa Cordola,10072817,19:10,21,0,0,11,2024-11-30,-43.36966229,-21.80149184,19:34:33,"Avenida Deusdedith Salgado, 2401"
+543,Santa Cordola,10072816,19:10,22,0,1,10,2024-11-30,-43.36734369,-21.79908456,19:34:53,"Avenida Deusdedith Salgado, 2395"
+543,Santa Cordola,10072821,19:10,23,0,1,9,2024-11-30,-43.3662653,-21.797472,19:35:13,"Avenida Deusdedith Salgado, 2251"
+543,Santa Cordola,10069620,19:10,24,0,1,8,2024-11-30,-43.36567592,-21.79576145,19:35:33,"Avenida Deusdedith Salgado, 2227"
+543,Santa Cordola,10072820,19:10,25,0,0,8,2024-11-30,-43.36605501,-21.79318175,19:35:53,"Avenida Deusdedith Salgado, 1945"
+543,Santa Cordola,10072819,19:10,26,0,0,8,2024-11-30,-43.3649501,-21.79044018,19:36:33,"Avenida Deusdedith Salgado, 1597"
+543,Santa Cordola,10072818,19:10,27,0,0,8,2024-11-30,-43.36378348,-21.78877914,19:36:53,"Avenida Deusdedith Salgado, 1351"
+543,Santa Cordola,10072825,19:10,28,0,0,8,2024-11-30,-43.36238527,-21.7874579,19:37:13,"Avenida Deusdedith Salgado, 1189"
+543,Santa Cordola,10072824,19:10,29,0,0,8,2024-11-30,-43.36330116,-21.78597182,19:37:53,"Avenida Doutor Paulo Japiassu Coelho, 142"
+543,Santa Cordola,10072823,19:10,30,0,0,8,2024-11-30,-43.36475218,-21.78470041,19:38:13,"Avenida Doutor Paulo Japiassu Coelho, 320"
+543,Santa Cordola,10072822,19:10,31,0,0,8,2024-11-30,-43.36497879,-21.78351021,19:38:53,"Avenida Doutor Paulo Japiassu Coelho, 528"
+543,Santa Cordola,10072986,19:10,32,0,0,8,2024-11-30,-43.36368561,-21.78239632,19:39:53,"Avenida Doutor Paulo Japiassu Coelho, 630"
+543,Santa Cordola,10072905,19:10,33,0,0,8,2024-11-30,-43.36211063,-21.78121672,19:40:53,"Avenida Presidente Itamar Franco, 3261"
+543,Santa Cordola,10072911,19:10,34,2,0,10,2024-11-30,-43.35867795,-21.77810902,19:42:13,"Avenida Presidente Itamar Franco, 3001"
+543,Santa Cordola,10069810,19:10,35,0,0,10,2024-11-30,-43.3558315,-21.77566225,19:43:33,"Avenida Presidente Itamar Franco, 2463"
+543,Santa Cordola,10072963,19:10,36,1,0,11,2024-11-30,-43.35470581,-21.77436066,19:44:53,"Avenida Presidente Itamar Franco, 2335"
+543,Santa Cordola,10069811,19:10,37,0,1,10,2024-11-30,-43.35205078,-21.77130127,19:46:53,"Avenida Presidente Itamar Franco, 1901"
+543,Santa Cordola,10073625,19:10,38,0,0,10,2024-11-30,-43.35009754,-21.76843834,19:49:13,"Avenida Presidente Itamar Franco, 1619"
+543,Santa Cordola,10072756,19:10,39,0,6,4,2024-11-30,-43.34879673,-21.76672451,19:49:33,"Avenida Presidente Itamar Franco, 1339"
+543,Santa Cordola,10073014,19:10,40,0,4,0,2024-11-30,-43.347229,-21.76519012,19:51:03,"Avenida Presidente Itamar Franco, 915"
+543,Santa Cordola,10072762,19:10,41,0,0,0,2024-11-30,-43.34470749,-21.76272774,19:52:33,"Avenida Presidente Itamar Franco, 605"
+543,Santa Cordola,10070903,19:10,42,0,0,0,2024-11-30,-43.34353638,-21.75967216,19:52:53,"Avenida Francisco Bernardino, 162"
+543,Santa Cordola,10071270,19:10,43,0,0,0,2024-11-30,-43.35002899,-21.75758362,19:53:13,"Avenida Getúlio Vargas, 901"

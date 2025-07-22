@@ -210,7 +210,7 @@ filtered_df=df2.copy()
 #     filtered_df.sort_values(by='stopsequence', inplace=True)
 
 # Create two tabs
-tab1, tab2, tab3 = st.tabs(["Routes Heatmap", "Bus Boarding/Time", "Board-Landing"])
+tab1, tab2, tab3, tab4,  = st.tabs(["Routes Heatmap", "Bus Boarding/Time", "Bus Boarding/Time Acummulated", "Board-Landing"])
 
 # Tab 1: Routes Heatmap
 with tab1:
@@ -402,6 +402,60 @@ with tab2:
         st.warning("No data available for the selected filters.")
          
 with tab3:
+    # st.header("Bus Occupation")
+    st.write("This tab shows the accumulated occupation percentage of buses across all routes over time.")
+    
+    # Make a copy of the dataframe and filter if needed
+    filtered_df = df3.copy()
+    #print(filtered_df)
+    if not filtered_df.empty:
+        # Group by 'hour' and sum the selected data_type across all routes
+        accumulated_df = filtered_df.groupby('hour')[data_type].sum().reset_index()
+    
+        # Plot the accumulated values
+        fig = px.line(
+            accumulated_df,
+            x='hour',
+            y=data_type,
+            hover_data=['hour', data_type],
+            markers=True,
+            color_discrete_sequence=["#007BFF"],  # Single color for the line
+            height=600
+        )
+    
+        # Customize layout
+        fig.update_layout(
+            xaxis_title='Hour',
+            yaxis_title=f'Total {data_type.capitalize()}',
+            legend_title='Accumulated',
+            hovermode='x unified',
+            plot_bgcolor='rgba(0,0,0,0)',
+            margin=dict(l=20, r=20, t=30, b=20),
+            font=dict(
+                family="Arial",
+                size=18,
+                color="black"
+            ),
+            xaxis=dict(
+                title_font=dict(size=20),
+                tickfont=dict(size=18)
+            ),
+            yaxis=dict(
+                title_font=dict(size=20),
+                tickfont=dict(size=18)
+            )
+        )
+    
+        # Style the line and markers
+        fig.update_traces(line=dict(width=4), marker=dict(size=12))
+    
+        # Display the chart
+        st.plotly_chart(fig, use_container_width=True)
+    
+    else:
+        st.warning("No data available for the selected filters.")    
+
+with tab4:
     
     # Upload do arquivo CSV
     uploaded_file = st.file_uploader("Envie o arquivo CSV com os dados de transporte", type="csv")
