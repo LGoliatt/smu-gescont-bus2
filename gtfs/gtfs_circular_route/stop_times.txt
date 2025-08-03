@@ -1,433 +1,433 @@
-trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_type
-trip_circular_01_000,06:00:00,06:00:00,stop_1,1,0,0
-trip_circular_01_000,06:01:00,06:01:00,stop_2,2,0,0
-trip_circular_01_000,06:02:00,06:02:00,stop_3,3,0,0
-trip_circular_01_000,06:03:00,06:03:00,stop_4,4,0,0
-trip_circular_01_000,06:04:00,06:04:00,stop_5,5,0,0
-trip_circular_01_000,06:05:00,06:05:00,stop_6,6,0,0
-trip_circular_01_000,06:06:00,06:06:00,stop_7,7,0,0
-trip_circular_01_000,06:07:00,06:07:00,stop_8,8,0,0
-trip_circular_01_000,06:08:00,06:08:00,stop_9,9,0,0
-trip_circular_01_001,06:30:00,06:30:00,stop_1,1,0,0
-trip_circular_01_001,06:31:00,06:31:00,stop_2,2,0,0
-trip_circular_01_001,06:32:00,06:32:00,stop_3,3,0,0
-trip_circular_01_001,06:33:00,06:33:00,stop_4,4,0,0
-trip_circular_01_001,06:34:00,06:34:00,stop_5,5,0,0
-trip_circular_01_001,06:35:00,06:35:00,stop_6,6,0,0
-trip_circular_01_001,06:36:00,06:36:00,stop_7,7,0,0
-trip_circular_01_001,06:37:00,06:37:00,stop_8,8,0,0
-trip_circular_01_001,06:38:00,06:38:00,stop_9,9,0,0
-trip_circular_01_002,07:00:00,07:00:00,stop_1,1,0,0
-trip_circular_01_002,07:01:00,07:01:00,stop_2,2,0,0
-trip_circular_01_002,07:02:00,07:02:00,stop_3,3,0,0
-trip_circular_01_002,07:03:00,07:03:00,stop_4,4,0,0
-trip_circular_01_002,07:04:00,07:04:00,stop_5,5,0,0
-trip_circular_01_002,07:05:00,07:05:00,stop_6,6,0,0
-trip_circular_01_002,07:06:00,07:06:00,stop_7,7,0,0
-trip_circular_01_002,07:07:00,07:07:00,stop_8,8,0,0
-trip_circular_01_002,07:08:00,07:08:00,stop_9,9,0,0
-trip_circular_01_003,07:30:00,07:30:00,stop_1,1,0,0
-trip_circular_01_003,07:31:00,07:31:00,stop_2,2,0,0
-trip_circular_01_003,07:32:00,07:32:00,stop_3,3,0,0
-trip_circular_01_003,07:33:00,07:33:00,stop_4,4,0,0
-trip_circular_01_003,07:34:00,07:34:00,stop_5,5,0,0
-trip_circular_01_003,07:35:00,07:35:00,stop_6,6,0,0
-trip_circular_01_003,07:36:00,07:36:00,stop_7,7,0,0
-trip_circular_01_003,07:37:00,07:37:00,stop_8,8,0,0
-trip_circular_01_003,07:38:00,07:38:00,stop_9,9,0,0
-trip_circular_01_004,08:00:00,08:00:00,stop_1,1,0,0
-trip_circular_01_004,08:01:00,08:01:00,stop_2,2,0,0
-trip_circular_01_004,08:02:00,08:02:00,stop_3,3,0,0
-trip_circular_01_004,08:03:00,08:03:00,stop_4,4,0,0
-trip_circular_01_004,08:04:00,08:04:00,stop_5,5,0,0
-trip_circular_01_004,08:05:00,08:05:00,stop_6,6,0,0
-trip_circular_01_004,08:06:00,08:06:00,stop_7,7,0,0
-trip_circular_01_004,08:07:00,08:07:00,stop_8,8,0,0
-trip_circular_01_004,08:08:00,08:08:00,stop_9,9,0,0
-trip_circular_01_005,08:30:00,08:30:00,stop_1,1,0,0
-trip_circular_01_005,08:31:00,08:31:00,stop_2,2,0,0
-trip_circular_01_005,08:32:00,08:32:00,stop_3,3,0,0
-trip_circular_01_005,08:33:00,08:33:00,stop_4,4,0,0
-trip_circular_01_005,08:34:00,08:34:00,stop_5,5,0,0
-trip_circular_01_005,08:35:00,08:35:00,stop_6,6,0,0
-trip_circular_01_005,08:36:00,08:36:00,stop_7,7,0,0
-trip_circular_01_005,08:37:00,08:37:00,stop_8,8,0,0
-trip_circular_01_005,08:38:00,08:38:00,stop_9,9,0,0
-trip_circular_01_006,09:00:00,09:00:00,stop_1,1,0,0
-trip_circular_01_006,09:01:00,09:01:00,stop_2,2,0,0
-trip_circular_01_006,09:02:00,09:02:00,stop_3,3,0,0
-trip_circular_01_006,09:03:00,09:03:00,stop_4,4,0,0
-trip_circular_01_006,09:04:00,09:04:00,stop_5,5,0,0
-trip_circular_01_006,09:05:00,09:05:00,stop_6,6,0,0
-trip_circular_01_006,09:06:00,09:06:00,stop_7,7,0,0
-trip_circular_01_006,09:07:00,09:07:00,stop_8,8,0,0
-trip_circular_01_006,09:08:00,09:08:00,stop_9,9,0,0
-trip_circular_01_007,09:30:00,09:30:00,stop_1,1,0,0
-trip_circular_01_007,09:31:00,09:31:00,stop_2,2,0,0
-trip_circular_01_007,09:32:00,09:32:00,stop_3,3,0,0
-trip_circular_01_007,09:33:00,09:33:00,stop_4,4,0,0
-trip_circular_01_007,09:34:00,09:34:00,stop_5,5,0,0
-trip_circular_01_007,09:35:00,09:35:00,stop_6,6,0,0
-trip_circular_01_007,09:36:00,09:36:00,stop_7,7,0,0
-trip_circular_01_007,09:37:00,09:37:00,stop_8,8,0,0
-trip_circular_01_007,09:38:00,09:38:00,stop_9,9,0,0
-trip_circular_01_008,10:00:00,10:00:00,stop_1,1,0,0
-trip_circular_01_008,10:01:00,10:01:00,stop_2,2,0,0
-trip_circular_01_008,10:02:00,10:02:00,stop_3,3,0,0
-trip_circular_01_008,10:03:00,10:03:00,stop_4,4,0,0
-trip_circular_01_008,10:04:00,10:04:00,stop_5,5,0,0
-trip_circular_01_008,10:05:00,10:05:00,stop_6,6,0,0
-trip_circular_01_008,10:06:00,10:06:00,stop_7,7,0,0
-trip_circular_01_008,10:07:00,10:07:00,stop_8,8,0,0
-trip_circular_01_008,10:08:00,10:08:00,stop_9,9,0,0
-trip_circular_01_009,10:30:00,10:30:00,stop_1,1,0,0
-trip_circular_01_009,10:31:00,10:31:00,stop_2,2,0,0
-trip_circular_01_009,10:32:00,10:32:00,stop_3,3,0,0
-trip_circular_01_009,10:33:00,10:33:00,stop_4,4,0,0
-trip_circular_01_009,10:34:00,10:34:00,stop_5,5,0,0
-trip_circular_01_009,10:35:00,10:35:00,stop_6,6,0,0
-trip_circular_01_009,10:36:00,10:36:00,stop_7,7,0,0
-trip_circular_01_009,10:37:00,10:37:00,stop_8,8,0,0
-trip_circular_01_009,10:38:00,10:38:00,stop_9,9,0,0
-trip_circular_01_010,11:00:00,11:00:00,stop_1,1,0,0
-trip_circular_01_010,11:01:00,11:01:00,stop_2,2,0,0
-trip_circular_01_010,11:02:00,11:02:00,stop_3,3,0,0
-trip_circular_01_010,11:03:00,11:03:00,stop_4,4,0,0
-trip_circular_01_010,11:04:00,11:04:00,stop_5,5,0,0
-trip_circular_01_010,11:05:00,11:05:00,stop_6,6,0,0
-trip_circular_01_010,11:06:00,11:06:00,stop_7,7,0,0
-trip_circular_01_010,11:07:00,11:07:00,stop_8,8,0,0
-trip_circular_01_010,11:08:00,11:08:00,stop_9,9,0,0
-trip_circular_01_011,11:30:00,11:30:00,stop_1,1,0,0
-trip_circular_01_011,11:31:00,11:31:00,stop_2,2,0,0
-trip_circular_01_011,11:32:00,11:32:00,stop_3,3,0,0
-trip_circular_01_011,11:33:00,11:33:00,stop_4,4,0,0
-trip_circular_01_011,11:34:00,11:34:00,stop_5,5,0,0
-trip_circular_01_011,11:35:00,11:35:00,stop_6,6,0,0
-trip_circular_01_011,11:36:00,11:36:00,stop_7,7,0,0
-trip_circular_01_011,11:37:00,11:37:00,stop_8,8,0,0
-trip_circular_01_011,11:38:00,11:38:00,stop_9,9,0,0
-trip_circular_01_012,12:00:00,12:00:00,stop_1,1,0,0
-trip_circular_01_012,12:01:00,12:01:00,stop_2,2,0,0
-trip_circular_01_012,12:02:00,12:02:00,stop_3,3,0,0
-trip_circular_01_012,12:03:00,12:03:00,stop_4,4,0,0
-trip_circular_01_012,12:04:00,12:04:00,stop_5,5,0,0
-trip_circular_01_012,12:05:00,12:05:00,stop_6,6,0,0
-trip_circular_01_012,12:06:00,12:06:00,stop_7,7,0,0
-trip_circular_01_012,12:07:00,12:07:00,stop_8,8,0,0
-trip_circular_01_012,12:08:00,12:08:00,stop_9,9,0,0
-trip_circular_01_013,12:30:00,12:30:00,stop_1,1,0,0
-trip_circular_01_013,12:31:00,12:31:00,stop_2,2,0,0
-trip_circular_01_013,12:32:00,12:32:00,stop_3,3,0,0
-trip_circular_01_013,12:33:00,12:33:00,stop_4,4,0,0
-trip_circular_01_013,12:34:00,12:34:00,stop_5,5,0,0
-trip_circular_01_013,12:35:00,12:35:00,stop_6,6,0,0
-trip_circular_01_013,12:36:00,12:36:00,stop_7,7,0,0
-trip_circular_01_013,12:37:00,12:37:00,stop_8,8,0,0
-trip_circular_01_013,12:38:00,12:38:00,stop_9,9,0,0
-trip_circular_01_014,13:00:00,13:00:00,stop_1,1,0,0
-trip_circular_01_014,13:01:00,13:01:00,stop_2,2,0,0
-trip_circular_01_014,13:02:00,13:02:00,stop_3,3,0,0
-trip_circular_01_014,13:03:00,13:03:00,stop_4,4,0,0
-trip_circular_01_014,13:04:00,13:04:00,stop_5,5,0,0
-trip_circular_01_014,13:05:00,13:05:00,stop_6,6,0,0
-trip_circular_01_014,13:06:00,13:06:00,stop_7,7,0,0
-trip_circular_01_014,13:07:00,13:07:00,stop_8,8,0,0
-trip_circular_01_014,13:08:00,13:08:00,stop_9,9,0,0
-trip_circular_01_015,13:30:00,13:30:00,stop_1,1,0,0
-trip_circular_01_015,13:31:00,13:31:00,stop_2,2,0,0
-trip_circular_01_015,13:32:00,13:32:00,stop_3,3,0,0
-trip_circular_01_015,13:33:00,13:33:00,stop_4,4,0,0
-trip_circular_01_015,13:34:00,13:34:00,stop_5,5,0,0
-trip_circular_01_015,13:35:00,13:35:00,stop_6,6,0,0
-trip_circular_01_015,13:36:00,13:36:00,stop_7,7,0,0
-trip_circular_01_015,13:37:00,13:37:00,stop_8,8,0,0
-trip_circular_01_015,13:38:00,13:38:00,stop_9,9,0,0
-trip_circular_01_016,14:00:00,14:00:00,stop_1,1,0,0
-trip_circular_01_016,14:01:00,14:01:00,stop_2,2,0,0
-trip_circular_01_016,14:02:00,14:02:00,stop_3,3,0,0
-trip_circular_01_016,14:03:00,14:03:00,stop_4,4,0,0
-trip_circular_01_016,14:04:00,14:04:00,stop_5,5,0,0
-trip_circular_01_016,14:05:00,14:05:00,stop_6,6,0,0
-trip_circular_01_016,14:06:00,14:06:00,stop_7,7,0,0
-trip_circular_01_016,14:07:00,14:07:00,stop_8,8,0,0
-trip_circular_01_016,14:08:00,14:08:00,stop_9,9,0,0
-trip_circular_01_017,14:30:00,14:30:00,stop_1,1,0,0
-trip_circular_01_017,14:31:00,14:31:00,stop_2,2,0,0
-trip_circular_01_017,14:32:00,14:32:00,stop_3,3,0,0
-trip_circular_01_017,14:33:00,14:33:00,stop_4,4,0,0
-trip_circular_01_017,14:34:00,14:34:00,stop_5,5,0,0
-trip_circular_01_017,14:35:00,14:35:00,stop_6,6,0,0
-trip_circular_01_017,14:36:00,14:36:00,stop_7,7,0,0
-trip_circular_01_017,14:37:00,14:37:00,stop_8,8,0,0
-trip_circular_01_017,14:38:00,14:38:00,stop_9,9,0,0
-trip_circular_01_018,15:00:00,15:00:00,stop_1,1,0,0
-trip_circular_01_018,15:01:00,15:01:00,stop_2,2,0,0
-trip_circular_01_018,15:02:00,15:02:00,stop_3,3,0,0
-trip_circular_01_018,15:03:00,15:03:00,stop_4,4,0,0
-trip_circular_01_018,15:04:00,15:04:00,stop_5,5,0,0
-trip_circular_01_018,15:05:00,15:05:00,stop_6,6,0,0
-trip_circular_01_018,15:06:00,15:06:00,stop_7,7,0,0
-trip_circular_01_018,15:07:00,15:07:00,stop_8,8,0,0
-trip_circular_01_018,15:08:00,15:08:00,stop_9,9,0,0
-trip_circular_01_019,15:30:00,15:30:00,stop_1,1,0,0
-trip_circular_01_019,15:31:00,15:31:00,stop_2,2,0,0
-trip_circular_01_019,15:32:00,15:32:00,stop_3,3,0,0
-trip_circular_01_019,15:33:00,15:33:00,stop_4,4,0,0
-trip_circular_01_019,15:34:00,15:34:00,stop_5,5,0,0
-trip_circular_01_019,15:35:00,15:35:00,stop_6,6,0,0
-trip_circular_01_019,15:36:00,15:36:00,stop_7,7,0,0
-trip_circular_01_019,15:37:00,15:37:00,stop_8,8,0,0
-trip_circular_01_019,15:38:00,15:38:00,stop_9,9,0,0
-trip_circular_01_020,16:00:00,16:00:00,stop_1,1,0,0
-trip_circular_01_020,16:01:00,16:01:00,stop_2,2,0,0
-trip_circular_01_020,16:02:00,16:02:00,stop_3,3,0,0
-trip_circular_01_020,16:03:00,16:03:00,stop_4,4,0,0
-trip_circular_01_020,16:04:00,16:04:00,stop_5,5,0,0
-trip_circular_01_020,16:05:00,16:05:00,stop_6,6,0,0
-trip_circular_01_020,16:06:00,16:06:00,stop_7,7,0,0
-trip_circular_01_020,16:07:00,16:07:00,stop_8,8,0,0
-trip_circular_01_020,16:08:00,16:08:00,stop_9,9,0,0
-trip_circular_01_021,16:30:00,16:30:00,stop_1,1,0,0
-trip_circular_01_021,16:31:00,16:31:00,stop_2,2,0,0
-trip_circular_01_021,16:32:00,16:32:00,stop_3,3,0,0
-trip_circular_01_021,16:33:00,16:33:00,stop_4,4,0,0
-trip_circular_01_021,16:34:00,16:34:00,stop_5,5,0,0
-trip_circular_01_021,16:35:00,16:35:00,stop_6,6,0,0
-trip_circular_01_021,16:36:00,16:36:00,stop_7,7,0,0
-trip_circular_01_021,16:37:00,16:37:00,stop_8,8,0,0
-trip_circular_01_021,16:38:00,16:38:00,stop_9,9,0,0
-trip_circular_01_022,17:00:00,17:00:00,stop_1,1,0,0
-trip_circular_01_022,17:01:00,17:01:00,stop_2,2,0,0
-trip_circular_01_022,17:02:00,17:02:00,stop_3,3,0,0
-trip_circular_01_022,17:03:00,17:03:00,stop_4,4,0,0
-trip_circular_01_022,17:04:00,17:04:00,stop_5,5,0,0
-trip_circular_01_022,17:05:00,17:05:00,stop_6,6,0,0
-trip_circular_01_022,17:06:00,17:06:00,stop_7,7,0,0
-trip_circular_01_022,17:07:00,17:07:00,stop_8,8,0,0
-trip_circular_01_022,17:08:00,17:08:00,stop_9,9,0,0
-trip_circular_01_023,17:30:00,17:30:00,stop_1,1,0,0
-trip_circular_01_023,17:31:00,17:31:00,stop_2,2,0,0
-trip_circular_01_023,17:32:00,17:32:00,stop_3,3,0,0
-trip_circular_01_023,17:33:00,17:33:00,stop_4,4,0,0
-trip_circular_01_023,17:34:00,17:34:00,stop_5,5,0,0
-trip_circular_01_023,17:35:00,17:35:00,stop_6,6,0,0
-trip_circular_01_023,17:36:00,17:36:00,stop_7,7,0,0
-trip_circular_01_023,17:37:00,17:37:00,stop_8,8,0,0
-trip_circular_01_023,17:38:00,17:38:00,stop_9,9,0,0
-trip_circular_01_024,18:00:00,18:00:00,stop_1,1,0,0
-trip_circular_01_024,18:01:00,18:01:00,stop_2,2,0,0
-trip_circular_01_024,18:02:00,18:02:00,stop_3,3,0,0
-trip_circular_01_024,18:03:00,18:03:00,stop_4,4,0,0
-trip_circular_01_024,18:04:00,18:04:00,stop_5,5,0,0
-trip_circular_01_024,18:05:00,18:05:00,stop_6,6,0,0
-trip_circular_01_024,18:06:00,18:06:00,stop_7,7,0,0
-trip_circular_01_024,18:07:00,18:07:00,stop_8,8,0,0
-trip_circular_01_024,18:08:00,18:08:00,stop_9,9,0,0
-trip_circular_01_025,18:30:00,18:30:00,stop_1,1,0,0
-trip_circular_01_025,18:31:00,18:31:00,stop_2,2,0,0
-trip_circular_01_025,18:32:00,18:32:00,stop_3,3,0,0
-trip_circular_01_025,18:33:00,18:33:00,stop_4,4,0,0
-trip_circular_01_025,18:34:00,18:34:00,stop_5,5,0,0
-trip_circular_01_025,18:35:00,18:35:00,stop_6,6,0,0
-trip_circular_01_025,18:36:00,18:36:00,stop_7,7,0,0
-trip_circular_01_025,18:37:00,18:37:00,stop_8,8,0,0
-trip_circular_01_025,18:38:00,18:38:00,stop_9,9,0,0
-trip_circular_01_026,19:00:00,19:00:00,stop_1,1,0,0
-trip_circular_01_026,19:01:00,19:01:00,stop_2,2,0,0
-trip_circular_01_026,19:02:00,19:02:00,stop_3,3,0,0
-trip_circular_01_026,19:03:00,19:03:00,stop_4,4,0,0
-trip_circular_01_026,19:04:00,19:04:00,stop_5,5,0,0
-trip_circular_01_026,19:05:00,19:05:00,stop_6,6,0,0
-trip_circular_01_026,19:06:00,19:06:00,stop_7,7,0,0
-trip_circular_01_026,19:07:00,19:07:00,stop_8,8,0,0
-trip_circular_01_026,19:08:00,19:08:00,stop_9,9,0,0
-trip_circular_01_027,19:30:00,19:30:00,stop_1,1,0,0
-trip_circular_01_027,19:31:00,19:31:00,stop_2,2,0,0
-trip_circular_01_027,19:32:00,19:32:00,stop_3,3,0,0
-trip_circular_01_027,19:33:00,19:33:00,stop_4,4,0,0
-trip_circular_01_027,19:34:00,19:34:00,stop_5,5,0,0
-trip_circular_01_027,19:35:00,19:35:00,stop_6,6,0,0
-trip_circular_01_027,19:36:00,19:36:00,stop_7,7,0,0
-trip_circular_01_027,19:37:00,19:37:00,stop_8,8,0,0
-trip_circular_01_027,19:38:00,19:38:00,stop_9,9,0,0
-trip_circular_01_028,20:00:00,20:00:00,stop_1,1,0,0
-trip_circular_01_028,20:01:00,20:01:00,stop_2,2,0,0
-trip_circular_01_028,20:02:00,20:02:00,stop_3,3,0,0
-trip_circular_01_028,20:03:00,20:03:00,stop_4,4,0,0
-trip_circular_01_028,20:04:00,20:04:00,stop_5,5,0,0
-trip_circular_01_028,20:05:00,20:05:00,stop_6,6,0,0
-trip_circular_01_028,20:06:00,20:06:00,stop_7,7,0,0
-trip_circular_01_028,20:07:00,20:07:00,stop_8,8,0,0
-trip_circular_01_028,20:08:00,20:08:00,stop_9,9,0,0
-trip_circular_01_029,20:30:00,20:30:00,stop_1,1,0,0
-trip_circular_01_029,20:31:00,20:31:00,stop_2,2,0,0
-trip_circular_01_029,20:32:00,20:32:00,stop_3,3,0,0
-trip_circular_01_029,20:33:00,20:33:00,stop_4,4,0,0
-trip_circular_01_029,20:34:00,20:34:00,stop_5,5,0,0
-trip_circular_01_029,20:35:00,20:35:00,stop_6,6,0,0
-trip_circular_01_029,20:36:00,20:36:00,stop_7,7,0,0
-trip_circular_01_029,20:37:00,20:37:00,stop_8,8,0,0
-trip_circular_01_029,20:38:00,20:38:00,stop_9,9,0,0
-trip_circular_01_030,21:00:00,21:00:00,stop_1,1,0,0
-trip_circular_01_030,21:01:00,21:01:00,stop_2,2,0,0
-trip_circular_01_030,21:02:00,21:02:00,stop_3,3,0,0
-trip_circular_01_030,21:03:00,21:03:00,stop_4,4,0,0
-trip_circular_01_030,21:04:00,21:04:00,stop_5,5,0,0
-trip_circular_01_030,21:05:00,21:05:00,stop_6,6,0,0
-trip_circular_01_030,21:06:00,21:06:00,stop_7,7,0,0
-trip_circular_01_030,21:07:00,21:07:00,stop_8,8,0,0
-trip_circular_01_030,21:08:00,21:08:00,stop_9,9,0,0
-trip_circular_01_031,21:30:00,21:30:00,stop_1,1,0,0
-trip_circular_01_031,21:31:00,21:31:00,stop_2,2,0,0
-trip_circular_01_031,21:32:00,21:32:00,stop_3,3,0,0
-trip_circular_01_031,21:33:00,21:33:00,stop_4,4,0,0
-trip_circular_01_031,21:34:00,21:34:00,stop_5,5,0,0
-trip_circular_01_031,21:35:00,21:35:00,stop_6,6,0,0
-trip_circular_01_031,21:36:00,21:36:00,stop_7,7,0,0
-trip_circular_01_031,21:37:00,21:37:00,stop_8,8,0,0
-trip_circular_01_031,21:38:00,21:38:00,stop_9,9,0,0
-trip_circular_01_032,22:00:00,22:00:00,stop_1,1,0,0
-trip_circular_01_032,22:01:00,22:01:00,stop_2,2,0,0
-trip_circular_01_032,22:02:00,22:02:00,stop_3,3,0,0
-trip_circular_01_032,22:03:00,22:03:00,stop_4,4,0,0
-trip_circular_01_032,22:04:00,22:04:00,stop_5,5,0,0
-trip_circular_01_032,22:05:00,22:05:00,stop_6,6,0,0
-trip_circular_01_032,22:06:00,22:06:00,stop_7,7,0,0
-trip_circular_01_032,22:07:00,22:07:00,stop_8,8,0,0
-trip_circular_01_032,22:08:00,22:08:00,stop_9,9,0,0
-trip_circular_01_033,22:30:00,22:30:00,stop_1,1,0,0
-trip_circular_01_033,22:31:00,22:31:00,stop_2,2,0,0
-trip_circular_01_033,22:32:00,22:32:00,stop_3,3,0,0
-trip_circular_01_033,22:33:00,22:33:00,stop_4,4,0,0
-trip_circular_01_033,22:34:00,22:34:00,stop_5,5,0,0
-trip_circular_01_033,22:35:00,22:35:00,stop_6,6,0,0
-trip_circular_01_033,22:36:00,22:36:00,stop_7,7,0,0
-trip_circular_01_033,22:37:00,22:37:00,stop_8,8,0,0
-trip_circular_01_033,22:38:00,22:38:00,stop_9,9,0,0
-trip_circular_01_034,23:00:00,23:00:00,stop_1,1,0,0
-trip_circular_01_034,23:01:00,23:01:00,stop_2,2,0,0
-trip_circular_01_034,23:02:00,23:02:00,stop_3,3,0,0
-trip_circular_01_034,23:03:00,23:03:00,stop_4,4,0,0
-trip_circular_01_034,23:04:00,23:04:00,stop_5,5,0,0
-trip_circular_01_034,23:05:00,23:05:00,stop_6,6,0,0
-trip_circular_01_034,23:06:00,23:06:00,stop_7,7,0,0
-trip_circular_01_034,23:07:00,23:07:00,stop_8,8,0,0
-trip_circular_01_034,23:08:00,23:08:00,stop_9,9,0,0
-trip_circular_01_035,23:30:00,23:30:00,stop_1,1,0,0
-trip_circular_01_035,23:31:00,23:31:00,stop_2,2,0,0
-trip_circular_01_035,23:32:00,23:32:00,stop_3,3,0,0
-trip_circular_01_035,23:33:00,23:33:00,stop_4,4,0,0
-trip_circular_01_035,23:34:00,23:34:00,stop_5,5,0,0
-trip_circular_01_035,23:35:00,23:35:00,stop_6,6,0,0
-trip_circular_01_035,23:36:00,23:36:00,stop_7,7,0,0
-trip_circular_01_035,23:37:00,23:37:00,stop_8,8,0,0
-trip_circular_01_035,23:38:00,23:38:00,stop_9,9,0,0
-trip_circular_01_036,24:00:00,24:00:00,stop_1,1,0,0
-trip_circular_01_036,24:01:00,24:01:00,stop_2,2,0,0
-trip_circular_01_036,24:02:00,24:02:00,stop_3,3,0,0
-trip_circular_01_036,24:03:00,24:03:00,stop_4,4,0,0
-trip_circular_01_036,24:04:00,24:04:00,stop_5,5,0,0
-trip_circular_01_036,24:05:00,24:05:00,stop_6,6,0,0
-trip_circular_01_036,24:06:00,24:06:00,stop_7,7,0,0
-trip_circular_01_036,24:07:00,24:07:00,stop_8,8,0,0
-trip_circular_01_036,24:08:00,24:08:00,stop_9,9,0,0
-trip_circular_01_037,24:30:00,24:30:00,stop_1,1,0,0
-trip_circular_01_037,24:31:00,24:31:00,stop_2,2,0,0
-trip_circular_01_037,24:32:00,24:32:00,stop_3,3,0,0
-trip_circular_01_037,24:33:00,24:33:00,stop_4,4,0,0
-trip_circular_01_037,24:34:00,24:34:00,stop_5,5,0,0
-trip_circular_01_037,24:35:00,24:35:00,stop_6,6,0,0
-trip_circular_01_037,24:36:00,24:36:00,stop_7,7,0,0
-trip_circular_01_037,24:37:00,24:37:00,stop_8,8,0,0
-trip_circular_01_037,24:38:00,24:38:00,stop_9,9,0,0
-trip_circular_01_038,25:00:00,25:00:00,stop_1,1,0,0
-trip_circular_01_038,25:01:00,25:01:00,stop_2,2,0,0
-trip_circular_01_038,25:02:00,25:02:00,stop_3,3,0,0
-trip_circular_01_038,25:03:00,25:03:00,stop_4,4,0,0
-trip_circular_01_038,25:04:00,25:04:00,stop_5,5,0,0
-trip_circular_01_038,25:05:00,25:05:00,stop_6,6,0,0
-trip_circular_01_038,25:06:00,25:06:00,stop_7,7,0,0
-trip_circular_01_038,25:07:00,25:07:00,stop_8,8,0,0
-trip_circular_01_038,25:08:00,25:08:00,stop_9,9,0,0
-trip_circular_01_039,25:30:00,25:30:00,stop_1,1,0,0
-trip_circular_01_039,25:31:00,25:31:00,stop_2,2,0,0
-trip_circular_01_039,25:32:00,25:32:00,stop_3,3,0,0
-trip_circular_01_039,25:33:00,25:33:00,stop_4,4,0,0
-trip_circular_01_039,25:34:00,25:34:00,stop_5,5,0,0
-trip_circular_01_039,25:35:00,25:35:00,stop_6,6,0,0
-trip_circular_01_039,25:36:00,25:36:00,stop_7,7,0,0
-trip_circular_01_039,25:37:00,25:37:00,stop_8,8,0,0
-trip_circular_01_039,25:38:00,25:38:00,stop_9,9,0,0
-trip_circular_01_040,26:00:00,26:00:00,stop_1,1,0,0
-trip_circular_01_040,26:01:00,26:01:00,stop_2,2,0,0
-trip_circular_01_040,26:02:00,26:02:00,stop_3,3,0,0
-trip_circular_01_040,26:03:00,26:03:00,stop_4,4,0,0
-trip_circular_01_040,26:04:00,26:04:00,stop_5,5,0,0
-trip_circular_01_040,26:05:00,26:05:00,stop_6,6,0,0
-trip_circular_01_040,26:06:00,26:06:00,stop_7,7,0,0
-trip_circular_01_040,26:07:00,26:07:00,stop_8,8,0,0
-trip_circular_01_040,26:08:00,26:08:00,stop_9,9,0,0
-trip_circular_01_041,26:30:00,26:30:00,stop_1,1,0,0
-trip_circular_01_041,26:31:00,26:31:00,stop_2,2,0,0
-trip_circular_01_041,26:32:00,26:32:00,stop_3,3,0,0
-trip_circular_01_041,26:33:00,26:33:00,stop_4,4,0,0
-trip_circular_01_041,26:34:00,26:34:00,stop_5,5,0,0
-trip_circular_01_041,26:35:00,26:35:00,stop_6,6,0,0
-trip_circular_01_041,26:36:00,26:36:00,stop_7,7,0,0
-trip_circular_01_041,26:37:00,26:37:00,stop_8,8,0,0
-trip_circular_01_041,26:38:00,26:38:00,stop_9,9,0,0
-trip_circular_01_042,27:00:00,27:00:00,stop_1,1,0,0
-trip_circular_01_042,27:01:00,27:01:00,stop_2,2,0,0
-trip_circular_01_042,27:02:00,27:02:00,stop_3,3,0,0
-trip_circular_01_042,27:03:00,27:03:00,stop_4,4,0,0
-trip_circular_01_042,27:04:00,27:04:00,stop_5,5,0,0
-trip_circular_01_042,27:05:00,27:05:00,stop_6,6,0,0
-trip_circular_01_042,27:06:00,27:06:00,stop_7,7,0,0
-trip_circular_01_042,27:07:00,27:07:00,stop_8,8,0,0
-trip_circular_01_042,27:08:00,27:08:00,stop_9,9,0,0
-trip_circular_01_043,27:30:00,27:30:00,stop_1,1,0,0
-trip_circular_01_043,27:31:00,27:31:00,stop_2,2,0,0
-trip_circular_01_043,27:32:00,27:32:00,stop_3,3,0,0
-trip_circular_01_043,27:33:00,27:33:00,stop_4,4,0,0
-trip_circular_01_043,27:34:00,27:34:00,stop_5,5,0,0
-trip_circular_01_043,27:35:00,27:35:00,stop_6,6,0,0
-trip_circular_01_043,27:36:00,27:36:00,stop_7,7,0,0
-trip_circular_01_043,27:37:00,27:37:00,stop_8,8,0,0
-trip_circular_01_043,27:38:00,27:38:00,stop_9,9,0,0
-trip_circular_01_044,28:00:00,28:00:00,stop_1,1,0,0
-trip_circular_01_044,28:01:00,28:01:00,stop_2,2,0,0
-trip_circular_01_044,28:02:00,28:02:00,stop_3,3,0,0
-trip_circular_01_044,28:03:00,28:03:00,stop_4,4,0,0
-trip_circular_01_044,28:04:00,28:04:00,stop_5,5,0,0
-trip_circular_01_044,28:05:00,28:05:00,stop_6,6,0,0
-trip_circular_01_044,28:06:00,28:06:00,stop_7,7,0,0
-trip_circular_01_044,28:07:00,28:07:00,stop_8,8,0,0
-trip_circular_01_044,28:08:00,28:08:00,stop_9,9,0,0
-trip_circular_01_045,28:30:00,28:30:00,stop_1,1,0,0
-trip_circular_01_045,28:31:00,28:31:00,stop_2,2,0,0
-trip_circular_01_045,28:32:00,28:32:00,stop_3,3,0,0
-trip_circular_01_045,28:33:00,28:33:00,stop_4,4,0,0
-trip_circular_01_045,28:34:00,28:34:00,stop_5,5,0,0
-trip_circular_01_045,28:35:00,28:35:00,stop_6,6,0,0
-trip_circular_01_045,28:36:00,28:36:00,stop_7,7,0,0
-trip_circular_01_045,28:37:00,28:37:00,stop_8,8,0,0
-trip_circular_01_045,28:38:00,28:38:00,stop_9,9,0,0
-trip_circular_01_046,29:00:00,29:00:00,stop_1,1,0,0
-trip_circular_01_046,29:01:00,29:01:00,stop_2,2,0,0
-trip_circular_01_046,29:02:00,29:02:00,stop_3,3,0,0
-trip_circular_01_046,29:03:00,29:03:00,stop_4,4,0,0
-trip_circular_01_046,29:04:00,29:04:00,stop_5,5,0,0
-trip_circular_01_046,29:05:00,29:05:00,stop_6,6,0,0
-trip_circular_01_046,29:06:00,29:06:00,stop_7,7,0,0
-trip_circular_01_046,29:07:00,29:07:00,stop_8,8,0,0
-trip_circular_01_046,29:08:00,29:08:00,stop_9,9,0,0
-trip_circular_01_047,29:30:00,29:30:00,stop_1,1,0,0
-trip_circular_01_047,29:31:00,29:31:00,stop_2,2,0,0
-trip_circular_01_047,29:32:00,29:32:00,stop_3,3,0,0
-trip_circular_01_047,29:33:00,29:33:00,stop_4,4,0,0
-trip_circular_01_047,29:34:00,29:34:00,stop_5,5,0,0
-trip_circular_01_047,29:35:00,29:35:00,stop_6,6,0,0
-trip_circular_01_047,29:36:00,29:36:00,stop_7,7,0,0
-trip_circular_01_047,29:37:00,29:37:00,stop_8,8,0,0
-trip_circular_01_047,29:38:00,29:38:00,stop_9,9,0,0
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,shape_dist_traveled,timepoint
+TRIP_73059ace-b258-4310-8ad3-aaaa21aec13e,06:24:34,06:24:34,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_73059ace-b258-4310-8ad3-aaaa21aec13e,06:25:34,06:25:34,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_73059ace-b258-4310-8ad3-aaaa21aec13e,06:26:34,06:26:34,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_73059ace-b258-4310-8ad3-aaaa21aec13e,06:27:34,06:27:34,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_73059ace-b258-4310-8ad3-aaaa21aec13e,06:28:34,06:28:34,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_73059ace-b258-4310-8ad3-aaaa21aec13e,06:29:34,06:29:34,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_73059ace-b258-4310-8ad3-aaaa21aec13e,06:30:34,06:30:34,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_73059ace-b258-4310-8ad3-aaaa21aec13e,06:31:34,06:31:34,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_73059ace-b258-4310-8ad3-aaaa21aec13e,06:32:34,06:32:34,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_09094cdc-f4ad-495a-8c6c-fae7a33625de,06:00:04,06:00:04,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_09094cdc-f4ad-495a-8c6c-fae7a33625de,06:01:04,06:01:04,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_09094cdc-f4ad-495a-8c6c-fae7a33625de,06:02:04,06:02:04,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_09094cdc-f4ad-495a-8c6c-fae7a33625de,06:03:04,06:03:04,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_09094cdc-f4ad-495a-8c6c-fae7a33625de,06:04:04,06:04:04,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_09094cdc-f4ad-495a-8c6c-fae7a33625de,06:05:04,06:05:04,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_09094cdc-f4ad-495a-8c6c-fae7a33625de,06:06:04,06:06:04,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_09094cdc-f4ad-495a-8c6c-fae7a33625de,06:07:04,06:07:04,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_09094cdc-f4ad-495a-8c6c-fae7a33625de,06:08:04,06:08:04,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_7e622663-8baa-47c1-8aba-cd3eea5de596,06:14:22,06:14:22,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_7e622663-8baa-47c1-8aba-cd3eea5de596,06:15:22,06:15:22,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_7e622663-8baa-47c1-8aba-cd3eea5de596,06:16:22,06:16:22,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_7e622663-8baa-47c1-8aba-cd3eea5de596,06:17:22,06:17:22,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_7e622663-8baa-47c1-8aba-cd3eea5de596,06:18:22,06:18:22,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_7e622663-8baa-47c1-8aba-cd3eea5de596,06:19:22,06:19:22,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_7e622663-8baa-47c1-8aba-cd3eea5de596,06:20:22,06:20:22,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_7e622663-8baa-47c1-8aba-cd3eea5de596,06:21:22,06:21:22,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_7e622663-8baa-47c1-8aba-cd3eea5de596,06:22:22,06:22:22,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_06bc5a87-ebd2-4073-ace1-62b5a410a0e4,06:07:14,06:07:14,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_06bc5a87-ebd2-4073-ace1-62b5a410a0e4,06:08:14,06:08:14,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_06bc5a87-ebd2-4073-ace1-62b5a410a0e4,06:09:14,06:09:14,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_06bc5a87-ebd2-4073-ace1-62b5a410a0e4,06:10:14,06:10:14,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_06bc5a87-ebd2-4073-ace1-62b5a410a0e4,06:11:14,06:11:14,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_06bc5a87-ebd2-4073-ace1-62b5a410a0e4,06:12:14,06:12:14,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_06bc5a87-ebd2-4073-ace1-62b5a410a0e4,06:13:14,06:13:14,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_06bc5a87-ebd2-4073-ace1-62b5a410a0e4,06:14:14,06:14:14,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_06bc5a87-ebd2-4073-ace1-62b5a410a0e4,06:15:14,06:15:14,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_05949b92-5277-418b-870f-e4838a685574,06:05:23,06:05:23,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_05949b92-5277-418b-870f-e4838a685574,06:06:23,06:06:23,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_05949b92-5277-418b-870f-e4838a685574,06:07:23,06:07:23,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_05949b92-5277-418b-870f-e4838a685574,06:08:23,06:08:23,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_05949b92-5277-418b-870f-e4838a685574,06:09:23,06:09:23,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_05949b92-5277-418b-870f-e4838a685574,06:10:23,06:10:23,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_05949b92-5277-418b-870f-e4838a685574,06:11:23,06:11:23,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_05949b92-5277-418b-870f-e4838a685574,06:12:23,06:12:23,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_05949b92-5277-418b-870f-e4838a685574,06:13:23,06:13:23,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_1e59a21d-0332-42a5-9ef6-b8a5811add7c,06:00:26,06:00:26,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_1e59a21d-0332-42a5-9ef6-b8a5811add7c,06:01:26,06:01:26,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_1e59a21d-0332-42a5-9ef6-b8a5811add7c,06:02:26,06:02:26,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_1e59a21d-0332-42a5-9ef6-b8a5811add7c,06:03:26,06:03:26,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_1e59a21d-0332-42a5-9ef6-b8a5811add7c,06:04:26,06:04:26,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_1e59a21d-0332-42a5-9ef6-b8a5811add7c,06:05:26,06:05:26,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_1e59a21d-0332-42a5-9ef6-b8a5811add7c,06:06:26,06:06:26,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_1e59a21d-0332-42a5-9ef6-b8a5811add7c,06:07:26,06:07:26,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_1e59a21d-0332-42a5-9ef6-b8a5811add7c,06:08:26,06:08:26,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_651ce62b-244f-407a-a3bd-65b70105cfe3,06:12:14,06:12:14,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_651ce62b-244f-407a-a3bd-65b70105cfe3,06:13:14,06:13:14,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_651ce62b-244f-407a-a3bd-65b70105cfe3,06:14:14,06:14:14,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_651ce62b-244f-407a-a3bd-65b70105cfe3,06:15:14,06:15:14,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_651ce62b-244f-407a-a3bd-65b70105cfe3,06:16:14,06:16:14,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_651ce62b-244f-407a-a3bd-65b70105cfe3,06:17:14,06:17:14,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_651ce62b-244f-407a-a3bd-65b70105cfe3,06:18:14,06:18:14,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_651ce62b-244f-407a-a3bd-65b70105cfe3,06:19:14,06:19:14,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_651ce62b-244f-407a-a3bd-65b70105cfe3,06:20:14,06:20:14,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_126f5d4a-ab10-4757-b952-4ad1fb1ef028,06:05:57,06:05:57,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_126f5d4a-ab10-4757-b952-4ad1fb1ef028,06:06:57,06:06:57,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_126f5d4a-ab10-4757-b952-4ad1fb1ef028,06:07:57,06:07:57,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_126f5d4a-ab10-4757-b952-4ad1fb1ef028,06:08:57,06:08:57,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_126f5d4a-ab10-4757-b952-4ad1fb1ef028,06:09:57,06:09:57,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_126f5d4a-ab10-4757-b952-4ad1fb1ef028,06:10:57,06:10:57,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_126f5d4a-ab10-4757-b952-4ad1fb1ef028,06:11:57,06:11:57,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_126f5d4a-ab10-4757-b952-4ad1fb1ef028,06:12:57,06:12:57,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_126f5d4a-ab10-4757-b952-4ad1fb1ef028,06:13:57,06:13:57,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_c93f1998-ffc9-4e73-bdf3-3eb319e7320f,06:04:49,06:04:49,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_c93f1998-ffc9-4e73-bdf3-3eb319e7320f,06:05:49,06:05:49,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_c93f1998-ffc9-4e73-bdf3-3eb319e7320f,06:06:49,06:06:49,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_c93f1998-ffc9-4e73-bdf3-3eb319e7320f,06:07:49,06:07:49,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_c93f1998-ffc9-4e73-bdf3-3eb319e7320f,06:08:49,06:08:49,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_c93f1998-ffc9-4e73-bdf3-3eb319e7320f,06:09:49,06:09:49,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_c93f1998-ffc9-4e73-bdf3-3eb319e7320f,06:10:49,06:10:49,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_c93f1998-ffc9-4e73-bdf3-3eb319e7320f,06:11:49,06:11:49,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_c93f1998-ffc9-4e73-bdf3-3eb319e7320f,06:12:49,06:12:49,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_a2fd36c2-f6e1-4129-aeb5-3eeeecf07d61,06:07:34,06:07:34,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_a2fd36c2-f6e1-4129-aeb5-3eeeecf07d61,06:08:34,06:08:34,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_a2fd36c2-f6e1-4129-aeb5-3eeeecf07d61,06:09:34,06:09:34,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_a2fd36c2-f6e1-4129-aeb5-3eeeecf07d61,06:10:34,06:10:34,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_a2fd36c2-f6e1-4129-aeb5-3eeeecf07d61,06:11:34,06:11:34,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_a2fd36c2-f6e1-4129-aeb5-3eeeecf07d61,06:12:34,06:12:34,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_a2fd36c2-f6e1-4129-aeb5-3eeeecf07d61,06:13:34,06:13:34,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_a2fd36c2-f6e1-4129-aeb5-3eeeecf07d61,06:14:34,06:14:34,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_a2fd36c2-f6e1-4129-aeb5-3eeeecf07d61,06:15:34,06:15:34,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_eeffa1d1-0533-4200-948e-84ba5fb49e46,06:20:09,06:20:09,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_eeffa1d1-0533-4200-948e-84ba5fb49e46,06:21:09,06:21:09,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_eeffa1d1-0533-4200-948e-84ba5fb49e46,06:22:09,06:22:09,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_eeffa1d1-0533-4200-948e-84ba5fb49e46,06:23:09,06:23:09,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_eeffa1d1-0533-4200-948e-84ba5fb49e46,06:24:09,06:24:09,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_eeffa1d1-0533-4200-948e-84ba5fb49e46,06:25:09,06:25:09,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_eeffa1d1-0533-4200-948e-84ba5fb49e46,06:26:09,06:26:09,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_eeffa1d1-0533-4200-948e-84ba5fb49e46,06:27:09,06:27:09,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_eeffa1d1-0533-4200-948e-84ba5fb49e46,06:28:09,06:28:09,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_ecfb2809-2e65-47c2-85ea-ad1a1f242acb,06:06:32,06:06:32,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_ecfb2809-2e65-47c2-85ea-ad1a1f242acb,06:07:32,06:07:32,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_ecfb2809-2e65-47c2-85ea-ad1a1f242acb,06:08:32,06:08:32,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_ecfb2809-2e65-47c2-85ea-ad1a1f242acb,06:09:32,06:09:32,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_ecfb2809-2e65-47c2-85ea-ad1a1f242acb,06:10:32,06:10:32,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_ecfb2809-2e65-47c2-85ea-ad1a1f242acb,06:11:32,06:11:32,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_ecfb2809-2e65-47c2-85ea-ad1a1f242acb,06:12:32,06:12:32,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_ecfb2809-2e65-47c2-85ea-ad1a1f242acb,06:13:32,06:13:32,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_ecfb2809-2e65-47c2-85ea-ad1a1f242acb,06:14:32,06:14:32,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_c7a84b33-5049-40ae-aff2-8cb1ff470446,06:09:07,06:09:07,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_c7a84b33-5049-40ae-aff2-8cb1ff470446,06:10:07,06:10:07,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_c7a84b33-5049-40ae-aff2-8cb1ff470446,06:11:07,06:11:07,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_c7a84b33-5049-40ae-aff2-8cb1ff470446,06:12:07,06:12:07,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_c7a84b33-5049-40ae-aff2-8cb1ff470446,06:13:07,06:13:07,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_c7a84b33-5049-40ae-aff2-8cb1ff470446,06:14:07,06:14:07,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_c7a84b33-5049-40ae-aff2-8cb1ff470446,06:15:07,06:15:07,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_c7a84b33-5049-40ae-aff2-8cb1ff470446,06:16:07,06:16:07,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_c7a84b33-5049-40ae-aff2-8cb1ff470446,06:17:07,06:17:07,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_d483b805-9465-432b-a45e-7295beddcd16,06:12:32,06:12:32,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_d483b805-9465-432b-a45e-7295beddcd16,06:13:32,06:13:32,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_d483b805-9465-432b-a45e-7295beddcd16,06:14:32,06:14:32,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_d483b805-9465-432b-a45e-7295beddcd16,06:15:32,06:15:32,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_d483b805-9465-432b-a45e-7295beddcd16,06:16:32,06:16:32,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_d483b805-9465-432b-a45e-7295beddcd16,06:17:32,06:17:32,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_d483b805-9465-432b-a45e-7295beddcd16,06:18:32,06:18:32,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_d483b805-9465-432b-a45e-7295beddcd16,06:19:32,06:19:32,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_d483b805-9465-432b-a45e-7295beddcd16,06:20:32,06:20:32,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_18b301ef-91d0-48b6-bbd7-df233691bce2,06:08:09,06:08:09,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_18b301ef-91d0-48b6-bbd7-df233691bce2,06:09:09,06:09:09,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_18b301ef-91d0-48b6-bbd7-df233691bce2,06:10:09,06:10:09,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_18b301ef-91d0-48b6-bbd7-df233691bce2,06:11:09,06:11:09,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_18b301ef-91d0-48b6-bbd7-df233691bce2,06:12:09,06:12:09,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_18b301ef-91d0-48b6-bbd7-df233691bce2,06:13:09,06:13:09,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_18b301ef-91d0-48b6-bbd7-df233691bce2,06:14:09,06:14:09,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_18b301ef-91d0-48b6-bbd7-df233691bce2,06:15:09,06:15:09,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_18b301ef-91d0-48b6-bbd7-df233691bce2,06:16:09,06:16:09,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_aedfaade-354d-4bd0-8e62-46e6aca2a210,06:28:42,06:28:42,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_aedfaade-354d-4bd0-8e62-46e6aca2a210,06:29:42,06:29:42,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_aedfaade-354d-4bd0-8e62-46e6aca2a210,06:30:42,06:30:42,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_aedfaade-354d-4bd0-8e62-46e6aca2a210,06:31:42,06:31:42,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_aedfaade-354d-4bd0-8e62-46e6aca2a210,06:32:42,06:32:42,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_aedfaade-354d-4bd0-8e62-46e6aca2a210,06:33:42,06:33:42,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_aedfaade-354d-4bd0-8e62-46e6aca2a210,06:34:42,06:34:42,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_aedfaade-354d-4bd0-8e62-46e6aca2a210,06:35:42,06:35:42,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_aedfaade-354d-4bd0-8e62-46e6aca2a210,06:36:42,06:36:42,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_0dcf44c1-7ae2-4247-b786-17321fc160ee,06:23:48,06:23:48,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_0dcf44c1-7ae2-4247-b786-17321fc160ee,06:24:48,06:24:48,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_0dcf44c1-7ae2-4247-b786-17321fc160ee,06:25:48,06:25:48,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_0dcf44c1-7ae2-4247-b786-17321fc160ee,06:26:48,06:26:48,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_0dcf44c1-7ae2-4247-b786-17321fc160ee,06:27:48,06:27:48,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_0dcf44c1-7ae2-4247-b786-17321fc160ee,06:28:48,06:28:48,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_0dcf44c1-7ae2-4247-b786-17321fc160ee,06:29:48,06:29:48,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_0dcf44c1-7ae2-4247-b786-17321fc160ee,06:30:48,06:30:48,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_0dcf44c1-7ae2-4247-b786-17321fc160ee,06:31:48,06:31:48,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_50b858f4-8bb5-45b6-a8c9-52d98ba8f341,06:27:52,06:27:52,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_50b858f4-8bb5-45b6-a8c9-52d98ba8f341,06:28:52,06:28:52,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_50b858f4-8bb5-45b6-a8c9-52d98ba8f341,06:29:52,06:29:52,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_50b858f4-8bb5-45b6-a8c9-52d98ba8f341,06:30:52,06:30:52,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_50b858f4-8bb5-45b6-a8c9-52d98ba8f341,06:31:52,06:31:52,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_50b858f4-8bb5-45b6-a8c9-52d98ba8f341,06:32:52,06:32:52,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_50b858f4-8bb5-45b6-a8c9-52d98ba8f341,06:33:52,06:33:52,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_50b858f4-8bb5-45b6-a8c9-52d98ba8f341,06:34:52,06:34:52,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_50b858f4-8bb5-45b6-a8c9-52d98ba8f341,06:35:52,06:35:52,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_cacb00ee-6b0b-4c0c-806b-df2bb21988d8,06:14:00,06:14:00,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_cacb00ee-6b0b-4c0c-806b-df2bb21988d8,06:15:00,06:15:00,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_cacb00ee-6b0b-4c0c-806b-df2bb21988d8,06:16:00,06:16:00,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_cacb00ee-6b0b-4c0c-806b-df2bb21988d8,06:17:00,06:17:00,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_cacb00ee-6b0b-4c0c-806b-df2bb21988d8,06:18:00,06:18:00,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_cacb00ee-6b0b-4c0c-806b-df2bb21988d8,06:19:00,06:19:00,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_cacb00ee-6b0b-4c0c-806b-df2bb21988d8,06:20:00,06:20:00,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_cacb00ee-6b0b-4c0c-806b-df2bb21988d8,06:21:00,06:21:00,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_cacb00ee-6b0b-4c0c-806b-df2bb21988d8,06:22:00,06:22:00,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_ce0dc184-a84a-4994-af22-abfc096c13b0,06:05:37,06:05:37,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_ce0dc184-a84a-4994-af22-abfc096c13b0,06:06:37,06:06:37,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_ce0dc184-a84a-4994-af22-abfc096c13b0,06:07:37,06:07:37,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_ce0dc184-a84a-4994-af22-abfc096c13b0,06:08:37,06:08:37,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_ce0dc184-a84a-4994-af22-abfc096c13b0,06:09:37,06:09:37,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_ce0dc184-a84a-4994-af22-abfc096c13b0,06:10:37,06:10:37,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_ce0dc184-a84a-4994-af22-abfc096c13b0,06:11:37,06:11:37,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_ce0dc184-a84a-4994-af22-abfc096c13b0,06:12:37,06:12:37,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_ce0dc184-a84a-4994-af22-abfc096c13b0,06:13:37,06:13:37,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_e661ede0-713e-4068-9576-3f4f14c7323c,06:29:09,06:29:09,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_e661ede0-713e-4068-9576-3f4f14c7323c,06:30:09,06:30:09,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_e661ede0-713e-4068-9576-3f4f14c7323c,06:31:09,06:31:09,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_e661ede0-713e-4068-9576-3f4f14c7323c,06:32:09,06:32:09,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_e661ede0-713e-4068-9576-3f4f14c7323c,06:33:09,06:33:09,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_e661ede0-713e-4068-9576-3f4f14c7323c,06:34:09,06:34:09,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_e661ede0-713e-4068-9576-3f4f14c7323c,06:35:09,06:35:09,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_e661ede0-713e-4068-9576-3f4f14c7323c,06:36:09,06:36:09,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_e661ede0-713e-4068-9576-3f4f14c7323c,06:37:09,06:37:09,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_fe7293f8-8091-4b55-9d37-7787ce9960d0,06:04:35,06:04:35,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_fe7293f8-8091-4b55-9d37-7787ce9960d0,06:05:35,06:05:35,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_fe7293f8-8091-4b55-9d37-7787ce9960d0,06:06:35,06:06:35,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_fe7293f8-8091-4b55-9d37-7787ce9960d0,06:07:35,06:07:35,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_fe7293f8-8091-4b55-9d37-7787ce9960d0,06:08:35,06:08:35,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_fe7293f8-8091-4b55-9d37-7787ce9960d0,06:09:35,06:09:35,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_fe7293f8-8091-4b55-9d37-7787ce9960d0,06:10:35,06:10:35,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_fe7293f8-8091-4b55-9d37-7787ce9960d0,06:11:35,06:11:35,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_fe7293f8-8091-4b55-9d37-7787ce9960d0,06:12:35,06:12:35,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_10d901d3-9e46-40e3-93ed-c30bbb1ecc1e,06:12:09,06:12:09,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_10d901d3-9e46-40e3-93ed-c30bbb1ecc1e,06:13:09,06:13:09,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_10d901d3-9e46-40e3-93ed-c30bbb1ecc1e,06:14:09,06:14:09,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_10d901d3-9e46-40e3-93ed-c30bbb1ecc1e,06:15:09,06:15:09,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_10d901d3-9e46-40e3-93ed-c30bbb1ecc1e,06:16:09,06:16:09,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_10d901d3-9e46-40e3-93ed-c30bbb1ecc1e,06:17:09,06:17:09,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_10d901d3-9e46-40e3-93ed-c30bbb1ecc1e,06:18:09,06:18:09,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_10d901d3-9e46-40e3-93ed-c30bbb1ecc1e,06:19:09,06:19:09,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_10d901d3-9e46-40e3-93ed-c30bbb1ecc1e,06:20:09,06:20:09,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_6b6da19e-6db2-442e-a15d-d526cd9fa482,06:10:17,06:10:17,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_6b6da19e-6db2-442e-a15d-d526cd9fa482,06:11:17,06:11:17,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_6b6da19e-6db2-442e-a15d-d526cd9fa482,06:12:17,06:12:17,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_6b6da19e-6db2-442e-a15d-d526cd9fa482,06:13:17,06:13:17,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_6b6da19e-6db2-442e-a15d-d526cd9fa482,06:14:17,06:14:17,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_6b6da19e-6db2-442e-a15d-d526cd9fa482,06:15:17,06:15:17,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_6b6da19e-6db2-442e-a15d-d526cd9fa482,06:16:17,06:16:17,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_6b6da19e-6db2-442e-a15d-d526cd9fa482,06:17:17,06:17:17,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_6b6da19e-6db2-442e-a15d-d526cd9fa482,06:18:17,06:18:17,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_8b8fb30b-7416-4f92-b1a2-9143553df087,06:08:11,06:08:11,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_8b8fb30b-7416-4f92-b1a2-9143553df087,06:09:11,06:09:11,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_8b8fb30b-7416-4f92-b1a2-9143553df087,06:10:11,06:10:11,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_8b8fb30b-7416-4f92-b1a2-9143553df087,06:11:11,06:11:11,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_8b8fb30b-7416-4f92-b1a2-9143553df087,06:12:11,06:12:11,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_8b8fb30b-7416-4f92-b1a2-9143553df087,06:13:11,06:13:11,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_8b8fb30b-7416-4f92-b1a2-9143553df087,06:14:11,06:14:11,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_8b8fb30b-7416-4f92-b1a2-9143553df087,06:15:11,06:15:11,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_8b8fb30b-7416-4f92-b1a2-9143553df087,06:16:11,06:16:11,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_1cf4abd6-18bf-446f-a74c-3451b116c1be,06:07:23,06:07:23,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_1cf4abd6-18bf-446f-a74c-3451b116c1be,06:08:23,06:08:23,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_1cf4abd6-18bf-446f-a74c-3451b116c1be,06:09:23,06:09:23,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_1cf4abd6-18bf-446f-a74c-3451b116c1be,06:10:23,06:10:23,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_1cf4abd6-18bf-446f-a74c-3451b116c1be,06:11:23,06:11:23,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_1cf4abd6-18bf-446f-a74c-3451b116c1be,06:12:23,06:12:23,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_1cf4abd6-18bf-446f-a74c-3451b116c1be,06:13:23,06:13:23,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_1cf4abd6-18bf-446f-a74c-3451b116c1be,06:14:23,06:14:23,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_1cf4abd6-18bf-446f-a74c-3451b116c1be,06:15:23,06:15:23,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_21265c0b-5035-4729-8103-c95d6eb21515,06:28:28,06:28:28,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_21265c0b-5035-4729-8103-c95d6eb21515,06:29:28,06:29:28,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_21265c0b-5035-4729-8103-c95d6eb21515,06:30:28,06:30:28,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_21265c0b-5035-4729-8103-c95d6eb21515,06:31:28,06:31:28,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_21265c0b-5035-4729-8103-c95d6eb21515,06:32:28,06:32:28,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_21265c0b-5035-4729-8103-c95d6eb21515,06:33:28,06:33:28,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_21265c0b-5035-4729-8103-c95d6eb21515,06:34:28,06:34:28,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_21265c0b-5035-4729-8103-c95d6eb21515,06:35:28,06:35:28,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_21265c0b-5035-4729-8103-c95d6eb21515,06:36:28,06:36:28,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_d2e9b05c-0392-47d6-a009-e6a6e08e0511,06:03:04,06:03:04,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_d2e9b05c-0392-47d6-a009-e6a6e08e0511,06:04:04,06:04:04,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_d2e9b05c-0392-47d6-a009-e6a6e08e0511,06:05:04,06:05:04,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_d2e9b05c-0392-47d6-a009-e6a6e08e0511,06:06:04,06:06:04,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_d2e9b05c-0392-47d6-a009-e6a6e08e0511,06:07:04,06:07:04,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_d2e9b05c-0392-47d6-a009-e6a6e08e0511,06:08:04,06:08:04,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_d2e9b05c-0392-47d6-a009-e6a6e08e0511,06:09:04,06:09:04,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_d2e9b05c-0392-47d6-a009-e6a6e08e0511,06:10:04,06:10:04,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_d2e9b05c-0392-47d6-a009-e6a6e08e0511,06:11:04,06:11:04,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_9cae2e5d-5075-47bb-ac10-da952da64385,06:16:46,06:16:46,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_9cae2e5d-5075-47bb-ac10-da952da64385,06:17:46,06:17:46,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_9cae2e5d-5075-47bb-ac10-da952da64385,06:18:46,06:18:46,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_9cae2e5d-5075-47bb-ac10-da952da64385,06:19:46,06:19:46,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_9cae2e5d-5075-47bb-ac10-da952da64385,06:20:46,06:20:46,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_9cae2e5d-5075-47bb-ac10-da952da64385,06:21:46,06:21:46,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_9cae2e5d-5075-47bb-ac10-da952da64385,06:22:46,06:22:46,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_9cae2e5d-5075-47bb-ac10-da952da64385,06:23:46,06:23:46,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_9cae2e5d-5075-47bb-ac10-da952da64385,06:24:46,06:24:46,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_461cb0dc-c700-40ed-801e-68d040c29602,06:21:04,06:21:04,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_461cb0dc-c700-40ed-801e-68d040c29602,06:22:04,06:22:04,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_461cb0dc-c700-40ed-801e-68d040c29602,06:23:04,06:23:04,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_461cb0dc-c700-40ed-801e-68d040c29602,06:24:04,06:24:04,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_461cb0dc-c700-40ed-801e-68d040c29602,06:25:04,06:25:04,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_461cb0dc-c700-40ed-801e-68d040c29602,06:26:04,06:26:04,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_461cb0dc-c700-40ed-801e-68d040c29602,06:27:04,06:27:04,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_461cb0dc-c700-40ed-801e-68d040c29602,06:28:04,06:28:04,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_461cb0dc-c700-40ed-801e-68d040c29602,06:29:04,06:29:04,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_56299a4d-7ab4-4188-b02e-778ee278ef54,06:02:26,06:02:26,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_56299a4d-7ab4-4188-b02e-778ee278ef54,06:03:26,06:03:26,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_56299a4d-7ab4-4188-b02e-778ee278ef54,06:04:26,06:04:26,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_56299a4d-7ab4-4188-b02e-778ee278ef54,06:05:26,06:05:26,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_56299a4d-7ab4-4188-b02e-778ee278ef54,06:06:26,06:06:26,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_56299a4d-7ab4-4188-b02e-778ee278ef54,06:07:26,06:07:26,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_56299a4d-7ab4-4188-b02e-778ee278ef54,06:08:26,06:08:26,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_56299a4d-7ab4-4188-b02e-778ee278ef54,06:09:26,06:09:26,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_56299a4d-7ab4-4188-b02e-778ee278ef54,06:10:26,06:10:26,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_d454ca3c-5926-4af6-b3a8-7608943de1a0,06:22:18,06:22:18,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_d454ca3c-5926-4af6-b3a8-7608943de1a0,06:23:18,06:23:18,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_d454ca3c-5926-4af6-b3a8-7608943de1a0,06:24:18,06:24:18,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_d454ca3c-5926-4af6-b3a8-7608943de1a0,06:25:18,06:25:18,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_d454ca3c-5926-4af6-b3a8-7608943de1a0,06:26:18,06:26:18,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_d454ca3c-5926-4af6-b3a8-7608943de1a0,06:27:18,06:27:18,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_d454ca3c-5926-4af6-b3a8-7608943de1a0,06:28:18,06:28:18,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_d454ca3c-5926-4af6-b3a8-7608943de1a0,06:29:18,06:29:18,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_d454ca3c-5926-4af6-b3a8-7608943de1a0,06:30:18,06:30:18,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_da1dcde0-f3ae-4ffd-be32-d1ba8eeb0455,06:11:17,06:11:17,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_da1dcde0-f3ae-4ffd-be32-d1ba8eeb0455,06:12:17,06:12:17,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_da1dcde0-f3ae-4ffd-be32-d1ba8eeb0455,06:13:17,06:13:17,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_da1dcde0-f3ae-4ffd-be32-d1ba8eeb0455,06:14:17,06:14:17,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_da1dcde0-f3ae-4ffd-be32-d1ba8eeb0455,06:15:17,06:15:17,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_da1dcde0-f3ae-4ffd-be32-d1ba8eeb0455,06:16:17,06:16:17,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_da1dcde0-f3ae-4ffd-be32-d1ba8eeb0455,06:17:17,06:17:17,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_da1dcde0-f3ae-4ffd-be32-d1ba8eeb0455,06:18:17,06:18:17,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_da1dcde0-f3ae-4ffd-be32-d1ba8eeb0455,06:19:17,06:19:17,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_a58b2e52-62d5-4dc2-b7fc-8ef9ddc53e25,06:07:50,06:07:50,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_a58b2e52-62d5-4dc2-b7fc-8ef9ddc53e25,06:08:50,06:08:50,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_a58b2e52-62d5-4dc2-b7fc-8ef9ddc53e25,06:09:50,06:09:50,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_a58b2e52-62d5-4dc2-b7fc-8ef9ddc53e25,06:10:50,06:10:50,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_a58b2e52-62d5-4dc2-b7fc-8ef9ddc53e25,06:11:50,06:11:50,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_a58b2e52-62d5-4dc2-b7fc-8ef9ddc53e25,06:12:50,06:12:50,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_a58b2e52-62d5-4dc2-b7fc-8ef9ddc53e25,06:13:50,06:13:50,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_a58b2e52-62d5-4dc2-b7fc-8ef9ddc53e25,06:14:50,06:14:50,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_a58b2e52-62d5-4dc2-b7fc-8ef9ddc53e25,06:15:50,06:15:50,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_2caa1728-0561-40e6-9393-61489970fec5,06:05:27,06:05:27,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_2caa1728-0561-40e6-9393-61489970fec5,06:06:27,06:06:27,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_2caa1728-0561-40e6-9393-61489970fec5,06:07:27,06:07:27,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_2caa1728-0561-40e6-9393-61489970fec5,06:08:27,06:08:27,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_2caa1728-0561-40e6-9393-61489970fec5,06:09:27,06:09:27,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_2caa1728-0561-40e6-9393-61489970fec5,06:10:27,06:10:27,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_2caa1728-0561-40e6-9393-61489970fec5,06:11:27,06:11:27,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_2caa1728-0561-40e6-9393-61489970fec5,06:12:27,06:12:27,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_2caa1728-0561-40e6-9393-61489970fec5,06:13:27,06:13:27,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_523e0e96-2868-4af8-bfd2-23fd038313f9,06:10:38,06:10:38,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_523e0e96-2868-4af8-bfd2-23fd038313f9,06:11:38,06:11:38,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_523e0e96-2868-4af8-bfd2-23fd038313f9,06:12:38,06:12:38,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_523e0e96-2868-4af8-bfd2-23fd038313f9,06:13:38,06:13:38,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_523e0e96-2868-4af8-bfd2-23fd038313f9,06:14:38,06:14:38,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_523e0e96-2868-4af8-bfd2-23fd038313f9,06:15:38,06:15:38,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_523e0e96-2868-4af8-bfd2-23fd038313f9,06:16:38,06:16:38,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_523e0e96-2868-4af8-bfd2-23fd038313f9,06:17:38,06:17:38,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_523e0e96-2868-4af8-bfd2-23fd038313f9,06:18:38,06:18:38,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_bd69db0d-0f70-4542-912e-c6077b95dc4f,06:10:03,06:10:03,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_bd69db0d-0f70-4542-912e-c6077b95dc4f,06:11:03,06:11:03,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_bd69db0d-0f70-4542-912e-c6077b95dc4f,06:12:03,06:12:03,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_bd69db0d-0f70-4542-912e-c6077b95dc4f,06:13:03,06:13:03,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_bd69db0d-0f70-4542-912e-c6077b95dc4f,06:14:03,06:14:03,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_bd69db0d-0f70-4542-912e-c6077b95dc4f,06:15:03,06:15:03,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_bd69db0d-0f70-4542-912e-c6077b95dc4f,06:16:03,06:16:03,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_bd69db0d-0f70-4542-912e-c6077b95dc4f,06:17:03,06:17:03,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_bd69db0d-0f70-4542-912e-c6077b95dc4f,06:18:03,06:18:03,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_d7a616c8-0f47-47f9-8ab4-93e196dfb3a1,06:15:58,06:15:58,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_d7a616c8-0f47-47f9-8ab4-93e196dfb3a1,06:16:58,06:16:58,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_d7a616c8-0f47-47f9-8ab4-93e196dfb3a1,06:17:58,06:17:58,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_d7a616c8-0f47-47f9-8ab4-93e196dfb3a1,06:18:58,06:18:58,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_d7a616c8-0f47-47f9-8ab4-93e196dfb3a1,06:19:58,06:19:58,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_d7a616c8-0f47-47f9-8ab4-93e196dfb3a1,06:20:58,06:20:58,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_d7a616c8-0f47-47f9-8ab4-93e196dfb3a1,06:21:58,06:21:58,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_d7a616c8-0f47-47f9-8ab4-93e196dfb3a1,06:22:58,06:22:58,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_d7a616c8-0f47-47f9-8ab4-93e196dfb3a1,06:23:58,06:23:58,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_0d01cea0-95af-494e-8d3f-e22fa0f2b2b9,06:17:10,06:17:10,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_0d01cea0-95af-494e-8d3f-e22fa0f2b2b9,06:18:10,06:18:10,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_0d01cea0-95af-494e-8d3f-e22fa0f2b2b9,06:19:10,06:19:10,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_0d01cea0-95af-494e-8d3f-e22fa0f2b2b9,06:20:10,06:20:10,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_0d01cea0-95af-494e-8d3f-e22fa0f2b2b9,06:21:10,06:21:10,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_0d01cea0-95af-494e-8d3f-e22fa0f2b2b9,06:22:10,06:22:10,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_0d01cea0-95af-494e-8d3f-e22fa0f2b2b9,06:23:10,06:23:10,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_0d01cea0-95af-494e-8d3f-e22fa0f2b2b9,06:24:10,06:24:10,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_0d01cea0-95af-494e-8d3f-e22fa0f2b2b9,06:25:10,06:25:10,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_b0866030-a091-4afb-9192-17678fe6cdd2,06:02:16,06:02:16,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_b0866030-a091-4afb-9192-17678fe6cdd2,06:03:16,06:03:16,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_b0866030-a091-4afb-9192-17678fe6cdd2,06:04:16,06:04:16,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_b0866030-a091-4afb-9192-17678fe6cdd2,06:05:16,06:05:16,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_b0866030-a091-4afb-9192-17678fe6cdd2,06:06:16,06:06:16,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_b0866030-a091-4afb-9192-17678fe6cdd2,06:07:16,06:07:16,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_b0866030-a091-4afb-9192-17678fe6cdd2,06:08:16,06:08:16,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_b0866030-a091-4afb-9192-17678fe6cdd2,06:09:16,06:09:16,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_b0866030-a091-4afb-9192-17678fe6cdd2,06:10:16,06:10:16,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_e7a9d01c-7290-4b57-8a51-61c763837e49,06:18:08,06:18:08,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_e7a9d01c-7290-4b57-8a51-61c763837e49,06:19:08,06:19:08,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_e7a9d01c-7290-4b57-8a51-61c763837e49,06:20:08,06:20:08,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_e7a9d01c-7290-4b57-8a51-61c763837e49,06:21:08,06:21:08,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_e7a9d01c-7290-4b57-8a51-61c763837e49,06:22:08,06:22:08,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_e7a9d01c-7290-4b57-8a51-61c763837e49,06:23:08,06:23:08,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_e7a9d01c-7290-4b57-8a51-61c763837e49,06:24:08,06:24:08,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_e7a9d01c-7290-4b57-8a51-61c763837e49,06:25:08,06:25:08,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_e7a9d01c-7290-4b57-8a51-61c763837e49,06:26:08,06:26:08,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_5cf03405-b553-4d28-9c9e-e9fbb795cc93,06:23:24,06:23:24,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_5cf03405-b553-4d28-9c9e-e9fbb795cc93,06:24:24,06:24:24,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_5cf03405-b553-4d28-9c9e-e9fbb795cc93,06:25:24,06:25:24,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_5cf03405-b553-4d28-9c9e-e9fbb795cc93,06:26:24,06:26:24,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_5cf03405-b553-4d28-9c9e-e9fbb795cc93,06:27:24,06:27:24,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_5cf03405-b553-4d28-9c9e-e9fbb795cc93,06:28:24,06:28:24,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_5cf03405-b553-4d28-9c9e-e9fbb795cc93,06:29:24,06:29:24,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_5cf03405-b553-4d28-9c9e-e9fbb795cc93,06:30:24,06:30:24,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_5cf03405-b553-4d28-9c9e-e9fbb795cc93,06:31:24,06:31:24,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_cdd89986-b229-4fc7-9eeb-e109b3023e03,06:18:49,06:18:49,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_cdd89986-b229-4fc7-9eeb-e109b3023e03,06:19:49,06:19:49,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_cdd89986-b229-4fc7-9eeb-e109b3023e03,06:20:49,06:20:49,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_cdd89986-b229-4fc7-9eeb-e109b3023e03,06:21:49,06:21:49,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_cdd89986-b229-4fc7-9eeb-e109b3023e03,06:22:49,06:22:49,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_cdd89986-b229-4fc7-9eeb-e109b3023e03,06:23:49,06:23:49,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_cdd89986-b229-4fc7-9eeb-e109b3023e03,06:24:49,06:24:49,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_cdd89986-b229-4fc7-9eeb-e109b3023e03,06:25:49,06:25:49,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_cdd89986-b229-4fc7-9eeb-e109b3023e03,06:26:49,06:26:49,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_b2e48ddf-40ba-404a-8362-e858b2c6ef1f,06:08:37,06:08:37,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_b2e48ddf-40ba-404a-8362-e858b2c6ef1f,06:09:37,06:09:37,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_b2e48ddf-40ba-404a-8362-e858b2c6ef1f,06:10:37,06:10:37,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_b2e48ddf-40ba-404a-8362-e858b2c6ef1f,06:11:37,06:11:37,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_b2e48ddf-40ba-404a-8362-e858b2c6ef1f,06:12:37,06:12:37,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_b2e48ddf-40ba-404a-8362-e858b2c6ef1f,06:13:37,06:13:37,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_b2e48ddf-40ba-404a-8362-e858b2c6ef1f,06:14:37,06:14:37,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_b2e48ddf-40ba-404a-8362-e858b2c6ef1f,06:15:37,06:15:37,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_b2e48ddf-40ba-404a-8362-e858b2c6ef1f,06:16:37,06:16:37,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_1c6626d5-4c81-4148-bae4-765b0a09b15d,06:29:18,06:29:18,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_1c6626d5-4c81-4148-bae4-765b0a09b15d,06:30:18,06:30:18,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_1c6626d5-4c81-4148-bae4-765b0a09b15d,06:31:18,06:31:18,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_1c6626d5-4c81-4148-bae4-765b0a09b15d,06:32:18,06:32:18,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_1c6626d5-4c81-4148-bae4-765b0a09b15d,06:33:18,06:33:18,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_1c6626d5-4c81-4148-bae4-765b0a09b15d,06:34:18,06:34:18,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_1c6626d5-4c81-4148-bae4-765b0a09b15d,06:35:18,06:35:18,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_1c6626d5-4c81-4148-bae4-765b0a09b15d,06:36:18,06:36:18,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_1c6626d5-4c81-4148-bae4-765b0a09b15d,06:37:18,06:37:18,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_8afae38d-5b27-40dd-80b7-8ab2e4ed8e14,06:03:15,06:03:15,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_8afae38d-5b27-40dd-80b7-8ab2e4ed8e14,06:04:15,06:04:15,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_8afae38d-5b27-40dd-80b7-8ab2e4ed8e14,06:05:15,06:05:15,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_8afae38d-5b27-40dd-80b7-8ab2e4ed8e14,06:06:15,06:06:15,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_8afae38d-5b27-40dd-80b7-8ab2e4ed8e14,06:07:15,06:07:15,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_8afae38d-5b27-40dd-80b7-8ab2e4ed8e14,06:08:15,06:08:15,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_8afae38d-5b27-40dd-80b7-8ab2e4ed8e14,06:09:15,06:09:15,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_8afae38d-5b27-40dd-80b7-8ab2e4ed8e14,06:10:15,06:10:15,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_8afae38d-5b27-40dd-80b7-8ab2e4ed8e14,06:11:15,06:11:15,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_9344f201-84fe-4e2d-92ff-9a9d5a161a1f,06:27:22,06:27:22,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_9344f201-84fe-4e2d-92ff-9a9d5a161a1f,06:28:22,06:28:22,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_9344f201-84fe-4e2d-92ff-9a9d5a161a1f,06:29:22,06:29:22,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_9344f201-84fe-4e2d-92ff-9a9d5a161a1f,06:30:22,06:30:22,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_9344f201-84fe-4e2d-92ff-9a9d5a161a1f,06:31:22,06:31:22,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_9344f201-84fe-4e2d-92ff-9a9d5a161a1f,06:32:22,06:32:22,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_9344f201-84fe-4e2d-92ff-9a9d5a161a1f,06:33:22,06:33:22,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_9344f201-84fe-4e2d-92ff-9a9d5a161a1f,06:34:22,06:34:22,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_9344f201-84fe-4e2d-92ff-9a9d5a161a1f,06:35:22,06:35:22,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0
+TRIP_49b128e9-cda4-4057-ad26-bfc66b110c5f,06:01:20,06:01:20,STOP_5b96f03f-6eec-4bf3-b22c-7004cce17c74,1,Circular Completa,0,0,,0
+TRIP_49b128e9-cda4-4057-ad26-bfc66b110c5f,06:02:20,06:02:20,STOP_b698de68-d829-4b0c-b26b-0c85d4f683fa,2,Circular Completa,0,0,,0
+TRIP_49b128e9-cda4-4057-ad26-bfc66b110c5f,06:03:20,06:03:20,STOP_a721d08d-f6c0-49a0-8ce4-34f7bcd85775,3,Circular Completa,0,0,,0
+TRIP_49b128e9-cda4-4057-ad26-bfc66b110c5f,06:04:20,06:04:20,STOP_c475fa9b-f7ba-45bf-be92-384e0fe2be20,4,Circular Completa,0,0,,0
+TRIP_49b128e9-cda4-4057-ad26-bfc66b110c5f,06:05:20,06:05:20,STOP_1851d31f-ac11-4d06-b887-c752bff94937,5,Circular Completa,0,0,,0
+TRIP_49b128e9-cda4-4057-ad26-bfc66b110c5f,06:06:20,06:06:20,STOP_e03a7908-92ca-4eeb-9698-7b702bf96f94,6,Circular Completa,0,0,,0
+TRIP_49b128e9-cda4-4057-ad26-bfc66b110c5f,06:07:20,06:07:20,STOP_e5ac499c-a524-49d5-9828-bd622a9b3feb,7,Circular Completa,0,0,,0
+TRIP_49b128e9-cda4-4057-ad26-bfc66b110c5f,06:08:20,06:08:20,STOP_0fcc22aa-f437-486d-b467-fa80f387367e,8,Circular Completa,0,0,,0
+TRIP_49b128e9-cda4-4057-ad26-bfc66b110c5f,06:09:20,06:09:20,STOP_a308f0a0-c3ef-4034-953b-2b2588aa6f30,9,Circular Completa,0,0,,0

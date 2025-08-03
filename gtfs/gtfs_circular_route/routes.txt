@@ -1,2 +1,2 @@
-route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
-route_01,0,Linha Circular,Linha Circular - Bairro A,3,FF6600,FFFFFF
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+f3f3d69e-827e-4776-a70d-3f47c43285a0,ROUTE_circular_01,Linha Circular,Linha Circular - Bairro A,,3,http://exemplo.com/tarifas,FF6600,FFFFFF

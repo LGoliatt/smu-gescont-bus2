@@ -1,2 +1,2 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
-0,Empresa de Ônibus Local,http://exemplo.com,America/Sao_Paulo,pt,555-1234,http://exemplo.com/tarifas
+f3f3d69e-827e-4776-a70d-3f47c43285a0,Empresa de Ônibus Local,http://exemplo.com,America/Sao_Paulo,pt,555-1234,http://exemplo.com/tarifas
