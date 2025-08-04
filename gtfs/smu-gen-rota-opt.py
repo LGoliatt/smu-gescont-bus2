@@ -355,8 +355,8 @@ print(distance_matrix)
 
 
 # Chama a função para resolver o TSP
-optimal_route, total_distance = solve_asymmetric_tsp(distance_matrix)
-#optimal_route, total_distance = solve_tsp_asymmetric(distance_matrix)
+#optimal_route, total_distance = solve_asymmetric_tsp(distance_matrix)
+optimal_route, total_distance = solve_tsp_asymmetric(distance_matrix)
 #print("Distância total:", total)
 
 # Imprime os resultados
@@ -365,7 +365,7 @@ print("Distância Total:", total_distance)
 
 
 # Tour ótimo (índices)
-m = plot_tsp_route(coordinates, optimal_route)
+#m = plot_tsp_route(coordinates, optimal_route)
 
 # m.save("rota_tsp_leaflet.html")
 
@@ -373,7 +373,7 @@ m = plot_tsp_route(coordinates, optimal_route)
 # Optimal tour from previous context
 
 # Create map
-#m = create_tsp_map_osrm(coordinates, optimal_route)
+m = create_tsp_map_osrm(coordinates, optimal_route)
 
 # Save map to HTML for testing
 m.save('rota_tsp_leaflet.html')
