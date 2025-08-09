@@ -218,6 +218,7 @@ def build_stop_coordinates(stops, geocode_fallback=True, delay=0.1):
 key = "1rCp6RqilhvGhFNh_iZcesXwgUcR_Cc_kHAU117hV4zQ"
 #key="1EYGny7QH-49pTEkS-bIiFC3W_NzcFcVE6eksDd09CUM" # teste richard
 link='https://docs.google.com/spreadsheet/ccc?key='+key
+print(link)
 link+='&output=csv'
 df = pd.read_csv(link, sep=',')
 
